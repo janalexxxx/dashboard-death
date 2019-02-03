@@ -1,0 +1,199 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <title>Dashboard Death</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" href="style/style.css">
+    <link rel="stylesheet" href="style/addedStyle.css">
+  </head>
+  <body>
+  <div id="container"></div>
+
+  <!-- Insert Html here -->
+  <div id="selectedRectangle"></div>
+  <div id="leftSideContainer">
+    <div id="title">
+    	<div id="titleLogo">
+    		<img src="assets/logo_dashboardDeath.svg"></img>
+    	</div>
+    	<div id="titleText">
+    		<h1>Dashboard Death</h1>
+    		<h3>EINE WOCHE IM ÜBERBLICK</h3>
+    	</div>
+    </div>
+    <div class="selection">
+      <ul>
+        <li><a href="index.html">Alkohol</a></li>
+        <li><a href="drug_use_disorders.html">Drogen</a></li>
+        <li id="selected"><img src="assets/icn_drowning.png"></img><span>Ertrinken</span></li>
+        <li><a href="executions-and-police-conflicts.html">Exekution und Polizeigewalt</a></li>
+        <li><a href="fire-heat-hot-substances.html">Feuer und Hitze</a></li>
+        <li><a href="foreign-body.html">Fremdkörper</a></li>
+        <li><a href="conflicts-and-terrorism.html">Krieg und Terrorismus</a></li>
+				<li><a href="nutritional-deficiencies.html">Mangelernährung</a></li>
+        <li><a href="exposure-to-mechanical-forces.html">Mechanische Kraft</a></li>
+        <li><a href="interpersonal-violence.html">Menschliche Gewalt</a></li>
+        <li><a href="falls.html">Sturz</a></li>
+        <li><a href="self-harm.html">Suizid</a></li>
+        <li><a href="animal_contact.html">Tierkontakt</a></li>
+				<li><a href="poisonings.html">Vergiftung</a></li>
+        <li><a href="transport_injuries.html">Verkehrsunfall</a></li>
+      </ul>
+    </div>
+		<div id="legend">
+			<h3>Legende</h3>
+			<div id="legend-one">
+				<div id="legend-one-left">
+					<img src="assets/legend_one.svg"></img>
+				</div>
+				<div id="legend-one-right">
+					<span id="legend-point-text">Ein Toter</span>
+					<span id="legend-population-text">Bevölkerungsgröße</span>
+				</div>
+			</div>
+			<div id="legend-two">
+				<div id="legend-rate"></div>
+				<span id="legend-rate-text">Häufigkeit (0% - 10+%)</span>
+			</div>
+		</div>
+  </div>
+  <div id="rightSideContainer">
+    <div id="liveTicker">
+      <h1><span id="bigNumber"></span></h1>
+      <p id="title-big-number"></p>
+    </div>
+    <div id="stats-nav">
+    	<h3 id="rankingTitle">Todesanzahl</h3>
+    	<div id="nextBtn"><img src="assets/arrow_right_active.svg"></img></div>
+    	<div id="formerBtn"><img src="assets/arrow_left_inactive.svg"></img></div>
+    </div>
+    <div id="ranking">
+      <table>
+        <tr>
+          <td><span>1</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>2</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+  			<tr>
+          <td><span>3</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>4</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>5</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>6</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>7</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>8</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>9</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+        <tr>
+          <td><span>10</span>.</td>
+          <td>
+            <span></span>
+          </td>
+          <td></td>
+        </tr>
+  			<tr>
+  				<td></td>
+  				<td><div class="bar"></div></td>
+  			</tr>
+      </table>
+    </div>
+    <p id="source">Quelle: Global Health Data Exchange 2017</p>
+  </div>
+
+  <script type="text/javascript" src="/third-party/Detector.js"></script>
+  <script type="text/javascript" src="/third-party/three.min.js"></script>
+  <script type="text/javascript" src="/third-party/Tween.js"></script>
+  <script type="text/javascript" src="/third-party/globe.js"></script>
+  <script type="text/javascript" src="/third-party/data.js"></script>
+  <script>
+    var causeDataLink = "data/causes/unnatural-causes/c2-unintentional-injuries/drowning.json";
+		var numInList = 2;
+  </script>
+  <script type="text/javascript" src="/third-party/script.js"></script>
+  </body>
+
+</html>

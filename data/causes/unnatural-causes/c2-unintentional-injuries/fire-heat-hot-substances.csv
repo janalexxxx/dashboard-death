@@ -1,0 +1,586 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,149,Palestine,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,14.188798246629318,24.268762716643078,10.018783465796508
+1,Deaths,149,Palestine,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,11.732306579656592,19.468873413305914,8.820633048275415
+1,Deaths,149,Palestine,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,25.92110482628591,40.71490425176599,19.322956903215875
+1,Deaths,305,Bermuda,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.1452155972347222,0.1627282376579652,0.12557158329401572
+1,Deaths,305,Bermuda,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.10178170420667793,0.11552972167066078,0.08905801466980463
+1,Deaths,305,Bermuda,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.24699730144140042,0.2698656247751708,0.22424983717875707
+1,Deaths,48,Hungary,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,75.17203333799371,83.09879609981519,67.58720539540401
+1,Deaths,48,Hungary,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,55.24777824894827,61.05767224271588,49.757952388547665
+1,Deaths,48,Hungary,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,130.41981158694196,140.5968668014008,120.74848223753077
+1,Deaths,23,Kiribati,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.40053108211803784,0.5788875483832333,0.2647017584362454
+1,Deaths,23,Kiribati,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.46922355970043106,0.6249541062120073,0.3454388154587854
+1,Deaths,23,Kiribati,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.8697546418184688,1.1192630212487822,0.6721589991469196
+1,Deaths,522,Sudan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,536.5617856155033,944.5609434464287,174.09131622523645
+1,Deaths,522,Sudan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,584.2234346140046,941.3741028982735,235.82457743269754
+1,Deaths,522,Sudan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1120.785220229509,1751.993529546574,483.03990901851057
+1,Deaths,201,Burkina Faso,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,394.9831882162496,572.5324693739132,269.7068198256147
+1,Deaths,201,Burkina Faso,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,344.0199682389529,461.9930910866933,257.37982389982403
+1,Deaths,201,Burkina Faso,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,739.0031564552023,975.7247460322485,556.0186432411625
+1,Deaths,175,Burundi,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,179.66132500022823,259.1275319065489,112.9819706055719
+1,Deaths,175,Burundi,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,151.5970952458003,214.3283233353538,99.5365084738604
+1,Deaths,175,Burundi,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,331.2584202460283,438.26011037292574,231.33794602032134
+1,Deaths,25,Federated States of Micronesia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.7144242596706939,1.1234629105462255,0.3928831829572911
+1,Deaths,25,Federated States of Micronesia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.7598563830079318,1.0807388486957192,0.4494103865606357
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.4742806426786255,2.065175443246349,0.910266186463044
+1,Deaths,99,Uruguay,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,37.981549206165006,43.316999387112126,32.839893975900196
+1,Deaths,99,Uruguay,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,46.79699736160397,54.273603178130585,40.31257306048447
+1,Deaths,99,Uruguay,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,84.77854656776917,93.90769423970349,76.33756271662801
+1,Deaths,74,Andorra,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.45508595229597154,0.6161691860644268,0.34477712692172224
+1,Deaths,74,Andorra,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.32322639739955455,0.4450580141467729,0.23280458763549758
+1,Deaths,74,Andorra,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.7783123496955272,0.9729941106623571,0.6094465953535602
+1,Deaths,176,Comoros,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.85644096637354,15.593179921774507,6.341917854268258
+1,Deaths,176,Comoros,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.54696175799806,12.06767609938882,7.215166270709143
+1,Deaths,176,Comoros,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,19.403402724371624,26.39006291347546,14.658197130881076
+1,Deaths,125,Colombia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,138.70256796359962,159.59486699993448,120.20751995213668
+1,Deaths,125,Colombia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,77.90855803355039,88.70154392289072,68.05952257518635
+1,Deaths,125,Colombia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,216.61112599715008,242.18711285272994,194.2143201828853
+1,Deaths,150,Oman,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.32498624392253,19.756805294722824,8.420519673088883
+1,Deaths,150,Oman,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.772357866741294,7.170200856792814,4.352135794899637
+1,Deaths,150,Oman,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,18.097344110663855,25.490911716988823,13.911118966494264
+1,Deaths,24,Marshall Islands,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.4843477078304395,0.7177214800978466,0.28766811301452727
+1,Deaths,24,Marshall Islands,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.528419212849188,0.7643738391409828,0.2773792641693516
+1,Deaths,24,Marshall Islands,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.0127669206796277,1.3683546637814186,0.63608403342674
+1,Deaths,49,Macedonia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.456421766104508,11.895178908977183,6.191247113312949
+1,Deaths,49,Macedonia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.466540339187602,6.353596427447342,4.446103158234134
+1,Deaths,49,Macedonia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,14.922962105292138,17.688106468952707,11.20727844745665
+1,Deaths,376,Northern Mariana Islands,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.23192675413102312,0.3222760205126576,0.18114345021923664
+1,Deaths,376,Northern Mariana Islands,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.19884665607983257,0.240192380342439,0.16060719450496844
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.430773410210856,0.5238272933595765,0.3649499433488139
+1,Deaths,349,Greenland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.2611351726026174,1.5528888622971175,0.9387146278541694
+1,Deaths,349,Greenland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.0937150692302728,1.50051034558389,0.8814279216494639
+1,Deaths,349,Greenland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.354850241832893,2.8560571024045807,2.0583850696005905
+1,Deaths,102,United States,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2945.9032466772314,3064.390592096344,2839.3596411313074
+1,Deaths,102,United States,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2559.3275235165456,2640.4635177087234,2449.776415050374
+1,Deaths,102,United States,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5505.2307701937825,5650.214582110219,5354.406003973574
+1,Deaths,26,Papua New Guinea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,134.03063172272496,208.55894045234118,50.02234952292076
+1,Deaths,26,Papua New Guinea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,125.9553215099663,183.5951681741421,66.94989262870477
+1,Deaths,26,Papua New Guinea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,259.98595323269154,362.5606604957236,139.2314639293482
+1,Deaths,128,Guatemala,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,153.18569403427585,174.46615504902928,132.4547729224595
+1,Deaths,128,Guatemala,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,109.59096222541267,125.55199492504403,94.69845557842385
+1,Deaths,128,Guatemala,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,262.7766562596885,292.3067301256255,235.06491369451436
+1,Deaths,179,Ethiopia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1073.1607032264162,1516.881631222026,817.2725153421901
+1,Deaths,179,Ethiopia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,940.1931730171232,1298.3094829649501,742.6341273656487
+1,Deaths,179,Ethiopia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2013.3538762435417,2658.6739986857824,1650.8713223841225
+1,Deaths,27,Samoa,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.2966818321127678,2.440254977217825,0.7538922143085335
+1,Deaths,27,Samoa,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.2231976304531813,1.9649328281964071,0.8130740682624485
+1,Deaths,27,Samoa,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.519879462565951,3.9607323607671363,1.679069401374645
+1,Deaths,202,Cameroon,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,293.1306743252309,417.24750855290296,148.36240197846297
+1,Deaths,202,Cameroon,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,269.03108201878933,376.03019646327857,150.70901433910012
+1,Deaths,202,Cameroon,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,562.1617563440199,748.6318583718487,324.8020767448213
+1,Deaths,351,Guam,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.6172099913746861,0.8550529906829748,0.49430151745097106
+1,Deaths,351,Guam,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.5053518957462706,0.5985781088931001,0.40083530536097606
+1,Deaths,351,Guam,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.122561887120956,1.3871141842844088,0.9549790339934996
+1,Deaths,75,Austria,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,46.134556366132486,50.79721767696789,41.92337254402571
+1,Deaths,75,Austria,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,41.524421661579424,45.62839941952207,37.712237750141405
+1,Deaths,75,Austria,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,87.65897802771201,93.82607561029961,82.01581764851665
+1,Deaths,203,Cape Verde,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.47639165266014,4.450099733754489,2.4460209970660745
+1,Deaths,203,Cape Verde,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.0557847167899324,4.548174825275985,2.2374672926882835
+1,Deaths,203,Cape Verde,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.532176369450079,7.996669610531541,5.573453928799163
+1,Deaths,177,Djibouti,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,15.228365318815634,27.142351721728755,8.929439129002533
+1,Deaths,177,Djibouti,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10.577934337111978,16.18701941401727,6.913581970368875
+1,Deaths,177,Djibouti,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,25.806299655927585,42.49406467626122,16.512852738913715
+1,Deaths,151,Qatar,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,17.101092492225742,24.81741239482854,10.870821184915451
+1,Deaths,151,Qatar,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.026635264220102,4.29323734019055,2.2361998537099295
+1,Deaths,151,Qatar,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,20.127727756445843,28.313973581673206,13.411457128799793
+1,Deaths,126,Costa Rica,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,19.333144875002322,21.440769476694015,15.967327059435886
+1,Deaths,126,Costa Rica,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,22.780208643680044,25.262526300378692,20.414250002876845
+1,Deaths,126,Costa Rica,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,42.11335351868238,45.52470558388587,38.51776743081594
+1,Deaths,101,Canada,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,256.86750713599434,279.7653765838456,233.88039520702273
+1,Deaths,101,Canada,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,257.9752581525193,281.5600849797206,236.40179970194322
+1,Deaths,101,Canada,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,514.842765288514,549.5706609699708,484.245413559848
+1,Deaths,154,Tunisia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,93.36063432774769,169.85269215872427,40.43508363391606
+1,Deaths,154,Tunisia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,79.25840737260174,126.92160069213347,35.30652597854536
+1,Deaths,154,Tunisia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,172.61904170034936,283.57624135629425,83.62307911766221
+1,Deaths,51,Poland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,468.97637253436625,513.6710199976328,423.69959478474163
+1,Deaths,51,Poland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,161.6361945864879,178.0834276802503,146.94802900069607
+1,Deaths,51,Poland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,630.6125671208541,678.864727767629,580.0492123373295
+1,Deaths,129,Honduras,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,23.608927496968036,37.27241786117404,16.97311598173338
+1,Deaths,129,Honduras,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,22.126923118862987,30.802467422182186,15.110164734971788
+1,Deaths,129,Honduras,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,45.73585061583106,59.277725013503215,35.353255506708315
+1,Deaths,180,Kenya,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,589.6924163262837,881.8855619902064,452.2491240253426
+1,Deaths,180,Kenya,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,413.37027116376873,610.700306540703,341.53901868371355
+1,Deaths,180,Kenya,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1003.0626874900513,1371.2003224417354,836.1753686150739
+1,Deaths,105,Antigua and Barbuda,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.990778605503301,1.100518203690905,0.8913902516673639
+1,Deaths,105,Antigua and Barbuda,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.8034669790111458,0.8828223944503998,0.7289363407440641
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.7942455845144456,1.9434481248809377,1.65579906039039
+1,Deaths,28,Solomon Islands,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.8155376585639935,9.530157820790707,3.3499800586298494
+1,Deaths,28,Solomon Islands,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.597800261563611,8.9451886797627,4.531919770979988
+1,Deaths,28,Solomon Islands,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.413337920127606,16.9369235270062,9.192218963204098
+1,Deaths,50,Montenegro,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.168169034013682,5.191680085988541,3.4127459779313196
+1,Deaths,50,Montenegro,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.476977381449022,5.764057626726903,3.637362297915952
+1,Deaths,50,Montenegro,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.6451464154627,10.354729223565977,7.499457941374732
+1,Deaths,76,Belgium,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,87.5562597409169,96.28028653952587,79.46979853386347
+1,Deaths,76,Belgium,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,93.98232646391692,104.4016227974417,85.50678452333248
+1,Deaths,76,Belgium,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,181.53858620483356,194.9661070196344,169.2107280023926
+1,Deaths,106,The Bahamas,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.233282038827429,5.920851218697963,4.600003412974603
+1,Deaths,106,The Bahamas,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.6946085353546723,4.2170353989766785,3.2248698197160164
+1,Deaths,106,The Bahamas,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.92789057418209,9.719027980264805,8.110266063552421
+1,Deaths,155,Turkey,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,274.3062583332323,331.7523997102177,184.3334701158172
+1,Deaths,155,Turkey,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,145.8592791430922,176.1794224498225,111.98408593052872
+1,Deaths,155,Turkey,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,420.1655374763243,489.6343509587066,318.5144452887465
+1,Deaths,130,Mexico,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,745.5727357801038,781.3670956499305,652.4271064447607
+1,Deaths,130,Mexico,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,576.9235513442295,594.8890936550897,558.8280926841222
+1,Deaths,130,Mexico,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1322.49628712433,1365.0231667849102,1228.5620094440076
+1,Deaths,127,El Salvador,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,31.83736883996254,50.97138764726573,22.476308068212308
+1,Deaths,127,El Salvador,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,18.048063893487434,27.40336614930409,12.748893023088158
+1,Deaths,127,El Salvador,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,49.88543273344994,73.92226787365344,37.04558016444907
+1,Deaths,181,Madagascar,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,366.37553195145796,538.8264420842424,242.51755036206293
+1,Deaths,181,Madagascar,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,315.74242175548943,431.01637266298883,223.5425725346971
+1,Deaths,181,Madagascar,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,682.117953706946,888.2480241768837,506.26113059388825
+1,Deaths,204,Chad,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,292.3854218283875,473.6297034247513,148.58151436060612
+1,Deaths,204,Chad,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,257.028708210125,404.6685185988597,156.51568936435615
+1,Deaths,204,Chad,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,549.4141300385124,824.5470987009903,340.4141510883112
+1,Deaths,152,Saudi Arabia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,472.9975533670334,702.1129402491133,314.44203632112806
+1,Deaths,152,Saudi Arabia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,236.82521540958555,321.7632546549671,152.33247479794477
+1,Deaths,152,Saudi Arabia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,709.8227687766191,938.4959308016504,489.212710101768
+1,Deaths,178,Eritrea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,91.3219101183805,121.56754903111971,59.08460862894375
+1,Deaths,178,Eritrea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,84.19949079000502,112.41788310610964,59.24309755044504
+1,Deaths,178,Eritrea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,175.5214009083854,219.18673240284176,125.11150848056683
+1,Deaths,54,Slovakia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,31.40534873873978,39.128604030362595,22.21315334333675
+1,Deaths,54,Slovakia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,21.39031790725241,25.5675860514711,17.984958835091753
+1,Deaths,54,Slovakia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,52.795666645992185,61.37992983980294,42.84481946016257
+1,Deaths,6,China,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6787.424663801575,7774.893049071413,4992.075151594866
+1,Deaths,6,China,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4048.096635671469,4524.538635892367,3098.7975891680294
+1,Deaths,6,China,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10835.521299473061,12023.581304968699,8528.328892598542
+1,Deaths,77,Cyprus,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.937130981405887,8.878549234407954,4.460820125020277
+1,Deaths,77,Cyprus,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.2866872036757595,7.135863134532281,3.086706571847213
+1,Deaths,77,Cyprus,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.223818185081633,15.483189314588666,8.061116989677995
+1,Deaths,29,Tonga,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.707676499659239,3.49256679804853,2.048032200969132
+1,Deaths,29,Tonga,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.47175927612753404,0.5875551902749959,0.3703212534057889
+1,Deaths,29,Tonga,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.1794357757867746,3.963716615915867,2.493639460772051
+1,Deaths,156,United Arab Emirates,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,116.1953026506547,170.91602360206693,71.79707704292093
+1,Deaths,156,United Arab Emirates,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,28.702059742956227,40.52859010813333,20.257827081594183
+1,Deaths,156,United Arab Emirates,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,144.89736239361082,197.29651144802173,100.29557475404744
+1,Deaths,385,Puerto Rico,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,22.770437350108406,24.894387415483,20.517361899486044
+1,Deaths,385,Puerto Rico,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,21.39226721056239,23.638485453464238,19.089040196165342
+1,Deaths,385,Puerto Rico,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,44.16270456067077,47.34349586561774,41.18123685343772
+1,Deaths,55,Slovenia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,7.986147783411996,8.95851698876382,7.080465238167914
+1,Deaths,55,Slovenia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.482449605240624,5.052276557997008,3.94906039508976
+1,Deaths,55,Slovenia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.468597388652649,13.6298875082533,11.363929476848176
+1,Deaths,182,Malawi,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,226.44578988553624,320.6213575618418,169.34101951502495
+1,Deaths,182,Malawi,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,191.0948710163177,244.92369480063,149.77006257596042
+1,Deaths,182,Malawi,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,417.5406609018542,519.1320363302887,341.0481087217277
+1,Deaths,153,Syria,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,85.77279623742713,122.15573127174258,60.513073902612426
+1,Deaths,153,Syria,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,51.34726749878731,71.75329004672616,34.950605075927875
+1,Deaths,153,Syria,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,137.12006373621458,180.98258365900827,105.09701692658933
+1,Deaths,108,Belize,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.0039707658660073,3.31984914929596,2.722619254107656
+1,Deaths,108,Belize,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.2453932279986826,1.375022108843317,1.1311549236450076
+1,Deaths,108,Belize,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.24936399386468,4.607727705320973,3.932874579107342
+1,Deaths,157,Yemen,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,409.1246822074975,779.5009572463346,168.4420070545442
+1,Deaths,157,Yemen,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,471.6078633566213,772.7574618771521,191.65377960830816
+1,Deaths,157,Yemen,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,880.7325455641183,1410.823409023961,402.0711352650679
+1,Deaths,30,Vanuatu,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.788104540501556,4.507374872223586,1.3051394284328541
+1,Deaths,30,Vanuatu,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.5369585771216734,3.6417811844530767,1.638411965441786
+1,Deaths,30,Vanuatu,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.325063117623231,7.706245434627495,3.3569899636936955
+1,Deaths,52,Romania,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,263.2629263774362,288.3164814510792,241.10994535312585
+1,Deaths,52,Romania,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,171.76803126689694,187.7645811702393,156.29942795600218
+1,Deaths,52,Romania,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,435.0309576443329,464.3290696522222,406.89037018582934
+1,Deaths,78,Denmark,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,52.45160282815384,58.08721871944435,47.02214653886241
+1,Deaths,78,Denmark,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,46.4429841909637,51.44800739414169,42.31267864976246
+1,Deaths,78,Denmark,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,98.89458701911751,106.39079074807688,91.88484933385108
+1,Deaths,205,Cote d'Ivoire,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,402.08189024607873,529.7958292708619,307.7078928048764
+1,Deaths,205,Cote d'Ivoire,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,340.1792262402117,463.94662925918925,249.74619873077188
+1,Deaths,205,Cote d'Ivoire,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,742.2611164862885,930.4668789757754,580.6292337356768
+1,Deaths,209,Guinea-Bissau,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,24.44896095118834,35.61050702311676,13.514814640747495
+1,Deaths,209,Guinea-Bissau,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,23.90953258234596,32.454979410280835,16.567271420965728
+1,Deaths,209,Guinea-Bissau,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,48.35849353353437,63.04668093934796,32.884347046448546
+1,Deaths,422,"Virgin Islands, U.S.",1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.0651852219887987,1.2400439134635577,0.8624407613612264
+1,Deaths,422,"Virgin Islands, U.S.",2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.7655232810510897,0.8979374756051429,0.6557626495803671
+1,Deaths,422,"Virgin Islands, U.S.",3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.830708503039888,2.0449460161128643,1.5913072986083163
+1,Deaths,107,Barbados,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.6650238478455712,2.9739000338829604,2.3498000045385554
+1,Deaths,107,Barbados,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.4884287730199213,2.781991087431727,2.1687090569042526
+1,Deaths,107,Barbados,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.15345262086548,5.556627878984497,4.698241393893934
+1,Deaths,7,North Korea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,167.42123439178428,274.86890467552985,83.51494786525039
+1,Deaths,7,North Korea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,144.8368092567595,213.00834700197834,96.17678313597469
+1,Deaths,7,North Korea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,312.25804364854423,453.67061506950006,200.19190679747808
+1,Deaths,80,France,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,632.7967732275907,694.1467795606331,575.8715444504433
+1,Deaths,80,France,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,577.8855303648011,634.0342057211354,524.9704087082887
+1,Deaths,80,France,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1210.6823035923917,1291.8597406528697,1133.923779065477
+1,Deaths,109,Cuba,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,48.269352241457625,55.958791006749365,41.444539545357955
+1,Deaths,109,Cuba,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,61.2813176386465,70.41932484072751,53.129390184677334
+1,Deaths,109,Cuba,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,109.55066988010412,121.58443491448809,98.80904419664563
+1,Deaths,16,Philippines,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,611.1234337888596,712.4956012397025,516.4841311155021
+1,Deaths,16,Philippines,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,575.705618915604,665.4571207803217,496.25719034258725
+1,Deaths,16,Philippines,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1186.8290527044633,1335.3927755618815,1055.0743471999504
+1,Deaths,210,Liberia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,47.4177449180529,94.29536241625269,25.60619604191688
+1,Deaths,210,Liberia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,39.87319900836492,56.960889248311354,24.195656997992863
+1,Deaths,210,Liberia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,87.29094392641777,131.47205490241515,54.16370976313469
+1,Deaths,206,The Gambia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,22.953707959883907,37.42833706172999,13.597609931424545
+1,Deaths,206,The Gambia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,25.5395612969286,33.4866036900626,19.120690645529635
+1,Deaths,206,The Gambia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,48.49326925681252,65.15999204276939,35.60887227891887
+1,Deaths,79,Finland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,52.777065975739724,58.486591664030804,47.49758627268257
+1,Deaths,79,Finland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,20.67270450388795,23.059717836035027,18.61709904973904
+1,Deaths,79,Finland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,73.44977047962765,79.31999763974865,68.04653397380397
+1,Deaths,110,Dominica,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.798307992058881,0.890760238042597,0.720080163941095
+1,Deaths,110,Dominica,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.7345938405954081,0.8165493536395574,0.6594285566493785
+1,Deaths,110,Dominica,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.5329018326542896,1.660360857805425,1.4150713914900899
+1,Deaths,53,Serbia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,63.497920766289816,77.67595071252394,48.147240069029834
+1,Deaths,53,Serbia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,45.70435134439051,55.5424040300906,31.331274496750787
+1,Deaths,53,Serbia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,109.20227211068038,125.62876075313025,87.69634426181133
+1,Deaths,8,Taiwan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,106.2463761202489,115.68216877694861,96.94683526101778
+1,Deaths,8,Taiwan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,104.75458619914929,113.67605366265919,96.60825482247039
+1,Deaths,8,Taiwan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,211.00096231939838,224.6164455487949,199.1116999184783
+1,Deaths,17,Sri Lanka,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,187.98718586658208,277.3518701570665,137.38299453855524
+1,Deaths,17,Sri Lanka,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,230.73463156973563,295.7860645154167,175.12982514654996
+1,Deaths,17,Sri Lanka,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,418.72181743631717,529.3445629112198,338.3405434580386
+1,Deaths,211,Mali,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,411.25796159065277,676.8248248042875,217.39974009097384
+1,Deaths,211,Mali,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,363.9559409274665,600.0842864628119,165.0548113849432
+1,Deaths,211,Mali,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,775.2139025181177,1177.5634692396554,466.13286690469903
+1,Deaths,33,Armenia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,19.97485996521793,21.821987942175433,17.908285647964696
+1,Deaths,33,Armenia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,16.911933393149432,18.367689373957642,15.485089875994165
+1,Deaths,33,Armenia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,36.88679335836736,39.36573628173285,34.03446372950116
+1,Deaths,13,Malaysia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,213.79346060435677,259.9060099551435,146.7737591314027
+1,Deaths,13,Malaysia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,174.81440127224568,211.59022353940887,122.20298304999704
+1,Deaths,13,Malaysia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,388.60786187660113,447.4968588731599,282.59393464222194
+1,Deaths,18,Thailand,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,470.15044898966954,577.7886084003933,311.7352933534697
+1,Deaths,18,Thailand,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,341.68758696023696,427.49144329505276,234.7849352414084
+1,Deaths,18,Thailand,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,811.8380359499062,978.2319995125506,586.4346185218053
+1,Deaths,207,Ghana,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,384.31700386512466,522.0099379711679,282.8493141845549
+1,Deaths,207,Ghana,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,254.62519016904088,337.9058636800845,200.04098483066036
+1,Deaths,207,Ghana,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,638.9421940341658,796.7173295029975,523.045557313942
+1,Deaths,83,Iceland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.0244438554101225,2.2223461822858184,1.8473308205078112
+1,Deaths,83,Iceland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.1155207405593033,1.2274667629338203,1.0176856042352516
+1,Deaths,83,Iceland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.1399645959694196,3.371752900026456,2.935037623039855
+1,Deaths,35,Georgia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,119.5685639224827,135.09107830926988,106.14994675476973
+1,Deaths,35,Georgia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,58.677346205189686,64.6961293965223,52.27204072650494
+1,Deaths,35,Georgia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,178.2459101276728,196.3786316134819,162.20207761560079
+1,Deaths,14,Maldives,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.7309092851683086,4.069558591715782,2.212146674201844
+1,Deaths,14,Maldives,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.3745300379402152,1.6617577958279701,1.1652667154375873
+1,Deaths,14,Maldives,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.105439323108518,5.532289776152421,3.510320520961418
+1,Deaths,84,Ireland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,24.273003826171518,27.01155208025514,21.673199591571016
+1,Deaths,84,Ireland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,17.034355375874608,19.0522605231678,15.180247875249869
+1,Deaths,84,Ireland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,41.307359202046165,44.74833699023767,37.678123209465724
+1,Deaths,34,Azerbaijan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,254.34120522724058,437.7877146792362,174.1109387883141
+1,Deaths,34,Azerbaijan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,138.8625122225171,191.33416757943,104.43628544295221
+1,Deaths,34,Azerbaijan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,393.20371744975756,608.0104342910545,292.63122393436305
+1,Deaths,111,Dominican Republic,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,82.14727220714526,116.49667469416706,59.764689491270175
+1,Deaths,111,Dominican Republic,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,50.33455043930443,60.71614124639359,39.17576829330704
+1,Deaths,111,Dominican Republic,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,132.48182264644967,166.5670852619832,105.61526867034186
+1,Deaths,81,Germany,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,423.8723996741407,486.213372056498,370.39247161835726
+1,Deaths,81,Germany,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,353.066100696758,402.6967526090726,305.4250230637931
+1,Deaths,81,Germany,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,776.9385003708985,855.1681509436097,706.1969639068795
+1,Deaths,57,Belarus,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,430.15849106874373,480.0092564707609,385.7313092663894
+1,Deaths,57,Belarus,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,192.98309215239095,211.85201136079678,174.04159385792406
+1,Deaths,57,Belarus,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,623.1415832211336,677.6884128279548,573.2090677401404
+1,Deaths,36,Kazakhstan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,305.1735535699164,334.7332496532151,270.3606245445694
+1,Deaths,36,Kazakhstan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,128.77006702643445,145.85104944462802,114.51383630373353
+1,Deaths,36,Kazakhstan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,433.94362059635097,474.96705966070135,393.54566315264424
+1,Deaths,435,South Sudan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,241.8867660316843,393.6495201283498,130.83441574311607
+1,Deaths,435,South Sudan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,185.61483882106705,310.50078880170946,110.26123582028752
+1,Deaths,435,South Sudan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,427.50160485275103,639.3236537338908,265.21023377360933
+1,Deaths,82,Greece,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,72.05531388521024,79.66768368051629,65.17104007641207
+1,Deaths,82,Greece,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,69.97506367065154,77.30268398997934,62.470082899792374
+1,Deaths,82,Greece,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,142.03037755586192,152.73568307686278,132.48035934870205
+1,Deaths,131,Nicaragua,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,14.231306314738708,23.591018652103156,10.358421681424907
+1,Deaths,131,Nicaragua,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,13.126981588861437,17.822866663214615,10.472767513675972
+1,Deaths,131,Nicaragua,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,27.35828790360019,38.00128260489512,21.84410927747204
+1,Deaths,208,Guinea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,188.90468228299835,292.7008984616792,108.0077198038265
+1,Deaths,208,Guinea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,174.49633646582043,244.49223617119125,110.83676878402389
+1,Deaths,208,Guinea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,363.40101874881884,494.3770394092037,237.95095631751087
+1,Deaths,38,Mongolia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,64.96439940326019,92.70561469828388,42.52934728589963
+1,Deaths,38,Mongolia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,36.00700549112937,67.32130993479532,12.584265467188063
+1,Deaths,38,Mongolia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,100.97140489438954,152.82712025080124,57.06039040409309
+1,Deaths,15,Myanmar,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,161.708394305711,278.91079507472847,109.1342803529094
+1,Deaths,15,Myanmar,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,158.9145653048719,217.33087086632727,125.18308752806972
+1,Deaths,15,Myanmar,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,320.6229596105827,462.4926533306343,245.87999681459286
+1,Deaths,141,Egypt,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,947.8791649710348,1391.459819126009,664.3783137222684
+1,Deaths,141,Egypt,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1054.5378199217412,1443.2472395911254,625.5027227738226
+1,Deaths,141,Egypt,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2002.4169848927754,2582.9502062715605,1381.683493975218
+1,Deaths,10,Cambodia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,129.5790776780024,195.61493720608414,73.44570727008394
+1,Deaths,10,Cambodia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,125.64658453282453,169.4527344266869,96.61384175070198
+1,Deaths,10,Cambodia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,255.22566221082687,346.73617452166405,189.8397767799018
+1,Deaths,58,Estonia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,40.574543827811205,48.390530120826654,34.020853474476176
+1,Deaths,58,Estonia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,16.33967150956531,19.38002823299647,13.743132975828836
+1,Deaths,58,Estonia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,56.91421533737646,65.39702765665436,49.579662885460166
+1,Deaths,37,Kyrgyzstan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,64.99269807844054,72.11698286083991,58.26569214213815
+1,Deaths,37,Kyrgyzstan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,30.778682333757526,34.92469197439402,27.089717426976414
+1,Deaths,37,Kyrgyzstan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,95.77138041219816,104.65046119195227,87.65917603555219
+1,Deaths,115,Jamaica,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,17.060669169852606,20.484439477923914,13.071204721265232
+1,Deaths,115,Jamaica,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,17.502446426746854,21.039429050028346,14.687301644400433
+1,Deaths,115,Jamaica,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,34.56311559659941,39.311879411139365,30.107125425955495
+1,Deaths,39,Tajikistan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,158.45842728921576,236.1701233552219,118.94030271876548
+1,Deaths,39,Tajikistan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,84.17566031275128,138.01657219045745,58.86137406214818
+1,Deaths,39,Tajikistan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,242.6340876019672,351.29246348177753,185.00347336733458
+1,Deaths,193,Botswana,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,34.426584346821244,63.03286731495382,19.760401013064943
+1,Deaths,193,Botswana,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,28.822129064311262,42.576887589407725,20.66461636609124
+1,Deaths,193,Botswana,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,63.24871341113258,98.96261667631862,42.96965511745063
+1,Deaths,142,Iran,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1065.9121252564782,1264.3000914095499,811.1324920073007
+1,Deaths,142,Iran,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,874.5867056518046,1011.1538244505034,764.9065045053618
+1,Deaths,142,Iran,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1940.4988309082864,2157.3683068893333,1647.9236837292156
+1,Deaths,160,Afghanistan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,184.0095487642966,256.1905527387104,128.85829758244714
+1,Deaths,160,Afghanistan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,300.7878561175657,420.50762301146005,211.65381836839893
+1,Deaths,160,Afghanistan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,484.797404881863,613.5770577267134,383.3578817743305
+1,Deaths,132,Panama,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,16.035952686927324,18.17601815753018,14.220100934826117
+1,Deaths,132,Panama,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.517658830443871,9.490067871334832,7.687617372945538
+1,Deaths,132,Panama,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,24.55361151737116,27.00774767863211,22.375989957208958
+1,Deaths,168,Angola,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,370.822609678446,521.9200074720093,271.21238961030707
+1,Deaths,168,Angola,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,340.66074456474854,441.5562953702996,250.84226804556343
+1,Deaths,168,Angola,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,711.4833542431944,916.2783546345094,548.6177056369353
+1,Deaths,135,Brazil,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1045.6021018303416,1077.4312829538696,1014.2950110811066
+1,Deaths,135,Brazil,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,638.6982472702987,660.0686214153384,617.2772582998585
+1,Deaths,135,Brazil,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1684.3003491006416,1727.6343760711652,1643.643106045057
+1,Deaths,40,Turkmenistan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,69.18190124698953,79.71104823052374,58.12373301892535
+1,Deaths,40,Turkmenistan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,47.050627439069395,53.87718291901439,40.229546712918975
+1,Deaths,40,Turkmenistan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,116.23252868605896,130.94021734133898,101.14043558492303
+1,Deaths,117,Saint Vincent and the Grenadines,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.3912916177557408,1.5174678540269118,1.2665441556023411
+1,Deaths,117,Saint Vincent and the Grenadines,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.8802110554826807,0.9702143935366474,0.798372061242385
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.2715026732384214,2.434342784639532,2.121935621138118
+1,Deaths,85,Israel,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,44.04289617268739,48.73482703014924,39.90472429313999
+1,Deaths,85,Israel,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,33.607995512993156,37.29362524736196,30.309009115041462
+1,Deaths,85,Israel,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,77.65089168568045,83.62973611459385,72.38737072864025
+1,Deaths,44,Bosnia and Herzegovina,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,25.399224401531484,32.103370603344345,18.865698790995978
+1,Deaths,44,Bosnia and Herzegovina,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,15.411812500731882,22.00143816486506,12.290072843455587
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,40.81103690226333,51.318568576914075,32.91491294100537
+1,Deaths,194,Lesotho,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,66.18738907875425,88.32269703025207,42.11410467718967
+1,Deaths,194,Lesotho,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,42.00753221961781,59.88916861949221,29.291142538608945
+1,Deaths,194,Lesotho,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,108.194921298372,135.86008557822714,80.31248682240198
+1,Deaths,116,Saint Lucia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.9058767680902713,2.120093923548061,1.6844696510267405
+1,Deaths,116,Saint Lucia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.153408952965077,1.2751590232936163,1.0446955595216165
+1,Deaths,116,Saint Lucia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.0592857210553492,3.310390156993513,2.8152153419300667
+1,Deaths,11,Indonesia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,958.3190180678934,1113.2671282591991,687.6644492684998
+1,Deaths,11,Indonesia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,800.3595116331085,948.7792946035576,700.0952606139922
+1,Deaths,11,Indonesia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1758.6785297010017,1931.2713005079354,1472.6799277927146
+1,Deaths,185,Rwanda,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,161.6836211012044,259.6114001259148,108.7281122808253
+1,Deaths,185,Rwanda,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,157.66192440934742,253.8794087553109,111.92566375940416
+1,Deaths,185,Rwanda,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,319.345545510552,489.68878716286633,233.75730416103417
+1,Deaths,69,Singapore,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.154897949402939,9.05699297365087,7.351144486240143
+1,Deaths,69,Singapore,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.7247902319979636,5.263320906112502,4.270178084233654
+1,Deaths,69,Singapore,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.879688181400905,13.8901837366196,11.923764696163966
+1,Deaths,118,Suriname,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.926278196789846,6.747762580114598,5.1463806917277
+1,Deaths,118,Suriname,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.108078000089791,4.6254433404769495,3.60946667912218
+1,Deaths,118,Suriname,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10.034356196879633,11.008729841246964,9.069389950361563
+1,Deaths,67,Japan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1145.570594274032,1205.7256852547653,1080.5497323291243
+1,Deaths,67,Japan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,777.4745763965141,813.3216118966556,744.5950049723236
+1,Deaths,67,Japan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1923.045170670544,1992.1515111855185,1852.6644579941953
+1,Deaths,161,Bangladesh,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,583.973821187967,903.6663345655973,434.9326839038055
+1,Deaths,161,Bangladesh,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1087.341791481702,1647.7262792644503,807.5808303133746
+1,Deaths,161,Bangladesh,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1671.3156126696679,2276.3721353405604,1336.5744577372686
+1,Deaths,184,Mozambique,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,496.6312463314005,704.4518675540139,359.7937290677838
+1,Deaths,184,Mozambique,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,401.9706282317008,565.1432183120412,295.3042787816888
+1,Deaths,184,Mozambique,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,898.6018745631011,1139.1743145778967,719.3561788600491
+1,Deaths,133,Venezuela,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,152.8007310054583,183.62610951603713,126.03325472616602
+1,Deaths,133,Venezuela,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,66.26300025632499,78.038872738316,55.43757467428102
+1,Deaths,133,Venezuela,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,219.06373126178335,253.4281761078071,189.29806137087795
+1,Deaths,171,Democratic Republic of the Congo,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1073.8122174624914,1746.7297434970596,565.1820308096459
+1,Deaths,171,Democratic Republic of the Congo,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1019.4013103928168,1611.4439556731886,467.85320643495373
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2093.213527855309,2926.601579279308,1105.654101919977
+1,Deaths,136,Paraguay,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,35.47036576115639,47.07725640729906,26.112286087756235
+1,Deaths,136,Paraguay,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,21.82183530945725,29.649173398799835,16.64722864450446
+1,Deaths,136,Paraguay,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,57.292201070613665,72.3781597970041,47.361165946527265
+1,Deaths,163,India,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,7161.165852239635,9108.303541369483,5351.638923755896
+1,Deaths,163,India,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,19865.819841561824,24011.67866309201,12015.692428469665
+1,Deaths,163,India,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,27026.98569380147,31467.783028128364,18671.9023631064
+1,Deaths,119,Trinidad and Tobago,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.525050222560989,15.318115213210792,10.103699488277364
+1,Deaths,119,Trinidad and Tobago,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,11.949682602387963,14.864502568252066,9.46730401809005
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,24.47473282494899,28.497291763561257,20.933006841782493
+1,Deaths,212,Mauritania,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,36.00214317629102,61.33429947149461,19.921857704936205
+1,Deaths,212,Mauritania,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,31.76637870311066,43.279210488160295,22.608494695146106
+1,Deaths,212,Mauritania,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,67.76852187940177,98.16558149483237,44.983589317337135
+1,Deaths,169,Central African Republic,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,87.82589548126823,157.65503745001632,36.90848515586759
+1,Deaths,169,Central African Republic,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,89.42435176892181,139.1445188660376,34.58876083024084
+1,Deaths,169,Central African Republic,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,177.2502472501902,282.3621509758233,79.02140059845529
+1,Deaths,41,Uzbekistan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,426.8924943920378,501.87891320481907,367.41905421075325
+1,Deaths,41,Uzbekistan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,252.69770110965905,293.6951724100325,214.93745358685672
+1,Deaths,41,Uzbekistan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,679.5901955016963,766.0415843593894,605.1662071124134
+1,Deaths,170,Congo,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,53.286184984501574,86.45827030962083,32.24425913397437
+1,Deaths,170,Congo,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,61.49137586680798,86.8329608580514,25.264563338457986
+1,Deaths,170,Congo,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,114.77756085130963,155.01731957363972,70.68254560359159
+1,Deaths,187,Somalia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,306.40249573428974,531.3395963868828,188.23571903725488
+1,Deaths,187,Somalia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,243.97679556088144,371.0157071783551,159.41732380563437
+1,Deaths,187,Somalia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,550.3792912951707,816.547754124029,375.6641476846505
+1,Deaths,43,Albania,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10.701454657675844,17.520338471687474,7.617809187597741
+1,Deaths,43,Albania,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.095889180263552,8.81790285652488,4.446385130562255
+1,Deaths,43,Albania,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,16.79734383793939,24.738146817595908,12.936925087231923
+1,Deaths,45,Bulgaria,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,70.1540577270161,77.69913846625371,62.389166351375714
+1,Deaths,45,Bulgaria,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,39.10264416554247,43.37021090825357,35.03659106253158
+1,Deaths,45,Bulgaria,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,109.25670189255861,118.06974099376536,99.95337283905118
+1,Deaths,143,Iraq,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,172.91149070214811,228.51055418644378,142.49914344719843
+1,Deaths,143,Iraq,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,255.77654289424603,311.6492123722698,204.45717565825137
+1,Deaths,143,Iraq,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,428.6880335963944,511.9272239023772,360.77744904737915
+1,Deaths,12,Laos,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,68.13220620114346,101.07932673335029,31.826550161659664
+1,Deaths,12,Laos,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,67.87814841564163,90.45466839265346,48.97913882933895
+1,Deaths,12,Laos,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,136.01035461678512,182.08023640952322,91.65556039502239
+1,Deaths,60,Lithuania,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,52.26916150361518,58.74343227469553,46.643241968681444
+1,Deaths,60,Lithuania,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,25.528258604567835,28.324333277790014,22.68617059252249
+1,Deaths,60,Lithuania,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,77.79742010818298,85.09817612298187,71.20210726045657
+1,Deaths,186,Seychelles,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.517987234694103,3.1522012404335054,2.008362523009941
+1,Deaths,186,Seychelles,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.314560428412178,1.5649738430395528,0.9303881088749738
+1,Deaths,186,Seychelles,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.8325476631062765,4.456598028191752,3.078628675748619
+1,Deaths,183,Mauritius,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.704049180243588,14.223442142946084,11.333939327922051
+1,Deaths,183,Mauritius,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,14.68599915671029,16.44267040245541,13.082859388937822
+1,Deaths,183,Mauritius,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,27.390048336953903,29.821850397274467,25.269864078655168
+1,Deaths,121,Bolivia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,103.4391523939393,148.9982753526361,71.49490161746859
+1,Deaths,121,Bolivia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,81.92593899095618,104.20898502405421,57.972281784835054
+1,Deaths,121,Bolivia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,185.36509138489546,235.77607698320458,136.3731798275743
+1,Deaths,213,Niger,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,367.4776431074584,716.2680506301554,188.20147106006468
+1,Deaths,213,Niger,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,289.650370792837,522.1568360962999,144.63246511992924
+1,Deaths,213,Niger,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,657.1280139002963,1106.787491976718,402.018363241337
+1,Deaths,46,Croatia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,24.171878162423017,26.862709481201378,21.506688576803477
+1,Deaths,46,Croatia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,21.678842829632583,24.304791749833953,19.324446410808754
+1,Deaths,46,Croatia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,45.850720992055564,49.46359062832194,42.34985409995231
+1,Deaths,112,Grenada,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.6086938451784556,1.7645718545647835,1.4500820577355855
+1,Deaths,112,Grenada,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.296424998868017,1.443939893213359,1.148287705482949
+1,Deaths,112,Grenada,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.905118844046475,3.132308978687859,2.674121976131957
+1,Deaths,189,Tanzania,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,719.0524763169191,1082.5733182103977,535.3514510110022
+1,Deaths,189,Tanzania,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,740.4532017220348,970.274325126072,575.0519691940384
+1,Deaths,189,Tanzania,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1459.505678038953,1933.4017073141933,1178.7720581187582
+1,Deaths,162,Bhutan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.048370914187262,6.9702353706515785,2.398195037808962
+1,Deaths,162,Bhutan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,5.784218454285535,8.799787498823038,3.281518074938295
+1,Deaths,162,Bhutan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.8325893684728,14.69309089709591,6.315677081009342
+1,Deaths,172,Equatorial Guinea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10.84173842598401,17.364628191053065,6.540196188962989
+1,Deaths,172,Equatorial Guinea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.122925223459118,14.50786132451243,5.403304144447442
+1,Deaths,172,Equatorial Guinea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,19.96466364944313,30.310226891520237,12.654798523661203
+1,Deaths,122,Ecuador,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,129.39929077146664,146.0268347411496,113.88460940635267
+1,Deaths,122,Ecuador,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,86.23409368477259,97.55129638571971,76.69227841952353
+1,Deaths,122,Ecuador,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,215.63338445623887,236.23866228595276,196.50758795538684
+1,Deaths,86,Italy,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,439.38375058996354,485.25853996070776,400.6702310104664
+1,Deaths,86,Italy,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,467.6651048838694,513.3541928005536,422.5778688271198
+1,Deaths,86,Italy,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,907.0488554738329,966.374980815414,846.9063296238381
+1,Deaths,216,Senegal,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,208.2197189447177,348.14675516894135,125.05925521479473
+1,Deaths,216,Senegal,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,164.0215692937054,246.04771167478646,118.20748227118648
+1,Deaths,216,Senegal,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,372.2412882384228,563.0023091674715,256.6915032195538
+1,Deaths,47,Czech Republic,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,73.14261942243662,80.65151779306761,66.4311249615461
+1,Deaths,47,Czech Republic,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,73.9375684722814,81.80544354047703,66.58362628499475
+1,Deaths,47,Czech Republic,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,147.08018789471794,158.71453771212444,136.53415277251923
+1,Deaths,217,Sierra Leone,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,110.90759161697193,160.53329290445495,60.55818434557134
+1,Deaths,217,Sierra Leone,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,106.37778510369118,154.73857475800378,57.38776267128744
+1,Deaths,217,Sierra Leone,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,217.28537672066298,295.3148637000144,124.49692178268666
+1,Deaths,139,Algeria,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,348.90515045529384,568.1019445125208,168.95010774846114
+1,Deaths,139,Algeria,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,387.0521129166881,600.9397431519936,176.33375447970485
+1,Deaths,139,Algeria,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,735.957263371982,1131.0720100161236,372.8768370740361
+1,Deaths,113,Guyana,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,7.3933768234802635,8.617456213185063,6.1570766457635635
+1,Deaths,113,Guyana,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.00966333438476,6.996387756661045,5.133024591861726
+1,Deaths,113,Guyana,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,13.403040157865009,15.044447941488848,11.767981731197649
+1,Deaths,87,Luxembourg,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.1583355605884673,2.487752445913572,1.8883352015256087
+1,Deaths,87,Luxembourg,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.623862938449394,3.0367425163572044,2.243293442940956
+1,Deaths,87,Luxembourg,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4.782198499037855,5.2798115845977645,4.285126713613201
+1,Deaths,215,Sao Tome and Principe,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.5698442193256795,1.1162003653658812,0.35124824765687895
+1,Deaths,215,Sao Tome and Principe,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.42269342639373503,0.544712030236413,0.22681181192812394
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.9925376457194135,1.5638223284662682,0.6705762235572227
+1,Deaths,95,United Kingdom,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,328.3179218916097,336.53994817356903,319.573756429025
+1,Deaths,95,United Kingdom,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,298.2597820507157,304.4043592068997,291.53154095844303
+1,Deaths,95,United Kingdom,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,626.5777039423243,637.0767851782854,614.5577990046502
+1,Deaths,97,Argentina,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,402.04228098545315,461.88064331294623,352.52447417195447
+1,Deaths,97,Argentina,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,354.3277531604644,401.38325384875503,310.13671812192683
+1,Deaths,97,Argentina,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,756.3700341459169,835.3307815232806,687.5689417097477
+1,Deaths,68,South Korea,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,336.27372435949974,375.2450560313215,298.8282154801331
+1,Deaths,68,South Korea,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,277.75531105686923,306.6282239535059,251.28563271441462
+1,Deaths,68,South Korea,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,614.0290354163689,661.8127738342565,563.4915430179807
+1,Deaths,59,Latvia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,79.05151365072183,91.46282028860955,67.62789685444936
+1,Deaths,59,Latvia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,40.93198254810058,48.54466395001085,34.27572060309036
+1,Deaths,59,Latvia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,119.98349619882258,134.09566807562038,107.22563067183152
+1,Deaths,191,Zambia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,228.44955695251718,315.6915247960344,170.1039658499652
+1,Deaths,191,Zambia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,193.84021059462876,251.96869557192693,150.2057419184055
+1,Deaths,191,Zambia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,422.28976754714614,530.476685778205,341.7514264341474
+1,Deaths,98,Chile,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,230.0943543680616,265.6553316987651,200.49156817047125
+1,Deaths,98,Chile,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,131.48157010402153,151.10489615163837,113.1055517024771
+1,Deaths,98,Chile,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,361.5759244720832,403.8037155426485,324.4098685134067
+1,Deaths,123,Peru,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,225.1284462192368,339.6977086496595,157.95433118971394
+1,Deaths,123,Peru,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,153.52611665259403,193.98916974386665,117.66710703656014
+1,Deaths,123,Peru,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,378.65456287183054,516.6863950381771,287.8750839071187
+1,Deaths,214,Nigeria,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2076.860823824453,3102.8538727540304,1002.8272673359053
+1,Deaths,214,Nigeria,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2007.8872881538941,3070.679005689397,1035.6018915704133
+1,Deaths,214,Nigeria,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4084.7481119783474,5957.204027328578,2182.508725559764
+1,Deaths,90,Norway,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,46.98826862155411,49.28653419817199,44.41192391984577
+1,Deaths,90,Norway,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,44.98584463533429,46.877358457468695,43.09406049684985
+1,Deaths,90,Norway,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,91.97411325688843,94.91169692545587,88.55858588769284
+1,Deaths,195,Namibia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,45.08704657561522,64.06922501758457,31.584872914842357
+1,Deaths,195,Namibia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,30.344388943440443,48.75605037343707,19.91859412133658
+1,Deaths,195,Namibia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,75.43143551905564,104.71213641923832,58.00951801197252
+1,Deaths,89,Netherlands,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,62.9680363488747,68.83613334889475,56.87314985857692
+1,Deaths,89,Netherlands,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,90.24279452742229,98.87862825853549,81.26334018023323
+1,Deaths,89,Netherlands,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,153.21083087629708,163.46621726079897,142.39645132416467
+1,Deaths,62,Russian Federation,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,4704.11609323247,4852.244236786927,4529.871301108378
+1,Deaths,62,Russian Federation,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2358.5690186551146,2441.335409761564,2279.843121901542
+1,Deaths,62,Russian Federation,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,7062.6851118875875,7249.754835093647,6844.2826031394525
+1,Deaths,91,Portugal,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,130.29971307691153,137.86196652244718,122.76972756851268
+1,Deaths,91,Portugal,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,105.84430450177142,112.88269830762974,99.44587636890205
+1,Deaths,91,Portugal,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,236.1440175786828,245.55116095313258,226.66214808253415
+1,Deaths,165,Pakistan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1559.3662133311889,2672.1695063629036,983.9970682003211
+1,Deaths,165,Pakistan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1043.721447465629,1436.6274533496603,775.4280336918997
+1,Deaths,165,Pakistan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2603.08766079682,3898.8280507162017,1909.3033057585003
+1,Deaths,19,Timor-Leste,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,9.991834116581272,15.101193444159481,5.834982800351968
+1,Deaths,19,Timor-Leste,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.505815482402596,11.253560598098712,5.098605421828664
+1,Deaths,19,Timor-Leste,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,18.49764959898387,25.140046442877665,11.50361114342388
+1,Deaths,72,New Zealand,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,13.699811927007207,14.799045138862219,12.709566694895608
+1,Deaths,72,New Zealand,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.924654910310055,9.648556305994632,8.273638936488547
+1,Deaths,72,New Zealand,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,22.62446683731725,24.044851001324037,21.3438116643323
+1,Deaths,63,Ukraine,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1394.9236745200974,1520.1281970697257,1283.1532778518401
+1,Deaths,63,Ukraine,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,545.6260090677172,591.3148985964236,503.52169765269275
+1,Deaths,63,Ukraine,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1940.549683587816,2071.5509571945063,1820.114997651357
+1,Deaths,140,Bahrain,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,7.246795092040889,10.935285337374706,4.977020204362668
+1,Deaths,140,Bahrain,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.1439360281184774,3.885976969083102,2.4160297859862196
+1,Deaths,140,Bahrain,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,10.390731120159364,14.196126990485451,7.772812681272357
+1,Deaths,61,Moldova,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,80.48371786363043,87.69366494254089,73.72438863925855
+1,Deaths,61,Moldova,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,38.37203009365671,41.95673947131361,34.908604584062765
+1,Deaths,61,Moldova,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,118.85574795728701,127.01696029928871,111.07588983790716
+1,Deaths,114,Haiti,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,162.4726764465568,265.4485769791862,57.732488194592655
+1,Deaths,114,Haiti,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,160.6836503874344,231.63053370815012,89.88136068114432
+1,Deaths,114,Haiti,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,323.1563268339916,468.2577247299832,181.66744996224287
+1,Deaths,93,Sweden,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,100.13277617379357,108.59938169576328,92.09127197607499
+1,Deaths,93,Sweden,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,76.36215873735377,82.81674428386515,70.34443466848059
+1,Deaths,93,Sweden,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,176.49493491114723,187.19671986950453,166.20704490146542
+1,Deaths,145,Kuwait,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,23.140705926317516,26.139164008930823,20.27859100243825
+1,Deaths,145,Kuwait,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,8.958127962329518,10.076082758795348,7.92646463483095
+1,Deaths,145,Kuwait,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,32.09883388864707,35.16147904374547,29.15793689762348
+1,Deaths,88,Malta,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1.7475812607669277,1.9078459767462896,1.5849016376262126
+1,Deaths,88,Malta,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.8692239546535836,0.9704887859363277,0.7791088753993911
+1,Deaths,88,Malta,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.6168052154205133,2.806781625540541,2.4361396882506146
+1,Deaths,94,Switzerland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,21.063725639933704,23.793162454468163,18.982455651236457
+1,Deaths,94,Switzerland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,20.190528825203263,22.316784200679656,18.096196207247786
+1,Deaths,94,Switzerland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,41.25425446513692,44.570491423628816,38.230203181315105
+1,Deaths,190,Uganda,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,449.3113262998262,616.3263500443306,313.5463291010854
+1,Deaths,190,Uganda,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,373.24416285387935,541.4845486867407,270.1971018222528
+1,Deaths,190,Uganda,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,822.5554891537071,1102.7050036002947,618.7076881773612
+1,Deaths,196,South Africa,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1127.1271040349138,1555.397479975617,820.1686132234174
+1,Deaths,196,South Africa,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,800.840316602213,1033.6975582828945,643.7965899293348
+1,Deaths,196,South Africa,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,1927.9674206371276,2451.3906264810726,1533.6696591561056
+1,Deaths,20,Vietnam,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,322.8245056109281,463.9126640582181,246.7364767012609
+1,Deaths,20,Vietnam,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,207.68669683995293,267.38382975300283,143.14568088373883
+1,Deaths,20,Vietnam,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,530.5112024508808,657.327832154923,443.21879195969274
+1,Deaths,164,Nepal,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,125.4848493121841,194.18869471437603,85.71515962993867
+1,Deaths,164,Nepal,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,247.05158746189562,385.06037157868195,154.0210637712069
+1,Deaths,164,Nepal,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,372.5364367740796,538.2979184249555,256.06481390627715
+1,Deaths,71,Australia,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,82.46476712223614,93.5375848748557,72.15087226458701
+1,Deaths,71,Australia,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,79.67920903624692,90.65744554850247,69.58591044196169
+1,Deaths,71,Australia,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,162.14397615848287,176.97832097563335,147.62426662982685
+1,Deaths,66,Brunei,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,3.5245030721773807,4.379587212618441,2.6559688374692407
+1,Deaths,66,Brunei,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,2.5287026605152225,2.976267455255832,2.0087442804360154
+1,Deaths,66,Brunei,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,6.0532057326926045,7.055507912437464,4.947487236423279
+1,Deaths,173,Gabon,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,20.219594283314997,33.66140261314232,11.531313233158096
+1,Deaths,173,Gabon,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,15.063617137646473,23.007318480953742,8.955993220706613
+1,Deaths,173,Gabon,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,35.28321142096148,52.227999584538615,23.06875054655871
+1,Deaths,218,Togo,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,70.69111146481933,105.16230504335539,40.061440608401846
+1,Deaths,218,Togo,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,63.52094771079945,86.48868272065425,41.6903841584872
+1,Deaths,218,Togo,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,134.21205917561863,178.89021366698944,86.27098982762952
+1,Deaths,144,Jordan,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,76.05396384992422,96.38664599423386,57.66468368466139
+1,Deaths,144,Jordan,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,55.81425208055077,74.35272630394206,45.34272515985334
+1,Deaths,144,Jordan,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,131.86821593047492,162.36122898316071,109.57427237266381
+1,Deaths,298,American Samoa,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.2295636806385966,0.3256498945491217,0.18254109573747299
+1,Deaths,298,American Samoa,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.2843033176113907,0.3408549006407918,0.21002368439774266
+1,Deaths,298,American Samoa,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,0.5138669982499885,0.6173938945517252,0.428035781632548
+1,Deaths,198,Zimbabwe,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,259.04715588584907,348.45465799439324,167.16970535886207
+1,Deaths,198,Zimbabwe,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,333.1992036221927,433.6714528962257,195.81359524670432
+1,Deaths,198,Zimbabwe,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,592.246359508042,738.1616905908014,429.2340761415543
+1,Deaths,197,Swaziland,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,30.468431215665802,42.551406000288345,19.050059687233976
+1,Deaths,197,Swaziland,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,17.438228703057288,26.040063379044042,11.307124909830886
+1,Deaths,197,Swaziland,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,47.906659918722994,61.9894674902005,35.74363247094372
+1,Deaths,146,Lebanon,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,63.40230288624536,137.58898411951932,27.842732475874804
+1,Deaths,146,Lebanon,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,48.95034157593572,74.75805304598269,20.019196239648593
+1,Deaths,146,Lebanon,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,112.35264446218109,191.7405230104652,52.72891100353095
+1,Deaths,200,Benin,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,133.80922873214666,206.90811899682643,79.79214991518432
+1,Deaths,200,Benin,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,125.9222227057097,176.83230694120192,84.03127416026351
+1,Deaths,200,Benin,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,259.73145143785683,363.6339535915855,172.68444235854966
+1,Deaths,92,Spain,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,198.48586989279235,217.65444830540065,180.48510218977637
+1,Deaths,92,Spain,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,144.1961688106427,157.62159468212562,132.06557894786377
+1,Deaths,92,Spain,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,342.6820387034349,367.635710479108,321.0537770960548
+1,Deaths,147,Libya,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,68.86069089920247,118.92186967003639,20.42217900129533
+1,Deaths,147,Libya,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,66.31919636976625,110.68244778291606,17.255716095476995
+1,Deaths,147,Libya,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,135.1798872689688,217.74605998209137,40.39743417766864
+1,Deaths,22,Fiji,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,12.40250071502837,15.480554248189318,9.137840599872632
+1,Deaths,22,Fiji,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,18.75637107893566,22.533125339939495,14.792629868469362
+1,Deaths,22,Fiji,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,31.15887179396406,36.32485015556318,26.17427051199227
+1,Deaths,148,Morocco,1,Male,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,394.8146879913966,631.9135430554215,188.79734241193208
+1,Deaths,148,Morocco,2,Female,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,455.9195681068261,718.1944027068316,183.71355855820525
+1,Deaths,148,Morocco,3,Both,22,All Ages,699,"Fire, heat, and hot substances",1,Number,2017,850.7342560982248,1238.6863093288114,412.0963975019403

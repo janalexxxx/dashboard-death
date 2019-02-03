@@ -1,0 +1,586 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,23,Kiribati,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.009862747071991628,0.011938458058854342,0.008023075496223494
+1,Deaths,23,Kiribati,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.012057331059521238,0.017692668087689573,0.00833137704078463
+1,Deaths,23,Kiribati,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.021920078131512807,0.027933544125376217,0.017776801046331434
+1,Deaths,176,Comoros,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.04356219859133143,0.052781638801961135,0.03606018279910705
+1,Deaths,176,Comoros,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.04521421828447215,0.054271875366718236,0.037765210311356455
+1,Deaths,176,Comoros,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.08877641687580354,0.10402273106587145,0.07556909491213293
+1,Deaths,98,Chile,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8719851298438014,0.9902541326399494,0.7661919773651598
+1,Deaths,98,Chile,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9037015276070498,1.031419706723818,0.7847151095757632
+1,Deaths,98,Chile,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.77568665745085,1.9561139018132707,1.6071486325608069
+1,Deaths,200,Benin,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.1706726529957208,2.2980517374845872,2.0560598166790163
+1,Deaths,200,Benin,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0100111750299603,1.1361708735956788,0.8874352635619895
+1,Deaths,200,Benin,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.1806838280256824,3.3978897415709937,2.983668144620518
+1,Deaths,74,Andorra,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0040182433173037895,0.004645153176616341,0.0034412454074144562
+1,Deaths,74,Andorra,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.003778861534147178,0.004480336258887126,0.003174632083594022
+1,Deaths,74,Andorra,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.007797104851450971,0.008778371068442526,0.0069214873930815496
+1,Deaths,305,Bermuda,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0035161741383475955,0.003920227574632374,0.0031694152356159335
+1,Deaths,305,Bermuda,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.003145100843962994,0.003531625315606626,0.0027701013245502743
+1,Deaths,305,Bermuda,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.006661274982310591,0.0072332141354987485,0.006087636265392572
+1,Deaths,150,Oman,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.086659624285037,3.93991813647939,1.0367436203888936
+1,Deaths,150,Oman,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1776198816695994,0.21594178123503965,0.15114101021793772
+1,Deaths,150,Oman,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.2642795059546392,4.1158422353694375,1.2176457002705119
+1,Deaths,125,Colombia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,168.90753971151432,247.63067982377933,111.6874262887998
+1,Deaths,125,Colombia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,17.755283759676605,26.46494567667292,11.625810231170055
+1,Deaths,125,Colombia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,186.66282347119116,265.8535626599694,129.46022502298987
+1,Deaths,24,Marshall Islands,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0035620291729108852,0.004184647600468241,0.0030037630154252045
+1,Deaths,24,Marshall Islands,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.003792637509174061,0.004579739150096283,0.003045385436028021
+1,Deaths,24,Marshall Islands,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.007354666682084955,0.008531572366120729,0.006340599635708028
+1,Deaths,99,Uruguay,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.15917105631955478,0.17906771828943985,0.14025079822923125
+1,Deaths,99,Uruguay,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1705718226567646,0.1954225552466975,0.14778652527374775
+1,Deaths,99,Uruguay,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3297428789763196,0.362235806954518,0.2996777461585866
+1,Deaths,177,Djibouti,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07096718284797304,0.096063501352888,0.05472882583759544
+1,Deaths,177,Djibouti,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.05399026048468443,0.073111722083359,0.03877502507126332
+1,Deaths,177,Djibouti,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.12495744333265753,0.1673889385371858,0.09398192319583536
+1,Deaths,149,Palestine,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,22.154136431401316,22.224791807232165,22.112937127629177
+1,Deaths,149,Palestine,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,5.462110952963633,5.492465579860083,5.435266138959635
+1,Deaths,149,Palestine,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,27.616247384364954,27.709511435242476,27.55223005340374
+1,Deaths,351,Guam,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0081338601891865,0.008891558462691908,0.007437919002040009
+1,Deaths,351,Guam,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.008289318985410321,0.00908385388183318,0.007505525294933749
+1,Deaths,351,Guam,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.016423179174596826,0.01760462807283342,0.015269619557667613
+1,Deaths,49,Macedonia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.12583791851543347,0.1375429888909754,0.1163341941334395
+1,Deaths,49,Macedonia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14203608325780853,0.16005994888988617,0.12984606027424245
+1,Deaths,49,Macedonia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.26787400177324155,0.2923949789853081,0.25051911009595323
+1,Deaths,202,Cameroon,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,70.09858644672249,70.44883075715786,69.7936298671607
+1,Deaths,202,Cameroon,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,18.83193723960685,19.110719530032732,18.52576311033035
+1,Deaths,202,Cameroon,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,88.93052368632947,89.43645427132208,88.41549991912173
+1,Deaths,175,Burundi,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,33.13735997328856,33.25735264990258,33.05113156609229
+1,Deaths,175,Burundi,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,8.74948029750611,8.826914655538456,8.676544532132263
+1,Deaths,175,Burundi,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,41.8868402707947,42.05596407043775,41.75666492924651
+1,Deaths,349,Greenland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0033112188691647323,0.0037052524296342245,0.002937584621363962
+1,Deaths,349,Greenland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004755641790594467,0.007570202395572149,0.002680320457870193
+1,Deaths,349,Greenland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0080668606597592,0.01084665702601591,0.0058175886558973254
+1,Deaths,48,Hungary,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4105472951591512,0.43822899334236987,0.38467943994643905
+1,Deaths,48,Hungary,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4353249696914595,0.4692941607237127,0.40477100209221245
+1,Deaths,48,Hungary,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8458722648506098,0.8902134368793636,0.8030149136257884
+1,Deaths,201,Burkina Faso,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,16.544383070412607,16.751736471833485,16.35206465992301
+1,Deaths,201,Burkina Faso,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,5.464123390227083,5.6480465846187204,5.300369083036147
+1,Deaths,201,Burkina Faso,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,22.00850646063972,22.339454328750758,21.70102874626891
+1,Deaths,75,Austria,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4604319986530756,0.5168253790946381,0.40918254642657825
+1,Deaths,75,Austria,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4270318472690784,0.464111857402922,0.3950448339503826
+1,Deaths,75,Austria,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8874638459221532,0.9616817466613012,0.8230062723296899
+1,Deaths,102,United States,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,594.3258700090303,676.2078560312609,527.4472534900389
+1,Deaths,102,United States,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,25.65090295488119,28.019420450829873,23.300699911480592
+1,Deaths,102,United States,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,619.9767729639117,700.4177370967036,552.8604972545232
+1,Deaths,178,Eritrea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.4067547948601875,1.5505792113612593,1.2774509351660572
+1,Deaths,178,Eritrea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5548475371666257,0.647366883564455,0.4760360050867073
+1,Deaths,178,Eritrea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.9616023320268143,2.1326104570913484,1.8029798691672394
+1,Deaths,126,Costa Rica,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.21557217827749478,0.23273666388586473,0.19854907268419852
+1,Deaths,126,Costa Rica,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.23213914930484975,0.25168861288091465,0.21386299586867655
+1,Deaths,126,Costa Rica,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4477113275823437,0.4762852749896286,0.4197421374847323
+1,Deaths,151,Qatar,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3506312959454619,0.48663029183897705,0.26201263480443693
+1,Deaths,151,Qatar,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0556005500300447,0.06599902199228089,0.04578350948984908
+1,Deaths,151,Qatar,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4062318459755062,0.5464338191212459,0.31311119247631347
+1,Deaths,522,Sudan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,111.99927839499946,118.57283646253191,102.37613813312494
+1,Deaths,522,Sudan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,26.90496839177767,27.327791467949567,26.502933800777413
+1,Deaths,522,Sudan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,138.90424678677695,145.44827266933845,129.50167233197956
+1,Deaths,101,Canada,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,15.611116006288807,22.578221494759685,10.845179275179346
+1,Deaths,101,Canada,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.450346248972401,2.935405298671542,2.0734210495071315
+1,Deaths,101,Canada,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,18.061462255261194,24.942882166431623,13.197637346936073
+1,Deaths,376,Northern Mariana Islands,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.029892660220966837,0.0531020073404399,0.0022522341193943578
+1,Deaths,376,Northern Mariana Islands,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.003306270488928286,0.006450680257660284,0.002069446956140296
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03319893070989508,0.056263429012236826,0.004645203905578639
+1,Deaths,77,Cyprus,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07911051420458058,0.08866668338319804,0.0704819073516163
+1,Deaths,77,Cyprus,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06972457389910693,0.0777120040644793,0.06200893316895589
+1,Deaths,77,Cyprus,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14883508810368748,0.1617996970990423,0.13685926480453947
+1,Deaths,76,Belgium,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5353349176245901,0.5751406799515113,0.49507462591030976
+1,Deaths,76,Belgium,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5472950340970073,0.5927225431833455,0.506469195779458
+1,Deaths,76,Belgium,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0826299517215985,1.14585517438813,1.0158522698233985
+1,Deaths,78,Denmark,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.27627744806637017,0.2998158016181629,0.2549369522043574
+1,Deaths,78,Denmark,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.28583751545945235,0.3110317820088506,0.2626950253651901
+1,Deaths,78,Denmark,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5621149635258214,0.5971593306107347,0.5285943175549035
+1,Deaths,179,Ethiopia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,272.82722818940726,273.42506266799774,272.231970970275
+1,Deaths,179,Ethiopia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,70.96263577665546,71.70805973381526,70.22483217070182
+1,Deaths,179,Ethiopia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,343.78986396606297,344.9463875260645,342.5923274998596
+1,Deaths,50,Montenegro,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03181770043556132,0.035469494390409896,0.028139917703394583
+1,Deaths,50,Montenegro,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.032175767581003385,0.03520467860880364,0.029202522738351718
+1,Deaths,50,Montenegro,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06399346801656469,0.06903455030428923,0.05908784248585936
+1,Deaths,154,Tunisia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,6.160131974030214,8.810078021970902,2.138549590339985
+1,Deaths,154,Tunisia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9588893164920266,1.1060230414079835,0.8338578071209317
+1,Deaths,154,Tunisia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,7.119021290522256,9.73676331170315,3.2236338684128194
+1,Deaths,203,Cape Verde,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03221979795447645,0.03654546667847058,0.028736195905363172
+1,Deaths,203,Cape Verde,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.032106932773465165,0.03542165499615522,0.028666295739680013
+1,Deaths,203,Cape Verde,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0643267307279416,0.07120554805758947,0.05844078671682316
+1,Deaths,25,Federated States of Micronesia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.006630930766902126,0.008282564174230372,0.0044828577337719605
+1,Deaths,25,Federated States of Micronesia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.006197777703769696,0.007931561658349748,0.003947064906409647
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.012828708470671836,0.015407138850300095,0.008539573016804108
+1,Deaths,152,Saudi Arabia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.081726585561258,2.647733859593906,1.631247707000246
+1,Deaths,152,Saudi Arabia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.463158946527122,1.8359586009626767,1.1815118071159265
+1,Deaths,152,Saudi Arabia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.544885532088381,4.221410827715554,3.018390655412615
+1,Deaths,180,Kenya,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,151.92791428880227,152.25140382453276,151.66930123559436
+1,Deaths,180,Kenya,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,38.97284165790028,39.24137287783345,38.71580484624687
+1,Deaths,180,Kenya,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,190.90075594670265,191.38680161370533,190.45507462731888
+1,Deaths,79,Finland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.26622266650646936,0.28807846476769255,0.24731404868892762
+1,Deaths,79,Finland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.27162647706153653,0.29556243237322455,0.2500867679104923
+1,Deaths,79,Finland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5378491435680062,0.5708051916326502,0.507195880224727
+1,Deaths,127,El Salvador,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3088196620419765,0.3783618177689,0.25112011234067727
+1,Deaths,127,El Salvador,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3415992237522685,0.42004781145794506,0.2768188526908421
+1,Deaths,127,El Salvador,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6504188857942451,0.7696321952283006,0.5516231631716191
+1,Deaths,29,Tonga,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.005704956010026547,0.006637126533523354,0.004936248882984089
+1,Deaths,29,Tonga,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.005199764682059706,0.006322166630365386,0.004235944400977076
+1,Deaths,29,Tonga,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.010904720692086266,0.012394037986086997,0.009559459902550345
+1,Deaths,51,Poland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.247524362523343,2.526560904804078,2.017610296120069
+1,Deaths,51,Poland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.114049252892864,5.444351626332992,3.0975454407430796
+1,Deaths,51,Poland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6.3615736154162,7.685465289177186,5.320739818730898
+1,Deaths,155,Turkey,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.970370002192046,5.41754860201492,4.546237513346736
+1,Deaths,155,Turkey,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.035494502010708,4.483155875159494,3.6619017296592804
+1,Deaths,155,Turkey,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,9.005864504202751,9.676862734049342,8.385388869016886
+1,Deaths,54,Slovakia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.24035083595617507,0.26683701784396546,0.21788585877366415
+1,Deaths,54,Slovakia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.29824681705372785,0.32671746596510776,0.2724145114689495
+1,Deaths,54,Slovakia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.538597653009903,0.5864963289600836,0.49889512196347785
+1,Deaths,181,Madagascar,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,31.58330505789781,31.895894909235913,31.327327450900675
+1,Deaths,181,Madagascar,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,8.788910327539703,9.059714930964324,8.573762930868288
+1,Deaths,181,Madagascar,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,40.372215385437464,40.8357073626419,39.986566165389256
+1,Deaths,156,United Arab Emirates,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,8.184220142657125,14.336899774444504,1.1094853141925565
+1,Deaths,156,United Arab Emirates,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.31871537239869996,0.40865423878882245,0.24639891372275333
+1,Deaths,156,United Arab Emirates,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,8.502935515055823,14.611514124165181,1.394219091889215
+1,Deaths,30,Vanuatu,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0321176556420029,0.04115238385249161,0.02395732180349098
+1,Deaths,30,Vanuatu,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03237400425539444,0.04399611401940635,0.023011985236811534
+1,Deaths,30,Vanuatu,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06449165989739711,0.08570441094289576,0.04717957457022152
+1,Deaths,204,Chad,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.140974413389007,3.2813198522358435,3.023794527723047
+1,Deaths,204,Chad,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.3741328455897972,1.5015101193862552,1.252882143497655
+1,Deaths,204,Chad,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.515107258978811,4.724448855262165,4.308455554560381
+1,Deaths,26,Papua New Guinea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5951149359850342,0.7172184276313347,0.4751978521117785
+1,Deaths,26,Papua New Guinea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5897125086202915,0.7306403711882666,0.46394493589165714
+1,Deaths,26,Papua New Guinea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.184827444605328,1.3856444602110394,1.017378402762113
+1,Deaths,153,Syria,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,15.955614867663327,24.017297035143294,11.632560642348603
+1,Deaths,153,Syria,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.7626024626138452,3.0109914323753624,2.5849169361168007
+1,Deaths,153,Syria,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,18.71821733027716,26.74793062058563,14.389876955459792
+1,Deaths,55,Slovenia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.09467049512564404,0.10229474156981551,0.08676887100554076
+1,Deaths,55,Slovenia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.09804346823385633,0.10841008741339081,0.08868548356531057
+1,Deaths,55,Slovenia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19271396335950078,0.20559467528947656,0.1798964508709974
+1,Deaths,182,Malawi,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,6.443082060297701,6.613205080631567,6.282728336333092
+1,Deaths,182,Malawi,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.3978609295245716,2.57276009848575,2.2318938228846275
+1,Deaths,182,Malawi,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,8.840942989822281,9.12258958516691,8.571274010081837
+1,Deaths,131,Nicaragua,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.313403126630809,0.3714163661539361,0.2718283517777917
+1,Deaths,131,Nicaragua,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3572441950030408,0.4155225846469198,0.30260156643719677
+1,Deaths,131,Nicaragua,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6706473216338502,0.7695075445253452,0.591371300535189
+1,Deaths,128,Guatemala,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8970554686434021,1.0088851483610222,0.7969624112743526
+1,Deaths,128,Guatemala,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9092228202409736,1.0307737017072351,0.8006963728954857
+1,Deaths,128,Guatemala,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8062782888843765,2.0014529195655375,1.6409519272219633
+1,Deaths,6,China,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,699.0295321023364,806.4758935157759,621.0178932406004
+1,Deaths,6,China,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,75.40845332532744,82.15212621991245,64.3348882771487
+1,Deaths,6,China,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,774.437985427664,873.7647754322054,698.0702416921629
+1,Deaths,52,Romania,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.650275191263426,2.0127635902890093,1.3467850913626547
+1,Deaths,52,Romania,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.996191495628249,1.0629568684502253,0.9256852681587288
+1,Deaths,52,Romania,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.6464666868916757,3.024221666844531,2.3276992370165193
+1,Deaths,183,Mauritius,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06296963215609774,0.0680146711568129,0.05810667452772272
+1,Deaths,183,Mauritius,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06669907919294298,0.07339709168208769,0.060934210633651585
+1,Deaths,183,Mauritius,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.12966871134904084,0.13887387496682427,0.12122006590170287
+1,Deaths,132,Panama,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.21236461766916206,0.2338200431204643,0.1919281744807175
+1,Deaths,132,Panama,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.20474107559341825,0.2256024210981245,0.18502102435285003
+1,Deaths,132,Panama,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.41710569326258057,0.45442716780607384,0.3835799389085199
+1,Deaths,10,Cambodia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.487390489541242,4.156485462842681,0.8166151308112986
+1,Deaths,10,Cambodia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.7470468953163961,0.9136527486758359,0.6342080969001341
+1,Deaths,10,Cambodia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.2344373848576335,5.038740153337466,1.662316783478324
+1,Deaths,157,Yemen,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,11.481148444102212,17.22293494926829,4.1365653516553
+1,Deaths,157,Yemen,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.1622902321812076,2.555078048257585,1.799880783554279
+1,Deaths,157,Yemen,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,13.6434386762834,19.606771192020656,6.375078110880287
+1,Deaths,205,Cote d'Ivoire,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,17.033912438716776,17.33062522284828,16.777712816061612
+1,Deaths,205,Cote d'Ivoire,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.80631845711256,5.017603992920717,4.5873828242808905
+1,Deaths,205,Cote d'Ivoire,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,21.84023089582934,22.262990357522998,21.452720824514117
+1,Deaths,184,Mozambique,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,10.5114801939944,10.84382046379086,10.224379835519798
+1,Deaths,184,Mozambique,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.93811378572773,4.232412823901147,3.6737767534621444
+1,Deaths,184,Mozambique,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,14.449593979722124,14.990832180017621,13.980097432025723
+1,Deaths,109,Cuba,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5882009021191761,0.6746683596440275,0.5122542331122713
+1,Deaths,109,Cuba,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.585938599803497,0.6695183664670621,0.5115097903283563
+1,Deaths,109,Cuba,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.1741395019226724,1.2929546486804182,1.0675128998613106
+1,Deaths,209,Guinea-Bissau,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10416641534728381,0.13639000457090072,0.07473346911145447
+1,Deaths,209,Guinea-Bissau,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10728632757331827,0.133800206157997,0.08434565184749764
+1,Deaths,209,Guinea-Bissau,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.21145274292060232,0.2567428526569707,0.1684783132269774
+1,Deaths,12,Laos,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8879256936210458,2.573207556729397,1.1888415109987858
+1,Deaths,12,Laos,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5768981724395366,0.647157839694174,0.4956127775629287
+1,Deaths,12,Laos,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.4648238660605872,3.1482378102940216,1.7591038875730984
+1,Deaths,129,Honduras,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6031776856501513,0.7497738732559374,0.4798513844916413
+1,Deaths,129,Honduras,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6477455269102271,0.8428084803648251,0.4956204440418569
+1,Deaths,129,Honduras,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.2509232125603784,1.5372978309811172,1.009168274851653
+1,Deaths,435,South Sudan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,220.21103683760535,220.37150155114162,220.073899655739
+1,Deaths,435,South Sudan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,56.77854543755579,56.88740652896685,56.67891936210085
+1,Deaths,435,South Sudan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,276.98958227516084,277.245950238179,276.76088355061916
+1,Deaths,105,Antigua and Barbuda,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.018889025624511068,0.027853226827424207,0.012369966134118381
+1,Deaths,105,Antigua and Barbuda,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004719767045456405,0.005206859897322696,0.004302488708416575
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.02360879266996749,0.03266904885887043,0.01714064983953445
+1,Deaths,27,Samoa,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.010864083920086576,0.013219542899519448,0.00854052136818782
+1,Deaths,27,Samoa,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.010578427115242555,0.012966928129096897,0.008116005590201328
+1,Deaths,27,Samoa,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.021442511035329136,0.02517650490264878,0.017543014246634524
+1,Deaths,11,Indonesia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,41.2317831240419,50.05776859141225,15.89028869561281
+1,Deaths,11,Indonesia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,11.66632922649382,12.748038828206601,10.741701283547306
+1,Deaths,11,Indonesia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,52.89811235053574,62.14356816798652,27.87119124736863
+1,Deaths,53,Serbia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4351023180833762,0.4776140512982348,0.39438713402880626
+1,Deaths,53,Serbia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4196090166699288,0.46031169386144577,0.38595325207650627
+1,Deaths,53,Serbia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8547113347533052,0.9159330041216917,0.794801775965462
+1,Deaths,385,Puerto Rico,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.18495091239767286,0.19904259245325231,0.17134246201922643
+1,Deaths,385,Puerto Rico,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.2057041588022937,0.22334751009906426,0.18873069305854517
+1,Deaths,385,Puerto Rico,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.39065507119996695,0.4145329141798803,0.36890483722814493
+1,Deaths,7,North Korea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,8.487596827311343,14.70578293867757,4.715361582729295
+1,Deaths,7,North Korea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.5812221430534392,1.985949287136971,1.2596211656974743
+1,Deaths,7,North Korea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,10.068818970364783,16.27415785498327,6.314696747025453
+1,Deaths,133,Venezuela,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,328.3047761799139,455.7787294511053,242.1516838013029
+1,Deaths,133,Venezuela,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,35.75632801585161,36.062673555935326,35.486925996198785
+1,Deaths,133,Venezuela,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,364.06110419576504,491.52870899603283,277.86003523475773
+1,Deaths,206,The Gambia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.5155276130939055,2.5688032219591004,2.470096599910878
+1,Deaths,206,The Gambia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.743013865277064,0.7745592673789607,0.7155315276358
+1,Deaths,206,The Gambia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.2585414783709705,3.3275560782647227,3.1934088598696637
+1,Deaths,110,Dominica,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004605842981914833,0.005017123204288101,0.004242209064363985
+1,Deaths,110,Dominica,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004205426796183044,0.004611464048245885,0.0038150739294686587
+1,Deaths,110,Dominica,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.00881126977809786,0.009461707263027672,0.008197001752061978
+1,Deaths,35,Georgia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19152172216596855,0.20418814631747603,0.18049120846007577
+1,Deaths,35,Georgia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19834570581096284,0.21131678770379872,0.18670414564191382
+1,Deaths,35,Georgia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.38986742797693125,0.41205680157038593,0.37000780884284235
+1,Deaths,185,Rwanda,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6625495202507304,0.8115845986324968,0.5532855654280414
+1,Deaths,185,Rwanda,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.68350032451151,0.8057187752986992,0.5529607355207995
+1,Deaths,185,Rwanda,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.3460498447622398,1.5562025983275345,1.139132391352928
+1,Deaths,135,Brazil,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,593.643555150868,718.7495292183494,487.702662709355
+1,Deaths,135,Brazil,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,13.116621132439423,13.660009164942476,12.635760285089042
+1,Deaths,135,Brazil,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,606.7601762833069,731.7154524225267,500.7092261468171
+1,Deaths,210,Liberia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.826285093835073,1.8870988645599454,1.7850132524858973
+1,Deaths,210,Liberia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6040784342618112,0.6484090912050499,0.563113364665116
+1,Deaths,210,Liberia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.4303635280968834,2.5305813058982354,2.3592195775600757
+1,Deaths,13,Malaysia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,6.787052312078979,10.665862208479025,1.4751098241264322
+1,Deaths,13,Malaysia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.2436448658964356,1.3962105160705778,1.0957929696776665
+1,Deaths,13,Malaysia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,8.030697177975407,11.960228796603035,2.7936516907033093
+1,Deaths,212,Mauritania,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.24825787736667007,0.29947675289994774,0.20213345361036186
+1,Deaths,212,Mauritania,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.22713065537153865,0.272427674990362,0.187228154672214
+1,Deaths,212,Mauritania,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.47538853273820864,0.5605028697697855,0.4003467261946059
+1,Deaths,36,Kazakhstan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,51.422933999902945,79.59800903485052,33.35089331025318
+1,Deaths,36,Kazakhstan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9107931549889056,1.0007696888012605,0.8283383478478205
+1,Deaths,36,Kazakhstan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,52.33372715489185,80.52106154514968,34.26247616144352
+1,Deaths,28,Solomon Islands,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.034866671483319206,0.04170160589265737,0.02840629562090438
+1,Deaths,28,Solomon Islands,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03441933312249561,0.041591108079988955,0.027999621620023726
+1,Deaths,28,Solomon Islands,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06928600460581479,0.07953571796743253,0.0594232917950126
+1,Deaths,111,Dominican Republic,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.654763260759484,0.7587646350303979,0.5614086308147597
+1,Deaths,111,Dominican Republic,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6616027390375278,0.7665431769497553,0.5725870607944983
+1,Deaths,111,Dominican Republic,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.3163659997970119,1.480529556926349,1.1647176619215804
+1,Deaths,106,The Bahamas,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9629971229319962,1.468506026227262,0.5986625485843989
+1,Deaths,106,The Bahamas,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.02644331965756669,0.035629394738216,0.02059791969004616
+1,Deaths,106,The Bahamas,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.989440442589562,1.4931832500712716,0.6290609943496447
+1,Deaths,14,Maldives,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.02487531033286665,0.027736235175032705,0.019559875311504552
+1,Deaths,14,Maldives,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.017722049778672574,0.019717315601399537,0.015349111106847987
+1,Deaths,14,Maldives,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.04259736011153928,0.0463671707691966,0.036231360164261185
+1,Deaths,207,Ghana,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,10.165816473660165,10.463290001624701,9.90963861065366
+1,Deaths,207,Ghana,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.031212693286571,4.279617983549463,3.790658414463859
+1,Deaths,207,Ghana,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,14.197029166946747,14.649676325683147,13.762278442223536
+1,Deaths,422,"Virgin Islands, U.S.",1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14295277637361986,0.19594287090338403,0.10039918825447591
+1,Deaths,422,"Virgin Islands, U.S.",2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.005318600785475628,0.006240731298986193,0.004521445375867223
+1,Deaths,422,"Virgin Islands, U.S.",3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14827137715909572,0.2011742915683601,0.10563279029159311
+1,Deaths,130,Mexico,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,65.62579877814503,76.42551653125679,57.47057811441039
+1,Deaths,130,Mexico,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,6.784699257047647,7.051989489530508,6.561578892242906
+1,Deaths,130,Mexico,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,72.41049803519263,83.14795566820398,64.26101425219036
+1,Deaths,80,France,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.298590556967394,3.582739681997179,3.025119923207375
+1,Deaths,80,France,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.246513174318992,4.969559875388094,3.6394360633275458
+1,Deaths,80,France,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,7.545103731286386,8.317623265335394,6.847337591156174
+1,Deaths,213,Niger,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,11.161699004942399,11.382457868064225,10.956298345470149
+1,Deaths,213,Niger,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.7085405610745314,3.9034781413645234,3.5222606601769724
+1,Deaths,213,Niger,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,14.870239566016958,15.224525071610687,14.516409523587672
+1,Deaths,8,Taiwan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.2778720857454484,3.0490725768233817,1.7591554142361476
+1,Deaths,8,Taiwan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.1253595697552101,1.2121531093727678,1.0421286723574497
+1,Deaths,8,Taiwan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.403231655500658,4.178782213160894,2.88307749121404
+1,Deaths,211,Mali,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,57.07681194053403,57.307237504907036,56.856862553873064
+1,Deaths,211,Mali,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,16.23386388194677,16.434536191927112,16.053335084002814
+1,Deaths,211,Mali,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,73.31067582248089,73.66809372332011,72.96917943471418
+1,Deaths,37,Kyrgyzstan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.31749131516588536,0.3397547765072956,0.29326890806057937
+1,Deaths,37,Kyrgyzstan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.32465578517192956,0.3483683080557729,0.3004050122634094
+1,Deaths,37,Kyrgyzstan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6421471003378157,0.6851468900222991,0.5952167611085314
+1,Deaths,136,Paraguay,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.131260480925766,5.190516617012143,1.808324913887702
+1,Deaths,136,Paraguay,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3290292496425859,0.4068079542178591,0.26327073137559664
+1,Deaths,136,Paraguay,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.4602897305683493,5.50108350662677,2.139607641062029
+1,Deaths,190,Uganda,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,28.59417453728758,28.943182650317308,28.281970307387294
+1,Deaths,190,Uganda,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,9.02662656024913,9.372963771009,8.703466959349326
+1,Deaths,190,Uganda,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,37.62080109753675,38.217578261884036,37.100685624748046
+1,Deaths,214,Nigeria,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,428.9367695028841,431.9567076162101,426.76903018354534
+1,Deaths,214,Nigeria,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,129.7594686898803,133.75991454837455,126.70305875163177
+1,Deaths,214,Nigeria,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,558.6962381927644,565.6833624509126,553.5303262081572
+1,Deaths,107,Barbados,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.015015284148675052,0.016639385230161854,0.013577351252259054
+1,Deaths,107,Barbados,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.01499163405021132,0.01646457006751177,0.013519042679907065
+1,Deaths,107,Barbados,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03000691819888642,0.0323013599290775,0.027846339197087344
+1,Deaths,81,Germany,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,5.850141646884794,7.492737293301306,4.6164947934903
+1,Deaths,81,Germany,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.21543417525852,4.851715672701581,3.6434354475497783
+1,Deaths,81,Germany,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,10.065575822143318,11.870645868829532,8.700053098295614
+1,Deaths,208,Guinea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,15.351543496728686,15.450386239369584,15.259163992486805
+1,Deaths,208,Guinea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.864823321796659,4.955816790218407,4.779925354605671
+1,Deaths,208,Guinea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,20.216366818525334,20.380292869620966,20.0586791061171
+1,Deaths,15,Myanmar,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,5233.922405764518,5239.229962179934,5227.939386797849
+1,Deaths,15,Myanmar,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1479.0240050003433,1479.6172154668009,1478.432889117033
+1,Deaths,15,Myanmar,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6712.946410764872,6718.402266496403,6707.45668064323
+1,Deaths,191,Zambia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8031063708192132,1.9917515743639536,1.6479162984512161
+1,Deaths,191,Zambia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.1288738004486552,1.2829309424143398,0.9845883078580152
+1,Deaths,191,Zambia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.931980171267868,3.209641876583574,2.6875195011571216
+1,Deaths,115,Jamaica,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.502379906297736,7.068426408968223,2.8359719175707148
+1,Deaths,115,Jamaica,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19078747156456596,0.2467197625149667,0.14859808300162428
+1,Deaths,115,Jamaica,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.693167377862291,7.225631074219789,3.014316772622908
+1,Deaths,215,Sao Tome and Principe,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.013981470193740065,0.01688762449013169,0.011558289105473648
+1,Deaths,215,Sao Tome and Principe,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.015338624052413201,0.01756756874851095,0.013197567502527065
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.029320094246153297,0.03399181353888233,0.02524215817197458
+1,Deaths,89,Netherlands,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9791367163709249,1.1738124573801363,0.8344298684900326
+1,Deaths,89,Netherlands,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8798566386739063,0.9482379420564182,0.8152299234910269
+1,Deaths,89,Netherlands,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8589933550448299,2.0783755722834427,1.6843866572873227
+1,Deaths,82,Greece,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4949628029692059,0.532003680915435,0.4608332566113139
+1,Deaths,82,Greece,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5248997215612495,0.5641291626256841,0.4816057704587297
+1,Deaths,82,Greece,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0198625245304542,1.0785728691910201,0.961898134024828
+1,Deaths,57,Belarus,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.9717585083821376,5.257181672960749,2.990359275378924
+1,Deaths,57,Belarus,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0579823031924236,1.3296843212589147,0.8263579026208884
+1,Deaths,57,Belarus,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,5.029740811574563,6.370604962443455,4.001173486625909
+1,Deaths,108,Belize,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.11049702853724133,0.16350911397900061,0.07546019399319194
+1,Deaths,108,Belize,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.020182968030196546,0.021799688915457607,0.01862537699565564
+1,Deaths,108,Belize,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.13067999656743795,0.18409353245558152,0.09558449344390373
+1,Deaths,90,Norway,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.24602851689969527,0.2577283864694535,0.2287085141075188
+1,Deaths,90,Norway,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.2323248133224344,0.2411302402888082,0.22305369224924743
+1,Deaths,90,Norway,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.47835333022213045,0.4942950384679012,0.45494520266343236
+1,Deaths,116,Saint Lucia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07077172607194544,0.10288094512868262,0.04666824160899474
+1,Deaths,116,Saint Lucia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.008995441665567991,0.0098841238374736,0.008194446902948887
+1,Deaths,116,Saint Lucia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07976716773751347,0.11223331774922954,0.05579030562438069
+1,Deaths,117,Saint Vincent and the Grenadines,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.08404067972868692,0.12190444776403861,0.05798484801964551
+1,Deaths,117,Saint Vincent and the Grenadines,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.00665341471897878,0.007260346490160672,0.006066111037856728
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.09069409444766575,0.12881163490782288,0.06479955794365114
+1,Deaths,168,Angola,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,9.96261834663407,10.259129357078598,9.72476652399392
+1,Deaths,168,Angola,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.865783708123618,4.079203651733208,3.6096768415189686
+1,Deaths,168,Angola,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,13.828402054757657,14.240437077974379,13.432482568102225
+1,Deaths,91,Portugal,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.48807775365962397,0.5332993709601771,0.4319447377508079
+1,Deaths,91,Portugal,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5169454271228613,0.5708093815041617,0.4686397974249309
+1,Deaths,91,Portugal,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0050231807824859,1.0851849172320407,0.9125741645650741
+1,Deaths,41,Uzbekistan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.6333495693939097,3.4399872385112213,2.083733151467976
+1,Deaths,41,Uzbekistan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.6275209086698883,1.858135894300317,1.427512071081458
+1,Deaths,41,Uzbekistan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.260870478063799,5.117725503120716,3.63951350069422
+1,Deaths,16,Philippines,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,85.73769126171402,117.16065707678375,60.66542788980677
+1,Deaths,16,Philippines,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,7.750272785542552,9.551130349132006,6.295403144416846
+1,Deaths,16,Philippines,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,93.48796404725661,125.2998660463409,68.35040415766609
+1,Deaths,193,Botswana,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10971840705662206,0.1320282844813166,0.08909481951799376
+1,Deaths,193,Botswana,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.11544494278416378,0.1389489131229869,0.0967202330388086
+1,Deaths,193,Botswana,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.22516334984078562,0.2621517237553668,0.19151597081445587
+1,Deaths,33,Armenia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14117558617448017,0.1484427803397025,0.13440146160247518
+1,Deaths,33,Armenia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.15261339293564832,0.16176543044461947,0.14481771153785616
+1,Deaths,33,Armenia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.29378897911012836,0.3059883664971642,0.28324067951531484
+1,Deaths,160,Afghanistan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,10.048725398356012,15.936100440373787,2.3234579070685544
+1,Deaths,160,Afghanistan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.5963216668744,3.251841466002186,2.033932641022181
+1,Deaths,160,Afghanistan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,12.645047065230406,18.466609110784866,4.93243438585668
+1,Deaths,169,Central African Republic,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,61.85802247225256,61.92641081144214,61.80683087660694
+1,Deaths,169,Central African Republic,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,15.56092607373748,15.62442463729861,15.514089862712032
+1,Deaths,169,Central African Republic,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,77.41894854599009,77.51218180769973,77.3336151160676
+1,Deaths,92,Spain,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.270674001546691,2.4625048444507343,2.0958722132394647
+1,Deaths,92,Spain,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.5072472449045162,2.8271613936197366,2.2333667821837797
+1,Deaths,92,Spain,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.777921246451203,5.173594233686191,4.420190182897427
+1,Deaths,58,Estonia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.060468086909521324,0.06999553655749924,0.05174109841230006
+1,Deaths,58,Estonia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06653742075398729,0.07781726627718177,0.05646443820035885
+1,Deaths,58,Estonia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.12700550766350877,0.14221379125166944,0.11243383330161494
+1,Deaths,43,Albania,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1822487335577076,0.24472634410647376,0.14494205528053974
+1,Deaths,43,Albania,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.15444917715012638,0.19067511784408644,0.1202265820892651
+1,Deaths,43,Albania,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3366979107078335,0.40435075319286456,0.2852595718085328
+1,Deaths,83,Iceland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.023263489623054082,0.028150205806933858,0.01969487893024022
+1,Deaths,83,Iceland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.014192342331650877,0.015145270956025194,0.01322753241608127
+1,Deaths,83,Iceland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.037455831954704984,0.0424625970854659,0.03369821554399263
+1,Deaths,17,Sri Lanka,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.021346707707909,6.430263556983529,2.3030730565741035
+1,Deaths,17,Sri Lanka,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.008830834080958,1.271394853346158,0.7955817404552785
+1,Deaths,17,Sri Lanka,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,5.030177541788866,7.512903304354248,3.228113742015035
+1,Deaths,194,Lesotho,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1127272982605966,0.13775863821494494,0.08928609168417415
+1,Deaths,194,Lesotho,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10097231498886361,0.13490496661065762,0.07777071013638082
+1,Deaths,194,Lesotho,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.2136996132494604,0.25685211721426815,0.17803970658178964
+1,Deaths,196,South Africa,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,28.30104013810378,28.74773650438208,27.951656042716863
+1,Deaths,196,South Africa,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,9.564033815225674,9.865906089621879,9.265664135207437
+1,Deaths,196,South Africa,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,37.86507395332946,38.524922182922474,37.30294349544319
+1,Deaths,44,Bosnia and Herzegovina,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1742459984106318,0.1885299625355282,0.1601625229621746
+1,Deaths,44,Bosnia and Herzegovina,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.18122008446993332,0.19692098066960487,0.1669977540344645
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3554660828805654,0.3762260136456498,0.33527517013056574
+1,Deaths,34,Azerbaijan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.63362227953393,0.846320886425394,0.5210405314554929
+1,Deaths,34,Azerbaijan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5551868134037267,0.6185232920514444,0.4994527356628535
+1,Deaths,34,Azerbaijan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.1888090929376554,1.4010794579575705,1.054528988675243
+1,Deaths,161,Bangladesh,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,39.549872283041495,40.70459788564632,38.44662799795942
+1,Deaths,161,Bangladesh,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,17.532912048322785,19.000822333311532,16.12941334682268
+1,Deaths,161,Bangladesh,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,57.082784331364344,59.19038802241872,55.085298899312754
+1,Deaths,84,Ireland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.225535443855289,0.2464608951904447,0.20201891377466677
+1,Deaths,84,Ireland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.22904704541570325,0.2515051507990989,0.20826315730238001
+1,Deaths,84,Ireland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.45458248927099243,0.48936379667834734,0.4148421544846331
+1,Deaths,195,Namibia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9292592004275292,0.9643468025374821,0.8955879521021672
+1,Deaths,195,Namibia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3306611260135561,0.36764779863234154,0.2978845436310837
+1,Deaths,195,Namibia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.259920326441081,1.3160371022475894,1.2061299450690317
+1,Deaths,59,Latvia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0879989731963769,0.09945164294222572,0.07761591376868429
+1,Deaths,59,Latvia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10284110923139929,0.11974026736389093,0.08750333509959145
+1,Deaths,59,Latvia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19084008242777636,0.21229266056323134,0.1722785007193593
+1,Deaths,18,Thailand,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,25.41837521525462,27.17902176356497,23.87229401683597
+1,Deaths,18,Thailand,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,9.706775655708533,10.273436878588127,9.169345402086861
+1,Deaths,18,Thailand,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,35.125150870963196,37.05111967067242,33.60215369690695
+1,Deaths,170,Congo,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.6520279278636623,2.7176323045040784,2.593787405622376
+1,Deaths,170,Congo,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8650127802000216,0.9336880648388424,0.8012324865957388
+1,Deaths,170,Congo,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.517040708063687,3.6222349862141665,3.418752978656932
+1,Deaths,197,Swaziland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07817911937220322,0.09835891201518236,0.06047377158229579
+1,Deaths,197,Swaziland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.060524094555851934,0.08203857093024892,0.04356923633748568
+1,Deaths,197,Swaziland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.13870321392805535,0.17003394245244766,0.1134994117264574
+1,Deaths,22,Fiji,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.05171852544888799,0.059911482408793244,0.04473881920028608
+1,Deaths,22,Fiji,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.05308705845869872,0.062413108742990234,0.045375344347990024
+1,Deaths,22,Fiji,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10480558390758662,0.11770916925258285,0.09350102944258964
+1,Deaths,298,American Samoa,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004838215616070158,0.006938547798961269,0.0027324044524579113
+1,Deaths,298,American Samoa,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0031560329147369967,0.0036285045677238634,0.002769338471697107
+1,Deaths,298,American Samoa,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.00799424853080717,0.010026005528354916,0.00587375899477423
+1,Deaths,121,Bolivia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6285842481222491,0.7709211110329208,0.4510842226769686
+1,Deaths,121,Bolivia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6626391417791835,0.812619232815934,0.4735375756692188
+1,Deaths,121,Bolivia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.2912233899014327,1.5186079026922665,0.9474539247830106
+1,Deaths,67,Japan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,7.058579015430887,7.589986427743627,6.582862485523745
+1,Deaths,67,Japan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,6.353046595009428,6.593091196509413,6.125822972617734
+1,Deaths,67,Japan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,13.411625610440291,13.984356258995044,12.849821365382764
+1,Deaths,162,Bhutan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0519741462380367,0.06298529325073997,0.03659088636102369
+1,Deaths,162,Bhutan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.04903851434142332,0.061754792296311076,0.0350543562688652
+1,Deaths,162,Bhutan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.10101266057946015,0.12034067834017659,0.0739859983234716
+1,Deaths,144,Jordan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6572949776859051,0.752653272258852,0.5789343468003775
+1,Deaths,144,Jordan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5518521165670045,0.6422486169228557,0.47984534699023407
+1,Deaths,144,Jordan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.2091470942529081,1.372978281763013,1.0820283570571996
+1,Deaths,86,Italy,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.8740194249466255,3.1059336450082577,2.6308721017314856
+1,Deaths,86,Italy,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.040002641466881,3.3026674953276522,2.7904179682763974
+1,Deaths,86,Italy,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,5.914022066413522,6.30282447452711,5.547377503463278
+1,Deaths,171,Democratic Republic of the Congo,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,299.4589300479592,300.24200073886175,298.7104317926376
+1,Deaths,171,Democratic Republic of the Congo,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,78.47092584189308,79.08317667815408,77.85488351501387
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,377.9298558898516,379.01608550474873,376.7414828915676
+1,Deaths,186,Seychelles,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.040665839378784215,0.06273440426053362,0.02807144764360516
+1,Deaths,186,Seychelles,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.004515947551291253,0.004887213769820468,0.004159490260371367
+1,Deaths,186,Seychelles,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.04518178693007552,0.06738471974575663,0.03250045424921026
+1,Deaths,198,Zimbabwe,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.181843885943594,4.500138243713862,3.9561009544697634
+1,Deaths,198,Zimbabwe,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.4917184340857188,1.6208843525427439,1.386767196301993
+1,Deaths,198,Zimbabwe,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,5.673562320029312,6.019374683281948,5.411777571856842
+1,Deaths,147,Libya,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,97.60708612068292,100.330477229452,94.13841396336011
+1,Deaths,147,Libya,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,22.13179641876817,22.238603700369964,22.035147256280855
+1,Deaths,147,Libya,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,119.73888253945128,122.4417733572897,116.31851619003803
+1,Deaths,87,Luxembourg,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.031717375052828685,0.03594911615818749,0.027741222697986803
+1,Deaths,87,Luxembourg,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03315765667525877,0.037657716826705226,0.02911144992344474
+1,Deaths,87,Luxembourg,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06487503172808746,0.07119934177378967,0.0581259739630595
+1,Deaths,112,Grenada,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0056580153305153666,0.0061248488554771965,0.005257238920227739
+1,Deaths,112,Grenada,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.005512002493700677,0.006036213657937801,0.005041722053626115
+1,Deaths,112,Grenada,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.011170017824216026,0.011992384952804089,0.010434222272190123
+1,Deaths,163,India,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,325.1135622041651,329.4746819017017,320.70084953812614
+1,Deaths,163,India,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,126.88064221902218,130.94100948679935,122.2188537266765
+1,Deaths,163,India,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,451.99420442318757,457.8673914442137,444.7016961925324
+1,Deaths,145,Kuwait,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.39171525371018767,0.5254110806218276,0.3068036882309285
+1,Deaths,145,Kuwait,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.18199217732248785,0.19762309055029675,0.1649942670744979
+1,Deaths,145,Kuwait,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5737074310326754,0.7068669494008835,0.48627756988069615
+1,Deaths,122,Ecuador,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9081276210914054,1.0195596104426048,0.8078264191835278
+1,Deaths,122,Ecuador,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9542355098685632,1.0764881033735878,0.8510121265367606
+1,Deaths,122,Ecuador,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8623631309599677,2.0410010544056054,1.6969738055108623
+1,Deaths,85,Israel,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.426003268097572,0.4635972719139943,0.39243081829558485
+1,Deaths,85,Israel,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4384788139661462,0.4742454420488448,0.40566987629873535
+1,Deaths,85,Israel,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8644820820637187,0.9160543028137654,0.8159440390509001
+1,Deaths,68,South Korea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.7364385646543607,3.107034838566304,2.419080419631792
+1,Deaths,68,South Korea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.354568041572606,4.34296451164386,2.671926917811053
+1,Deaths,68,South Korea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6.091006606226963,7.041455522319036,5.263927095431416
+1,Deaths,88,Malta,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.14332237244467902,0.19965632661629482,0.10077821435310474
+1,Deaths,88,Malta,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.02389798757561049,0.025748824660560374,0.022156235925118402
+1,Deaths,88,Malta,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1672203600202893,0.22316717357828458,0.12482288629183527
+1,Deaths,113,Guyana,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4940455986984792,0.7594510418541031,0.3089693750759831
+1,Deaths,113,Guyana,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.03770823759624226,0.043827864522172,0.03254950062890208
+1,Deaths,113,Guyana,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5317538362947207,0.7937148766868027,0.34435390661880894
+1,Deaths,60,Lithuania,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.12220750819328863,0.13126787984960217,0.11296356740592295
+1,Deaths,60,Lithuania,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.13905042893585018,0.15132105870912368,0.1277062003109135
+1,Deaths,60,Lithuania,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.26125793712913953,0.27679888965543786,0.24604885967744264
+1,Deaths,148,Morocco,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,18.048117599403156,26.952384124790722,4.056572745802217
+1,Deaths,148,Morocco,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.613531904123489,3.116921760465976,2.173429533376135
+1,Deaths,148,Morocco,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,20.66164950352663,29.772877612299933,6.8101947864191645
+1,Deaths,164,Nepal,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,10.468127112681579,10.748569967257419,10.17755706109525
+1,Deaths,164,Nepal,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.199213949069294,4.551815262654567,3.8204195886063883
+1,Deaths,164,Nepal,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,14.667341061750857,15.15923620181268,14.08425971903122
+1,Deaths,172,Equatorial Guinea,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.058181377136303086,0.08049570155482821,0.042022719783476575
+1,Deaths,172,Equatorial Guinea,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.05482834958997764,0.07585811352830228,0.035519011599351585
+1,Deaths,172,Equatorial Guinea,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.11300972672628068,0.15716151689613506,0.07809486523938831
+1,Deaths,146,Lebanon,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.4962882851163397,5.442209793908649,0.5841561892501593
+1,Deaths,146,Lebanon,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5229648284884643,0.6034656807714766,0.43996744030803797
+1,Deaths,146,Lebanon,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.019253113604808,5.958909772259613,1.1681230725202736
+1,Deaths,139,Algeria,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,20.696507522345367,30.1403274986402,5.017231128358364
+1,Deaths,139,Algeria,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.8982636331090235,3.1372542964086483,2.6300791295630987
+1,Deaths,139,Algeria,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,23.594771155454392,33.125495427222894,8.192663556970876
+1,Deaths,187,Somalia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,315.3098571076952,315.74410465947983,314.99498459107446
+1,Deaths,187,Somalia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,76.84142646067922,77.15768721076934,76.5906836581562
+1,Deaths,187,Somalia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,392.15128356837437,392.9100759564277,391.5992186791521
+1,Deaths,61,Moldova,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.16403420332250482,0.17360963506124688,0.15486834043496986
+1,Deaths,61,Moldova,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.17587868052209557,0.18783953981386164,0.1653079207693041
+1,Deaths,61,Moldova,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3399128838446,0.357932040240984,0.32237084621680173
+1,Deaths,216,Senegal,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.7099827581200377,1.908107830836443,1.5434635534380263
+1,Deaths,216,Senegal,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0485018470692868,1.1909733566764438,0.9018857458074256
+1,Deaths,216,Senegal,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.7584846051893246,3.0429136695224543,2.4834376551353237
+1,Deaths,141,Egypt,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,310.6247921836273,311.43541763415016,309.8441144466318
+1,Deaths,141,Egypt,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,77.21799808838954,77.9982831191679,76.47644274848741
+1,Deaths,141,Egypt,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,387.842790272017,389.1538152245877,386.65777414626797
+1,Deaths,38,Mongolia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.16380209558374004,0.18811293656961747,0.14257990268684478
+1,Deaths,38,Mongolia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1787631436712975,0.20679335067878096,0.1563950541505742
+1,Deaths,38,Mongolia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3425652392550383,0.3880382799332202,0.3058223725550689
+1,Deaths,93,Sweden,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.0125163136045339,1.2648958994769008,0.8045047763605901
+1,Deaths,93,Sweden,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.497884998393205,0.5330826168447593,0.46311461823424405
+1,Deaths,93,Sweden,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.5104013119977393,1.7727586386165897,1.2917223610752688
+1,Deaths,123,Peru,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.7896643316469474,2.122761761859546,1.4783628386840284
+1,Deaths,123,Peru,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.7533553046046344,2.0971365835976945,1.4547947262825465
+1,Deaths,123,Peru,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,3.5430196362515836,4.045142515150078,3.078165916612215
+1,Deaths,63,Ukraine,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,26.62618742047388,34.73451106910202,20.20966378182721
+1,Deaths,63,Ukraine,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,5.339975755618731,6.066765149429527,4.697225534148718
+1,Deaths,63,Ukraine,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,31.96616317609263,40.111701543007136,25.57386384448793
+1,Deaths,69,Singapore,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.1908980901285726,1.5402205603804315,0.9097742704722357
+1,Deaths,69,Singapore,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3101079608615262,0.3370018706007417,0.2817012207578218
+1,Deaths,69,Singapore,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.5010060509900982,1.8483796213457682,1.2210750960450172
+1,Deaths,142,Iran,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,888.0483329028509,985.7753373809792,708.8509446318056
+1,Deaths,142,Iran,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,111.21528842211713,114.95076036831401,105.26747951044769
+1,Deaths,142,Iran,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,999.263621324969,1096.0428499625014,814.0987860906733
+1,Deaths,217,Sierra Leone,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.984967115239398,2.060153687588078,1.9139989938631645
+1,Deaths,217,Sierra Leone,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.7533838612648447,0.8110847843826163,0.6957086085575909
+1,Deaths,217,Sierra Leone,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.738350976504244,2.8519179946520152,2.6311416879013074
+1,Deaths,94,Switzerland,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.416132690484905,0.4559314544409997,0.3730991706734538
+1,Deaths,94,Switzerland,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.4234890948642567,0.4599368582721295,0.3871130427646738
+1,Deaths,94,Switzerland,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.8396217853491631,0.8967804789887954,0.7770894213472374
+1,Deaths,165,Pakistan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,193.23174837934062,196.08970765375943,190.75027694571494
+1,Deaths,165,Pakistan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,64.84669611141801,69.2949953428568,60.68931764872013
+1,Deaths,165,Pakistan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,258.078444490759,263.8130199028467,253.0058748856378
+1,Deaths,140,Bahrain,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.469987261217933,4.482395278157134,4.4599593186975195
+1,Deaths,140,Bahrain,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.6686916371125413,0.6747879358920049,0.6633235732205437
+1,Deaths,140,Bahrain,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,5.138678898330477,5.152098646376637,5.1259065524240475
+1,Deaths,39,Tajikistan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5830251443254021,0.6431350267634732,0.5303143285779063
+1,Deaths,39,Tajikistan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5688512011705885,0.6396660621190249,0.4973539090227367
+1,Deaths,39,Tajikistan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.151876345495992,1.257597202829763,1.0484271715743974
+1,Deaths,66,Brunei,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.031104210065354427,0.03726827167030023,0.027854153075817685
+1,Deaths,66,Brunei,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.026216192774443186,0.029210620693191792,0.023099847859169024
+1,Deaths,66,Brunei,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.057320402839797724,0.06377593315363074,0.05277668737028012
+1,Deaths,95,United Kingdom,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,3.2444299011310003,3.3170071646561947,3.1802498798270307
+1,Deaths,95,United Kingdom,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,3.338656721926119,3.4242397657872825,3.275356646288382
+1,Deaths,95,United Kingdom,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6.58308662305712,6.707562913007132,6.484419250456575
+1,Deaths,189,Tanzania,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,176.15818102085058,176.76365774340323,175.62331681455885
+1,Deaths,189,Tanzania,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,51.38538323138715,52.08273570373085,50.801434711275405
+1,Deaths,189,Tanzania,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,227.54356425223764,228.63164705291524,226.58530597583982
+1,Deaths,40,Turkmenistan,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,1.8769587713471454,2.9279651703437204,1.259592913378925
+1,Deaths,40,Turkmenistan,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.2828382859156939,0.3215635434024432,0.25165075196290054
+1,Deaths,40,Turkmenistan,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,2.1597970572628347,3.212958744324983,1.5302705039047115
+1,Deaths,19,Timor-Leste,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.23217934884749727,0.3780265725015008,0.08785435600739985
+1,Deaths,19,Timor-Leste,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.06775907212596768,0.0823660460363694,0.035727129604585926
+1,Deaths,19,Timor-Leste,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.2999384209734652,0.4528291178846424,0.1365878698549245
+1,Deaths,62,Russian Federation,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,63.66895498440789,69.71472940329296,57.95633750309411
+1,Deaths,62,Russian Federation,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,14.924084112179317,16.13672301522283,13.709692393423142
+1,Deaths,62,Russian Federation,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,78.59303909658719,85.0306362546916,72.75430460993141
+1,Deaths,218,Togo,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,5.070092665948665,5.154294065969157,4.994862346691785
+1,Deaths,218,Togo,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.6237482043367348,1.6906900094966693,1.5584642683454681
+1,Deaths,218,Togo,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6.693840870285402,6.816425603404919,6.578788912927839
+1,Deaths,118,Suriname,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.0499130402035408,0.06845505835151908,0.03677685252496235
+1,Deaths,118,Suriname,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.02929188154455814,0.03344334966085001,0.025737808111009466
+1,Deaths,118,Suriname,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07920492174809905,0.09838858998822854,0.06527398486470416
+1,Deaths,20,Vietnam,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,18.79148074112107,29.049518053350884,5.5844377545034245
+1,Deaths,20,Vietnam,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,4.782036146454948,5.847517502000389,3.9132680114820535
+1,Deaths,20,Vietnam,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,23.573516887576012,34.188456813199856,10.656869559508165
+1,Deaths,119,Trinidad and Tobago,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,15.854532638032085,25.311125200369606,9.209937625864603
+1,Deaths,119,Trinidad and Tobago,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.15636710433792494,0.256547711558355,0.09085941062174013
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,16.010899742370015,25.477698022846432,9.37475866347503
+1,Deaths,143,Iraq,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,379.12708275790874,560.2417762973697,274.8677877070191
+1,Deaths,143,Iraq,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,110.99248166786725,186.0299207837744,49.32390351362028
+1,Deaths,143,Iraq,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,490.1195644257767,675.5445344295437,374.93100259225065
+1,Deaths,45,Bulgaria,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,4.097502641651306,6.15685480684214,2.715901722827476
+1,Deaths,45,Bulgaria,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.3701653409505405,0.3990959204468794,0.3420181250050395
+1,Deaths,45,Bulgaria,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.467667982601858,6.547176713798949,3.076780346086519
+1,Deaths,173,Gabon,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.09122867618647772,0.11095553324732853,0.07173679367197756
+1,Deaths,173,Gabon,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.07750764212028871,0.09440148660639364,0.06079347682591361
+1,Deaths,173,Gabon,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.16873631830676616,0.19848109709087153,0.13748544536479873
+1,Deaths,47,Czech Republic,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.619018807512556,0.7379041247185837,0.5252574038757105
+1,Deaths,47,Czech Republic,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5286312014023025,0.5745196292485846,0.4869918550168763
+1,Deaths,47,Czech Republic,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.147650008914858,1.277831539893718,1.0406998871788722
+1,Deaths,97,Argentina,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,2.1485105706715006,2.440319767322334,1.8978729553595097
+1,Deaths,97,Argentina,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,2.2102317809590266,2.5050311135741334,1.94330019835615
+1,Deaths,97,Argentina,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,4.358742351630525,4.785257930708032,3.971502409318993
+1,Deaths,71,Australia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,5.5811844508211115,7.7603014275063815,3.9447375761880616
+1,Deaths,71,Australia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,1.324113312619585,1.535534936838901,1.14287700228567
+1,Deaths,71,Australia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,6.905297763440687,8.95671791348267,5.342653710786921
+1,Deaths,72,New Zealand,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.25907265321371453,0.295156579516103,0.22943425075428114
+1,Deaths,72,New Zealand,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.22320677063791056,0.23871418488011859,0.21001619090837434
+1,Deaths,72,New Zealand,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.48227942385162514,0.5209230107851736,0.4496082141356412
+1,Deaths,46,Croatia,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.19223351522788532,0.20610364513607582,0.17871224431727498
+1,Deaths,46,Croatia,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.1827231074088288,0.1993233186163791,0.16767524432469696
+1,Deaths,46,Croatia,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,0.37495662263671425,0.3975572448179498,0.3541071080263441
+1,Deaths,114,Haiti,1,Male,22,All Ages,854,Executions and police conflict,1,Number,2017,0.9199873651221337,1.5013067181399793,0.6004306863932526
+1,Deaths,114,Haiti,2,Female,22,All Ages,854,Executions and police conflict,1,Number,2017,0.5754648944489552,0.7352611636824505,0.4679453705692406
+1,Deaths,114,Haiti,3,Both,22,All Ages,854,Executions and police conflict,1,Number,2017,1.495452259571091,2.123955446344169,1.1501765642757547

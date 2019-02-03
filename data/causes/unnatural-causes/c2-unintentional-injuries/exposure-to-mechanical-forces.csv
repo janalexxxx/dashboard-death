@@ -1,0 +1,586 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,149,Palestine,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,51.85224769839199,65.5848774742463,15.149865099003918
+1,Deaths,149,Palestine,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.842647910026322,12.817107705091033,5.573232153324051
+1,Deaths,149,Palestine,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,61.69489560841841,74.70426535790503,22.016166943073404
+1,Deaths,48,Hungary,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,58.62359431191915,64.77047445188376,52.75871412492198
+1,Deaths,48,Hungary,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,21.392828802445898,23.699576597043766,19.25703099218789
+1,Deaths,48,Hungary,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,80.01642311436528,86.38060777386312,73.70658247102382
+1,Deaths,201,Burkina Faso,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,339.65147031050424,429.1844189118083,269.8574533964349
+1,Deaths,201,Burkina Faso,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,194.16190485056384,272.2761136238378,138.15685895055708
+1,Deaths,201,Burkina Faso,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,533.8133751610674,660.421917705779,432.2796933503424
+1,Deaths,23,Kiribati,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7524842544020136,0.9828638136560514,0.5701839176929778
+1,Deaths,23,Kiribati,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.2994725899931974,0.44002985110104204,0.2089656286581914
+1,Deaths,23,Kiribati,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.0519568443952108,1.3155542433210108,0.8458754728371669
+1,Deaths,99,Uruguay,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,100.03434802429611,116.10575377155956,85.42631760925818
+1,Deaths,99,Uruguay,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,20.49480029821674,23.90139519428958,17.327650846627737
+1,Deaths,99,Uruguay,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,120.52914832251284,136.45357725129372,105.73365280562298
+1,Deaths,125,Colombia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,459.1505343597033,529.999201916753,393.56114575413994
+1,Deaths,125,Colombia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,98.08999321463094,113.01319370696696,84.96519169360654
+1,Deaths,125,Colombia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,557.2405275743346,631.8568911817168,487.2272316969002
+1,Deaths,25,Federated States of Micronesia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.9395773181275484,2.767048503258836,1.0871230762979098
+1,Deaths,25,Federated States of Micronesia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.5570870963496981,0.8315830600635912,0.30620471384210696
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.496664414477245,3.4059596459290797,1.4653626559587245
+1,Deaths,76,Belgium,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.10191490828258,75.93013433335514,62.708379695221744
+1,Deaths,76,Belgium,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,52.02078960732961,57.97389188241681,46.476799012726616
+1,Deaths,76,Belgium,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,121.12270451561204,130.2140532260338,112.23389604938423
+1,Deaths,175,Burundi,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,220.1010627095233,308.2758228253275,138.5924637993446
+1,Deaths,175,Burundi,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,51.981508016550364,72.93124625814285,33.68034914743541
+1,Deaths,175,Burundi,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,272.0825707260735,360.4745819603232,187.67372671193334
+1,Deaths,305,Bermuda,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.42256995187535834,0.4811764349976696,0.37359148428149963
+1,Deaths,305,Bermuda,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.24062796482163745,0.27429005894342406,0.20838113724100918
+1,Deaths,305,Bermuda,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.6631979166969963,0.7224413945049093,0.6028423501609057
+1,Deaths,522,Sudan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,849.7414305830189,1065.2708427333732,634.6854101523489
+1,Deaths,522,Sudan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,167.20817348045935,228.13169443045228,114.39923620838259
+1,Deaths,522,Sudan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1016.9496040634787,1246.1647890410272,807.2049676912056
+1,Deaths,26,Papua New Guinea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,394.84822431678214,577.5253209128919,253.7373797918504
+1,Deaths,26,Papua New Guinea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,64.54072312536216,97.54425711316976,35.61846013244276
+1,Deaths,26,Papua New Guinea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,459.38894744214423,649.4141915876113,305.95767214923666
+1,Deaths,150,Oman,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,44.35862263583205,64.22159442690185,32.85892524871226
+1,Deaths,150,Oman,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.422960703390055,12.71882684670203,7.492223855096487
+1,Deaths,150,Oman,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,53.78158333922207,73.5646660037855,41.65474542645611
+1,Deaths,51,Poland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,361.88025185695653,398.3877068134633,329.6558974670562
+1,Deaths,51,Poland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,87.26278070095618,96.20344216445015,79.14919824293536
+1,Deaths,51,Poland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,449.1430325579121,486.6002716575208,415.0360908465341
+1,Deaths,176,Comoros,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.23738002103684,13.750695651376146,6.86255546955935
+1,Deaths,176,Comoros,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.2374277981903985,6.78299131057958,3.942628255946529
+1,Deaths,176,Comoros,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.474807819227232,19.39093623292656,11.572517850367786
+1,Deaths,202,Cameroon,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,518.9164644211523,689.5166048915482,368.6439457600171
+1,Deaths,202,Cameroon,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,176.26872479106922,238.40220187421733,111.99938816366321
+1,Deaths,202,Cameroon,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,695.1851892122218,878.5323497434065,508.85520412663226
+1,Deaths,77,Cyprus,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.036001646751528,11.627276034057534,7.971041295435889
+1,Deaths,77,Cyprus,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.800750613640719,5.090790376692607,2.190401211716629
+1,Deaths,77,Cyprus,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.836752260392261,15.966875425679854,10.572470130871196
+1,Deaths,49,Macedonia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,19.685001079945234,22.777541608722885,12.580624412576494
+1,Deaths,49,Macedonia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.19908625836947,5.44848550555458,2.463797980985523
+1,Deaths,49,Macedonia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,23.884087338314682,27.314143177648816,15.679779309932785
+1,Deaths,74,Andorra,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.43775611682631727,0.5540436304057117,0.3094317851307348
+1,Deaths,74,Andorra,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.2162949944112646,0.2890732626474797,0.15539101316995055
+1,Deaths,74,Andorra,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.6540511112375835,0.797066603278704,0.5224814800723778
+1,Deaths,52,Romania,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,257.7578541541083,280.39052010423416,236.70217078892435
+1,Deaths,52,Romania,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,54.67412297424512,59.63381098084093,49.84888209122825
+1,Deaths,52,Romania,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,312.4319771283533,336.1683565055287,291.61251152691045
+1,Deaths,128,Guatemala,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,625.2785604193136,732.2865346632518,533.1474869950224
+1,Deaths,128,Guatemala,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,123.75799386580307,142.88349466395175,106.5865658926596
+1,Deaths,128,Guatemala,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,749.0365542851155,856.6494176038627,658.482926838956
+1,Deaths,27,Samoa,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.281480621700765,3.3855875747876083,1.5550454177978172
+1,Deaths,27,Samoa,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.9717075044395651,1.3491014765836764,0.5972222640009683
+1,Deaths,27,Samoa,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.253188126140329,4.414888417421915,2.318324675734326
+1,Deaths,349,Greenland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.9497303406257366,1.0713106528613257,0.8402519331389696
+1,Deaths,349,Greenland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.2731102300728887,0.32028931548513756,0.22636765619029628
+1,Deaths,349,Greenland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.2228405706986267,1.3583055863659235,1.1068392793767414
+1,Deaths,351,Guam,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.5818284852745368,2.1076508206069526,1.3589649329504214
+1,Deaths,351,Guam,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.5067470657293757,0.5953692586903834,0.3909451450365055
+1,Deaths,351,Guam,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.0885755510039106,2.5954523556303193,1.8386809942258813
+1,Deaths,24,Marshall Islands,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.2081788272362055,1.6539761096961934,0.7447379407604899
+1,Deaths,24,Marshall Islands,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.2905301279631528,0.4383979949337136,0.15874065865327425
+1,Deaths,24,Marshall Islands,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.4987089551993589,1.9887365866927085,0.9247707018520368
+1,Deaths,126,Costa Rica,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.497783077677802,32.67604585981287,26.447154834277256
+1,Deaths,126,Costa Rica,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,6.958914027479664,7.661505050700904,6.323957012267331
+1,Deaths,126,Costa Rica,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,36.45669710515747,39.672832342800405,33.290734953633304
+1,Deaths,151,Qatar,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,62.225916940243565,83.25744306977255,42.423020155575394
+1,Deaths,151,Qatar,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.664143387745797,2.1627368443970583,1.246164341467774
+1,Deaths,151,Qatar,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,63.89006032798945,85.06053455769893,43.93330127243138
+1,Deaths,53,Serbia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,101.13463663375707,113.05340039956977,90.71766349357493
+1,Deaths,53,Serbia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,34.03633563811635,40.05841323655417,26.6687087486562
+1,Deaths,53,Serbia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,135.17097227187344,148.6347083619854,122.17600900512261
+1,Deaths,6,China,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25254.044357122388,27587.633188519827,16636.73588567284
+1,Deaths,6,China,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,6564.060779978804,8068.886829158101,4042.025308498472
+1,Deaths,6,China,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,31818.105137101193,34869.105019986964,21593.984628473514
+1,Deaths,101,Canada,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,262.07068189804465,286.68124019147405,239.78576929101555
+1,Deaths,101,Canada,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,47.51399233240594,52.399044595323225,43.40914231058626
+1,Deaths,101,Canada,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,309.5846742304509,334.83114631842443,286.83450424923245
+1,Deaths,78,Denmark,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,26.746039044406164,29.50508653915538,24.057784369755964
+1,Deaths,78,Denmark,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,17.99744998088717,20.10416087212423,16.066222892733535
+1,Deaths,78,Denmark,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,44.743489025293314,48.181440083212436,41.46877128560833
+1,Deaths,129,Honduras,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,141.63417441353505,187.29445731653306,104.80349790289263
+1,Deaths,129,Honduras,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,35.83555730201274,50.863235821773536,25.257157414848255
+1,Deaths,129,Honduras,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,177.46973171554748,224.8355424690517,139.25273539532685
+1,Deaths,105,Antigua and Barbuda,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.129010825925502,4.600907442271183,3.720033722667408
+1,Deaths,105,Antigua and Barbuda,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.0575627688152591,1.1655283140297328,0.9577800345398165
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.186573594740757,5.68437658242949,4.731202522702342
+1,Deaths,50,Montenegro,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,11.730000839709861,14.059444053656359,9.146408108930927
+1,Deaths,50,Montenegro,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.2563639343669815,6.395774406657801,4.252286123940183
+1,Deaths,50,Montenegro,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,16.98636477407686,19.481325076459452,14.049223181843834
+1,Deaths,203,Cape Verde,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.9391904959525,9.142037074715894,6.885345934084892
+1,Deaths,203,Cape Verde,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.188494221534549,3.79101419144065,2.569560356983337
+1,Deaths,203,Cape Verde,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,11.127684717487059,12.590973194250013,9.92810726298877
+1,Deaths,152,Saudi Arabia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,913.8554617792059,1358.3880841046362,619.9264035541026
+1,Deaths,152,Saudi Arabia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,139.48712894306396,214.89737036153164,76.92313066266034
+1,Deaths,152,Saudi Arabia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1053.342590722269,1534.156364037812,729.9822942384253
+1,Deaths,130,Mexico,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1733.884552486539,1803.262686940354,1661.7658792259226
+1,Deaths,130,Mexico,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,357.9487088045774,370.7472512215987,346.0627684892431
+1,Deaths,130,Mexico,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2091.833261291117,2162.5349962836854,2020.1555315572314
+1,Deaths,7,North Korea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,850.6384897125296,1068.6351628425828,659.4706933122254
+1,Deaths,7,North Korea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,141.5346931065251,189.0465961465848,99.13588337178845
+1,Deaths,7,North Korea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,992.1731828190558,1215.3173739346641,787.0034761307231
+1,Deaths,156,United Arab Emirates,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,290.5140621617232,398.3105775710039,187.0382839414379
+1,Deaths,156,United Arab Emirates,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,16.94503316101511,26.84909824226485,10.708777284422462
+1,Deaths,156,United Arab Emirates,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,307.45909532273794,416.52168445229756,207.08207568301225
+1,Deaths,106,The Bahamas,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.1566649007483836,3.6006279418633924,2.759122654907216
+1,Deaths,106,The Bahamas,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.8690644387654471,2.1335741337953187,1.6382209309728168
+1,Deaths,106,The Bahamas,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.025729339513823,5.559144325054872,4.5794178255731985
+1,Deaths,8,Taiwan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,156.77729288461677,171.13692384096623,142.65074019539162
+1,Deaths,8,Taiwan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,44.83388698015539,49.51673155116166,40.791010598985096
+1,Deaths,8,Taiwan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,201.611179864772,216.36655475063665,187.14150113036288
+1,Deaths,102,United States,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3209.315962968037,3345.9225674009963,3045.2468253270254
+1,Deaths,102,United States,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,659.31073387122,682.3804910118058,635.1934288060792
+1,Deaths,102,United States,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3868.6266968392583,4005.470867887514,3690.206146787996
+1,Deaths,182,Malawi,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,300.82960695482365,395.13924557893773,207.16424702361164
+1,Deaths,182,Malawi,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,106.59730480457765,150.43386532105868,78.79749445707687
+1,Deaths,182,Malawi,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,407.42691175940143,514.8762123879759,302.1177588068995
+1,Deaths,177,Djibouti,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,16.286892272104716,23.104406121445617,10.765166463201203
+1,Deaths,177,Djibouti,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.988319450155256,8.560472911170027,4.02720183799013
+1,Deaths,177,Djibouti,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,22.275211722259936,31.04005841442299,15.511117598692607
+1,Deaths,107,Barbados,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.9173476870116657,3.3351959312558597,2.5543211163746142
+1,Deaths,107,Barbados,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.3832903565445296,1.5537868727827637,1.2239959576267239
+1,Deaths,107,Barbados,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.300638043556195,4.707225398744227,3.9121988462808672
+1,Deaths,204,Chad,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,536.2884348051857,789.6717881179891,374.6888324568476
+1,Deaths,204,Chad,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,127.39114288735695,173.36553090395915,87.9930041809899
+1,Deaths,204,Chad,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,663.6795776925433,921.351093745244,486.5129124818028
+1,Deaths,75,Austria,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,64.39799301936813,70.8617372203247,58.474791051930815
+1,Deaths,75,Austria,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.87828708852803,28.621765949389523,23.548217164695277
+1,Deaths,75,Austria,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,90.27628010789626,97.18849234366101,83.4780688938967
+1,Deaths,153,Syria,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,101.34702374142765,127.68695248843751,78.39422521300347
+1,Deaths,153,Syria,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,21.203521081354854,27.343785912455704,16.256118109552805
+1,Deaths,153,Syria,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,122.55054482278268,149.33106227143742,97.72448766034115
+1,Deaths,376,Northern Mariana Islands,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.44661239031807937,0.5551933189459883,0.371701052726731
+1,Deaths,376,Northern Mariana Islands,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.25384142944451743,0.31058623863132595,0.21175698474014487
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7004538197625959,0.8237298581592755,0.6117541368014623
+1,Deaths,127,El Salvador,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,19.024880683551896,28.626953695985865,14.387889305943286
+1,Deaths,127,El Salvador,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.66537242967155,13.31052854972846,7.3095939715054
+1,Deaths,127,El Salvador,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,28.69025311322345,40.03136562875999,22.864141620257037
+1,Deaths,179,Ethiopia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1567.4015158785483,2908.046144998598,1016.5823426890086
+1,Deaths,179,Ethiopia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,898.1557536328907,1171.4470450726733,675.5507037890497
+1,Deaths,179,Ethiopia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2465.557269511439,3722.788775298399,1841.019273342576
+1,Deaths,209,Guinea-Bissau,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,48.474850964796765,66.2835729031097,34.9641882938828
+1,Deaths,209,Guinea-Bissau,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.891697777892022,21.293406977384326,11.035295347567887
+1,Deaths,209,Guinea-Bissau,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,64.36654874268869,82.71564439735279,49.4723765949875
+1,Deaths,157,Yemen,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,600.0983451615291,847.2290194176439,414.93881972632795
+1,Deaths,157,Yemen,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,131.86954298081358,180.90327615662704,87.71061748283071
+1,Deaths,157,Yemen,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,731.9678881423442,1002.8173120683276,537.9985148733552
+1,Deaths,131,Nicaragua,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,49.12547804588298,62.73278579889144,40.538257820340775
+1,Deaths,131,Nicaragua,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.285397244478592,13.330139244127771,8.265031804610466
+1,Deaths,131,Nicaragua,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,59.410875290361474,73.64590913540705,50.238423426385395
+1,Deaths,160,Afghanistan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1237.3270733797297,1813.2425122282305,822.9655795773776
+1,Deaths,160,Afghanistan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,287.70367193208176,408.99195273016704,145.45757473522582
+1,Deaths,160,Afghanistan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1525.0307453118107,2136.175771951098,1102.6372709332886
+1,Deaths,154,Tunisia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,289.4476350239172,376.2916395471959,211.4754970246471
+1,Deaths,154,Tunisia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,268.5345281388444,379.3744611913639,196.68898183317845
+1,Deaths,154,Tunisia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,557.9821631627608,691.0913253640628,448.1964291217035
+1,Deaths,178,Eritrea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,202.59074709268543,291.7948511081809,122.2011930772362
+1,Deaths,178,Eritrea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,48.05939328177957,64.14744832942922,32.43460762658111
+1,Deaths,178,Eritrea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,250.65014037446545,342.1861668781802,167.23165672704417
+1,Deaths,210,Liberia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,73.0363672220895,101.38836977123957,53.920359965087385
+1,Deaths,210,Liberia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.91841893676224,38.00179139859947,17.00660444538899
+1,Deaths,210,Liberia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,98.95478615885158,131.55148716226026,72.75167950946751
+1,Deaths,183,Mauritius,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.93554886814615,3.255215457650486,2.6279068456543846
+1,Deaths,183,Mauritius,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.266991038378152,1.4088040712101773,1.1430446887655275
+1,Deaths,183,Mauritius,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.202539906524293,4.5494209363332345,3.8755371146338398
+1,Deaths,161,Bangladesh,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,648.9746604158534,774.0387323487639,471.2091449862684
+1,Deaths,161,Bangladesh,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,180.82994767817917,254.30564283939924,115.64316870598705
+1,Deaths,161,Bangladesh,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,829.8046080940325,990.7010864334268,610.9258962522449
+1,Deaths,28,Solomon Islands,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.10761532762035,20.409701059536843,8.736258326945357
+1,Deaths,28,Solomon Islands,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.6511625067639044,5.514956879168213,2.0188125249508193
+1,Deaths,28,Solomon Islands,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,17.758777834384247,24.51392307359701,11.203104621788956
+1,Deaths,155,Turkey,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1094.8467625803137,1281.4618822424634,768.9057157577453
+1,Deaths,155,Turkey,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,208.49303425940272,251.32674664793194,157.41268817824195
+1,Deaths,155,Turkey,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1303.3397968397173,1498.9639651028378,971.5694862462599
+1,Deaths,385,Puerto Rico,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,35.29163495932793,39.03884647220598,31.921527252614656
+1,Deaths,385,Puerto Rico,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.423521240826355,10.432266192832229,8.52070413905045
+1,Deaths,385,Puerto Rico,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,44.71515620015427,48.58159338192539,41.197218036141464
+1,Deaths,132,Panama,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.440225263390804,28.1626288843661,22.861938215143734
+1,Deaths,132,Panama,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.875455177951055,6.547661101167575,5.230693585011994
+1,Deaths,132,Panama,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,31.3156804413418,34.200696129480235,28.473067271132823
+1,Deaths,205,Cote d'Ivoire,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,606.5879003270732,807.5471102615124,458.43750430259666
+1,Deaths,205,Cote d'Ivoire,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,185.1002756337707,253.5066428258224,124.36540692512874
+1,Deaths,205,Cote d'Ivoire,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,791.6881759608445,1008.7657778439406,624.4999547145173
+1,Deaths,79,Finland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.276246421633243,32.513429010287496,26.58309091373454
+1,Deaths,79,Finland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.323225846050315,9.37013696112231,7.449865597518434
+1,Deaths,79,Finland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,37.59947226768358,41.113239220766424,34.723357743146956
+1,Deaths,185,Rwanda,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,177.36324203028988,255.64500088543,107.7861563945654
+1,Deaths,185,Rwanda,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,75.29893059948613,107.7205118125108,52.82293228432501
+1,Deaths,185,Rwanda,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,252.66217262977568,330.6828224516894,176.15875493417232
+1,Deaths,206,The Gambia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,32.62144093373427,47.84988986331547,22.792675095098
+1,Deaths,206,The Gambia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.981897664653754,20.286826549758946,10.618315794795997
+1,Deaths,206,The Gambia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,47.603338598387985,64.4249461490453,36.61245273893655
+1,Deaths,211,Mali,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,655.8619675882114,975.1600675443877,448.6763581087457
+1,Deaths,211,Mali,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,155.21506635279405,223.85790033139966,107.66186053162608
+1,Deaths,211,Mali,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,811.0770339410052,1151.1397175284894,580.6752315132097
+1,Deaths,162,Bhutan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,46.26265598358311,59.59255114311102,29.915584408679575
+1,Deaths,162,Bhutan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,11.494806628242543,15.96143066250496,8.016014397716324
+1,Deaths,162,Bhutan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,57.757462611825616,72.34329892993762,40.511533381110716
+1,Deaths,180,Kenya,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,839.6382687645614,1138.2475656286858,504.69247524729275
+1,Deaths,180,Kenya,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,234.43935004119098,372.5964731306248,168.80711216928046
+1,Deaths,180,Kenya,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1074.0776188057541,1396.0973968043531,749.7853652390164
+1,Deaths,108,Belize,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.75713299852965,16.318299025296465,13.352301023570506
+1,Deaths,108,Belize,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.083699002179537,3.3673701003070686,2.8116407941975696
+1,Deaths,108,Belize,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,17.840832000709174,19.424391291809265,16.3279533334473
+1,Deaths,12,Laos,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,109.39447435927191,148.95960826121097,68.46078388476889
+1,Deaths,12,Laos,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,23.2212570198271,31.815212734629604,15.194340946011572
+1,Deaths,12,Laos,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,132.615731379099,175.88036825923558,86.92282365961661
+1,Deaths,186,Seychelles,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.675042526464213,0.9044823542285974,0.5870666310082123
+1,Deaths,186,Seychelles,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.046049364699651575,0.06246607989534437,0.03740368715192141
+1,Deaths,186,Seychelles,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7210918911638655,0.9604436119465574,0.6319135669040737
+1,Deaths,184,Mozambique,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,561.9016412269809,698.8016163014138,445.8002922942524
+1,Deaths,184,Mozambique,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,219.45093308039668,279.9293947209782,171.050184943865
+1,Deaths,184,Mozambique,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,781.3525743073789,935.8349785691864,654.5277387646154
+1,Deaths,133,Venezuela,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,962.7725236514116,1184.7482456016,771.6088362606087
+1,Deaths,133,Venezuela,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,119.41356918982825,143.1564370540189,97.61156570140604
+1,Deaths,133,Venezuela,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1082.1860928412407,1307.0885944215388,890.340423314417
+1,Deaths,212,Mauritania,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,47.358451469199125,68.05825856918128,35.15230829969947
+1,Deaths,212,Mauritania,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,27.149599863475743,35.8289080152357,19.30486027276684
+1,Deaths,212,Mauritania,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,74.50805133267487,95.58634852016235,59.60571837792807
+1,Deaths,422,"Virgin Islands, U.S.",1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.3355598249032499,1.5489391309771594,1.108093568352284
+1,Deaths,422,"Virgin Islands, U.S.",2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7695486147409973,0.9047641260891162,0.6640021242118291
+1,Deaths,422,"Virgin Islands, U.S.",3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.105108439644253,2.3754898742276076,1.8480235882684006
+1,Deaths,29,Tonga,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.418960162005042,0.503593491951885,0.3488836720964494
+1,Deaths,29,Tonga,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.14908279497199659,0.18861103643378405,0.11649232562750389
+1,Deaths,29,Tonga,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.5680429569770393,0.6673410272078669,0.4886064425347324
+1,Deaths,207,Ghana,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,528.0310724250045,641.2245604048193,428.9269750715538
+1,Deaths,207,Ghana,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,222.03125107922648,385.1394853598516,141.01108695966366
+1,Deaths,207,Ghana,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,750.0623235042311,934.4316219778126,602.981660240225
+1,Deaths,80,France,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,595.9606391832033,652.0110607178831,545.7275253590288
+1,Deaths,80,France,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,375.32706142190875,416.04574284807563,338.03586681599285
+1,Deaths,80,France,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,971.2877006051101,1043.4408217585906,906.5604005656793
+1,Deaths,10,Cambodia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1516.6714033465128,1876.3332805227922,1093.788967582839
+1,Deaths,10,Cambodia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1963.0883590713913,3077.0842764901918,712.3928017888929
+1,Deaths,10,Cambodia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3479.7597624179016,4663.103645944026,1964.9258161026378
+1,Deaths,11,Indonesia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1568.5367351202115,1702.629462295228,1379.4771478964465
+1,Deaths,11,Indonesia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,581.2002121859219,737.8790658944763,335.03528711441555
+1,Deaths,11,Indonesia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2149.736947306132,2374.7634453563087,1773.4809155416397
+1,Deaths,13,Malaysia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,204.52366680300057,237.88267571934378,171.40009336173023
+1,Deaths,13,Malaysia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,23.699132757835578,28.45203291827761,18.626205128273302
+1,Deaths,13,Malaysia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,228.2227995608364,261.92120501304544,193.7108965704394
+1,Deaths,181,Madagascar,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,499.6618196827875,678.4431764916822,339.6972196570363
+1,Deaths,181,Madagascar,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,147.04068199762378,198.2427229162441,109.50316977477374
+1,Deaths,181,Madagascar,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,646.7025016804103,830.7963048352091,470.71523675870793
+1,Deaths,187,Somalia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,445.92452977917276,695.745654364952,281.22495418874064
+1,Deaths,187,Somalia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,145.32801461160543,208.657805837968,100.19913597865684
+1,Deaths,187,Somalia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,591.2525443907779,855.9453144916803,401.8628751502964
+1,Deaths,213,Niger,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,607.2199947119595,890.6247208483965,421.7139267697347
+1,Deaths,213,Niger,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,139.21180802828366,207.04815824556528,92.55463267280751
+1,Deaths,213,Niger,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,746.4318027402435,1044.744128611925,539.547656627779
+1,Deaths,109,Cuba,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,85.27807482003385,99.06026960299735,73.17588698115773
+1,Deaths,109,Cuba,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,132.2724722409727,151.91224340756062,115.29357694886764
+1,Deaths,109,Cuba,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,217.55054706100665,241.2545097692112,195.87426602783128
+1,Deaths,63,Ukraine,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,709.5246496651941,775.2840387878664,649.3054895186709
+1,Deaths,63,Ukraine,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,128.67819446804384,140.42097381611038,117.24791520976277
+1,Deaths,63,Ukraine,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,838.2028441332368,907.9792759007908,775.9238126892908
+1,Deaths,30,Vanuatu,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.643739194894535,16.273280687015184,4.588699669799069
+1,Deaths,30,Vanuatu,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.2322645158563486,5.061874165585994,1.7465711853133152
+1,Deaths,30,Vanuatu,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.876003710750881,19.547952940906026,6.788151598191429
+1,Deaths,38,Mongolia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.90123384009304,84.81812956774037,42.70241047151856
+1,Deaths,38,Mongolia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.69399124320103,11.395513181048626,6.044668207399327
+1,Deaths,38,Mongolia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,78.59522508329391,93.88038139616701,50.356230580317835
+1,Deaths,189,Tanzania,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,559.7370054917335,673.0752814124033,451.8598146293499
+1,Deaths,189,Tanzania,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,367.8804847198624,500.05673061407845,262.02808370973713
+1,Deaths,189,Tanzania,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,927.6174902115943,1127.6745948914156,769.8768585177618
+1,Deaths,54,Slovakia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,82.14220173803173,92.97610937802537,70.47797699950891
+1,Deaths,54,Slovakia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,20.76647562867431,24.63337200652813,16.136113949433668
+1,Deaths,54,Slovakia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,102.90867736670637,114.49726310934952,90.67650621643564
+1,Deaths,89,Netherlands,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,71.68733907777802,78.24751532224252,65.65778961605538
+1,Deaths,89,Netherlands,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.22072981861571,76.89633876851653,61.4300022934251
+1,Deaths,89,Netherlands,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,140.9080688963937,151.3262287456645,130.6304907318071
+1,Deaths,15,Myanmar,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,995.0876192457918,1271.6727617675872,772.3206813349376
+1,Deaths,15,Myanmar,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,77.90428243390554,103.69780985145975,55.832025687062924
+1,Deaths,15,Myanmar,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1072.9919016796991,1342.7672165033907,853.3967509091799
+1,Deaths,55,Slovenia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,22.522209519091362,25.117090364777578,20.093681580041103
+1,Deaths,55,Slovenia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.871024216054073,4.369113018820171,3.4098715452896937
+1,Deaths,55,Slovenia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,26.393233735145422,29.03825696574774,23.990625531530146
+1,Deaths,111,Dominican Republic,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,191.2292701255459,236.07940244707956,146.56945847660407
+1,Deaths,111,Dominican Republic,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,47.01865119357434,60.64123284522644,38.43632604137766
+1,Deaths,111,Dominican Republic,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,238.24792131912037,286.0481337379717,193.99440373739358
+1,Deaths,214,Nigeria,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3300.2270845348294,4408.312331946953,2384.2475554528946
+1,Deaths,214,Nigeria,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1358.0274533051356,1822.8859430050834,948.0579697917424
+1,Deaths,214,Nigeria,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4658.254537839969,6042.224073707499,3509.647525505499
+1,Deaths,208,Guinea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,323.90548666899076,418.76492857799826,245.37852331186517
+1,Deaths,208,Guinea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,99.47916115531906,132.885355992856,69.22128913705612
+1,Deaths,208,Guinea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,423.3846478243091,526.9486432594274,328.6760448003557
+1,Deaths,39,Tajikistan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,41.30241526563519,47.69059846294033,35.94904256608968
+1,Deaths,39,Tajikistan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,6.380819952095243,7.739003472697156,4.893069360719933
+1,Deaths,39,Tajikistan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,47.683235217730484,54.1537395126204,41.9431727816781
+1,Deaths,16,Philippines,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,588.9972428341002,695.1019201672075,500.67457336829773
+1,Deaths,16,Philippines,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,124.87809044584316,145.16579144301727,107.02250973008458
+1,Deaths,16,Philippines,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,713.8753332799437,823.4026146836472,624.1657655476159
+1,Deaths,140,Bahrain,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.930249939997163,10.436735117968038,7.4224842706055645
+1,Deaths,140,Bahrain,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.6340088733862932,2.0847286895506603,1.1225178776269067
+1,Deaths,140,Bahrain,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.56425881338346,12.192064594571795,8.873311352986121
+1,Deaths,81,Germany,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,428.72829023605556,490.91854766878845,370.3042073290444
+1,Deaths,81,Germany,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,222.40637331598194,255.95215559964868,193.19799349048375
+1,Deaths,81,Germany,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,651.1346635520356,721.8573677386423,586.0603769050945
+1,Deaths,14,Maldives,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.444760669002572,1.7106637672279925,1.21938574675415
+1,Deaths,14,Maldives,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.9804881990137921,1.213603869517144,0.8323133268268021
+1,Deaths,14,Maldives,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.4252488680163693,2.7811839436740766,2.103670810801118
+1,Deaths,110,Dominica,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.948839155293802,1.0552900381481267,0.8499834782946893
+1,Deaths,110,Dominica,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.4063844445868539,0.4537672210861412,0.36295962843669316
+1,Deaths,110,Dominica,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.3552235998806557,1.4716285059437477,1.2452090457143552
+1,Deaths,17,Sri Lanka,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,270.0302889128301,337.63179427982465,212.65871313317382
+1,Deaths,17,Sri Lanka,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,74.82648383191969,101.27842389239605,49.22852134959411
+1,Deaths,17,Sri Lanka,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,344.8567727447497,416.84544174401975,272.93289110676136
+1,Deaths,90,Norway,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.74590403931421,31.03697352909827,28.248830791086096
+1,Deaths,90,Norway,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.841631636901521,16.51864563921076,15.177631365881954
+1,Deaths,90,Norway,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,45.587535676215666,47.168656764325235,43.77118554567299
+1,Deaths,66,Brunei,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.42630572139555,5.3084386725948685,3.3377373443067735
+1,Deaths,66,Brunei,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.0014024971473725,1.1828743709106515,0.8221833119409914
+1,Deaths,66,Brunei,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.4277082185429215,6.3229721713146425,4.246779694513908
+1,Deaths,40,Turkmenistan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,60.26499546253952,68.02215416655073,53.07852367390172
+1,Deaths,40,Turkmenistan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.235731672519144,10.687853679761028,8.068118798460969
+1,Deaths,40,Turkmenistan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.50072713505871,77.7121363618343,62.19411039666294
+1,Deaths,141,Egypt,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,620.0776373974032,826.1684157703273,363.6162287562992
+1,Deaths,141,Egypt,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,108.24211790123954,170.52972278843438,64.5313099920719
+1,Deaths,141,Egypt,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,728.319755298645,952.7438575676997,455.57663887750095
+1,Deaths,83,Iceland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.275439549538593,2.469934505408345,2.110849274957077
+1,Deaths,83,Iceland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.4950886650757568,0.5486499987198299,0.4454907229924822
+1,Deaths,83,Iceland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.7705282146143473,2.965964701042742,2.5911722249680618
+1,Deaths,435,South Sudan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,307.3150536266263,453.29320732523837,170.77997473744105
+1,Deaths,435,South Sudan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,71.43740130985393,97.59876653736124,47.81085676898228
+1,Deaths,435,South Sudan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,378.75245493648,537.07057688912,233.45115386742506
+1,Deaths,112,Grenada,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.7055451801148105,4.081930114591819,3.380216532403628
+1,Deaths,112,Grenada,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.1908086005187837,1.325380546828941,1.0652822124447792
+1,Deaths,112,Grenada,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.8963537806335875,5.311412117156889,4.552555106725758
+1,Deaths,57,Belarus,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,129.94288319559521,145.1396881869901,115.72665402128035
+1,Deaths,57,Belarus,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,36.480470203022094,40.47014669714267,32.74231633913118
+1,Deaths,57,Belarus,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,166.42335339861728,182.731143526446,150.99243111499845
+1,Deaths,18,Thailand,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,563.9298896136909,680.7776981038301,478.4395866924606
+1,Deaths,18,Thailand,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,129.58512821861595,212.06918253370495,89.09628175271177
+1,Deaths,18,Thailand,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,693.515017832308,871.4659492084348,583.2823165664544
+1,Deaths,91,Portugal,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,58.206755822474655,64.32933699321045,52.12144470019015
+1,Deaths,91,Portugal,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,39.86131811442492,44.09353614398525,35.43281081442804
+1,Deaths,91,Portugal,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,98.06807393689962,105.56471759131017,90.54516135448654
+1,Deaths,19,Timor-Leste,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,12.25375362319179,18.361058675889804,6.761966294096407
+1,Deaths,19,Timor-Leste,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.42250997378543,4.5638168352696225,2.190704634595335
+1,Deaths,19,Timor-Leste,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.676263596977234,21.702310096353497,9.127421410667374
+1,Deaths,82,Greece,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,84.79592089837152,93.2062053766284,77.35354761676469
+1,Deaths,82,Greece,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.904482521235767,15.509430120628075,12.443059806521216
+1,Deaths,82,Greece,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,98.70040341960723,107.11177229914811,91.1543587650071
+1,Deaths,142,Iran,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1464.795311743087,1545.2935725327984,1167.2497954010066
+1,Deaths,142,Iran,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,350.26181219831903,384.07154469946846,283.9726786830471
+1,Deaths,142,Iran,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1815.057123941406,1905.1994802693503,1504.3381819715203
+1,Deaths,33,Armenia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.922910382427126,32.397978323614964,27.714493453023348
+1,Deaths,33,Armenia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.329862700314793,14.565516047492181,12.119766282242116
+1,Deaths,33,Armenia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,43.25277308274191,45.93297023957575,40.68429382259906
+1,Deaths,172,Equatorial Guinea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.350933997164766,14.537913178872861,6.931524430256567
+1,Deaths,172,Equatorial Guinea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.758383636202574,7.474920101581262,2.894457568894432
+1,Deaths,172,Equatorial Guinea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.109317633367349,21.52622877191269,10.179493893796868
+1,Deaths,58,Estonia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.272737617863928,16.07102524302159,10.958711296417349
+1,Deaths,58,Estonia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.9295351403012067,3.433221557609401,2.46669786234402
+1,Deaths,58,Estonia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,16.202272758165137,19.005504633765348,13.827782699443354
+1,Deaths,169,Central African Republic,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,128.6812134424132,176.93929777204534,85.71999114723073
+1,Deaths,169,Central African Republic,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.781919786510677,42.473318157933114,18.85153167009832
+1,Deaths,169,Central African Republic,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,158.4631332289239,209.51951290573322,112.32365056702243
+1,Deaths,20,Vietnam,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2316.308821134613,2759.656912118351,1864.0741372513864
+1,Deaths,20,Vietnam,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,564.3076993917093,721.3674553885535,445.4114076446345
+1,Deaths,20,Vietnam,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2880.616520526319,3386.2439263965034,2391.5806067504254
+1,Deaths,84,Ireland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,18.86686758511581,21.092409577229606,16.709579314709202
+1,Deaths,84,Ireland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,6.747272494294905,7.520797720223529,6.00103946335818
+1,Deaths,84,Ireland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.6141400794107,28.03643714549182,23.21034232788541
+1,Deaths,143,Iraq,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2401.9348885611125,2715.499061370916,1999.5442247910908
+1,Deaths,143,Iraq,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,536.7688725722749,636.0940637863669,419.9963957004945
+1,Deaths,143,Iraq,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2938.7037611333876,3268.964156112503,2509.5100490083996
+1,Deaths,118,Suriname,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.465498661967054,11.055968468011,8.031953248258924
+1,Deaths,118,Suriname,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.066092256100258,4.564214446854603,3.574355082781894
+1,Deaths,118,Suriname,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.531590918067318,15.26781701666283,11.993388063587956
+1,Deaths,113,Guyana,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.00485379720569,15.449845122728465,10.925561872082984
+1,Deaths,113,Guyana,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.778659259519442,10.210125559323034,7.407509913423767
+1,Deaths,113,Guyana,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,21.783513056725113,24.55456124954496,19.340270026945902
+1,Deaths,173,Gabon,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,22.397094784049422,29.632128895878566,15.685525178538969
+1,Deaths,173,Gabon,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.756427619749148,11.443318754611806,6.168749314517383
+1,Deaths,173,Gabon,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,31.15352240379857,38.64069294152268,23.636015275537943
+1,Deaths,163,India,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,12395.644641989013,13426.87094785585,11247.246729220506
+1,Deaths,163,India,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7890.838244958051,9592.599959331243,5338.4285344432255
+1,Deaths,163,India,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,20286.48288694706,22170.144833875467,17377.26958195694
+1,Deaths,114,Haiti,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,274.3036545025073,388.55089729792905,195.3785312587579
+1,Deaths,114,Haiti,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,55.11916581066227,80.64347700922504,34.925070904036744
+1,Deaths,114,Haiti,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,329.42282031316887,451.71322513783844,249.44216386665315
+1,Deaths,164,Nepal,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,200.6631823592432,302.35651723018424,145.1095263607217
+1,Deaths,164,Nepal,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,116.06769812557005,169.33937074823035,66.69133969850857
+1,Deaths,164,Nepal,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,316.7308804848134,400.5322716953841,243.39166384676523
+1,Deaths,170,Congo,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,54.494791252765495,74.93300678084609,37.13635335693114
+1,Deaths,170,Congo,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.736381303330997,33.96966390023863,18.37462029172956
+1,Deaths,170,Congo,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,80.23117255609651,103.3232301718316,59.79127814454006
+1,Deaths,34,Azerbaijan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,81.21333737207654,95.0975231633295,66.61166450446976
+1,Deaths,34,Azerbaijan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,24.127598981327772,31.659248720288158,16.823242984380652
+1,Deaths,34,Azerbaijan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,105.34093635340429,120.7643354698948,89.93646692793334
+1,Deaths,115,Jamaica,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,102.61845509530569,127.80569709878888,80.47034373147085
+1,Deaths,115,Jamaica,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,12.479859078907628,15.664196164433429,9.814064359000701
+1,Deaths,115,Jamaica,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,115.09831417421327,139.49165898404218,92.50281651129353
+1,Deaths,165,Pakistan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1993.9667602871634,2807.8604053261824,1479.7572184395287
+1,Deaths,165,Pakistan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,333.66436363055055,416.4486396125007,257.485128687247
+1,Deaths,165,Pakistan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2327.6311239177103,3147.751651853532,1820.3879793676242
+1,Deaths,119,Trinidad and Tobago,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,10.884323437701942,13.818177922248616,8.401630281957287
+1,Deaths,119,Trinidad and Tobago,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.7372299982884187,4.73485398432868,2.8902942117019657
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.62155343599035,17.767229101178444,11.965358953810277
+1,Deaths,135,Brazil,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2067.5730282288346,2130.1357562426233,1994.722893909219
+1,Deaths,135,Brazil,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,411.1834787061884,425.85560382749804,397.23153029310504
+1,Deaths,135,Brazil,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2478.7565069350235,2543.8358143830865,2403.726260956613
+1,Deaths,85,Israel,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.42023924686888,32.50384173874286,26.770144297984018
+1,Deaths,85,Israel,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.99753895713897,28.994982853346,23.11449757837838
+1,Deaths,85,Israel,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,55.41777820400792,59.57453668881619,51.27095507825204
+1,Deaths,59,Latvia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,31.711083005247115,37.066374647734364,26.845305045395296
+1,Deaths,59,Latvia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.521215240470246,9.050512698922782,6.32762570233741
+1,Deaths,59,Latvia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,39.23229824571738,44.58354017721064,34.21732020144856
+1,Deaths,171,Democratic Republic of the Congo,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1127.9812772741311,1452.9207381003555,823.1510498716118
+1,Deaths,171,Democratic Republic of the Congo,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,411.69797035042933,566.1457410676996,253.15068339009895
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1539.679247624559,1923.9083866402286,1133.783107297499
+1,Deaths,168,Angola,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,290.733022012726,368.4914537314386,233.75654654858587
+1,Deaths,168,Angola,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,150.6375219350167,194.08728888914533,117.85802374246936
+1,Deaths,168,Angola,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,441.37054394774214,529.4496064176429,367.2253652933814
+1,Deaths,116,Saint Lucia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.5066487242527096,3.947397582793677,3.111038597912447
+1,Deaths,116,Saint Lucia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.3674848338692012,1.5103254930283456,1.234475993654036
+1,Deaths,116,Saint Lucia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.874133558121922,5.322797432880922,4.446152228724835
+1,Deaths,35,Georgia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,98.17556891208584,106.17154181466452,90.72881502508443
+1,Deaths,35,Georgia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,18.924470515610395,20.703353103703066,17.33974158733197
+1,Deaths,35,Georgia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,117.10003942769609,125.14533120451483,109.32480383534829
+1,Deaths,136,Paraguay,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,61.866098204666955,79.61580742383859,47.70326970446421
+1,Deaths,136,Paraguay,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.458346113573585,17.13040733392235,10.32372705584815
+1,Deaths,136,Paraguay,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,75.32444431824064,94.72884838012389,60.50191158916186
+1,Deaths,60,Lithuania,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,42.410955909535595,47.12953060079128,38.33222304546385
+1,Deaths,60,Lithuania,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.77232361948768,8.659816967441966,6.991343700742865
+1,Deaths,60,Lithuania,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,50.18327952902337,55.04825159785155,45.95636045455704
+1,Deaths,117,Saint Vincent and the Grenadines,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.3168949511653296,3.6778753926410475,2.9940654838094596
+1,Deaths,117,Saint Vincent and the Grenadines,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.3020995342980546,1.4284824548194812,1.1799194632674341
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.618994485463378,5.011738001242536,4.253357095367826
+1,Deaths,139,Algeria,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,444.21618016023643,565.9154365547013,352.37592156565097
+1,Deaths,139,Algeria,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,139.43941139231472,171.41077563278938,108.56308470641004
+1,Deaths,139,Algeria,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,583.6555915525518,708.09134893523,493.5057729058506
+1,Deaths,298,American Samoa,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7482240279478933,0.94978961851144,0.6508353548902589
+1,Deaths,298,American Samoa,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.24067291980561467,0.2886533631760801,0.1876217322511766
+1,Deaths,298,American Samoa,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.988896947753508,1.1759274632143877,0.8742973397224657
+1,Deaths,144,Jordan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,58.01718694969042,68.20039603763165,48.82498139176865
+1,Deaths,144,Jordan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,24.245228866043693,30.58285512814417,19.415387461243473
+1,Deaths,144,Jordan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,82.26241581573417,96.20129721477117,71.0150818474485
+1,Deaths,36,Kazakhstan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,311.9047840542963,346.79062622985776,281.97282764199315
+1,Deaths,36,Kazakhstan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.88842501381525,77.95056653217831,62.519265346783925
+1,Deaths,36,Kazakhstan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,381.7932090681118,420.0634760055744,348.9949095131978
+1,Deaths,200,Benin,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,221.35283796601738,297.3906547212563,165.04184281487662
+1,Deaths,200,Benin,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,83.51422179332289,113.62533764974253,58.52777788423762
+1,Deaths,200,Benin,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,304.8670597593403,386.9818107642229,240.29074120654187
+1,Deaths,190,Uganda,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,523.2474975078513,739.9869814145155,344.86254888683743
+1,Deaths,190,Uganda,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,203.02691429509622,266.83999598079566,149.83596777584037
+1,Deaths,190,Uganda,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,726.2744118029476,943.6220609745674,529.288966940221
+1,Deaths,215,Sao Tome and Principe,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.3601617506558776,3.051228953852788,1.7002614461068506
+1,Deaths,215,Sao Tome and Principe,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,0.7960976914514608,1.1188448191081377,0.5744167483810915
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.1562594421073378,3.93991245198005,2.417941368021916
+1,Deaths,86,Italy,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,444.6568877317132,485.56369742544683,408.536742357391
+1,Deaths,86,Italy,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,374.4960758308304,415.53436073464337,338.30140810608384
+1,Deaths,86,Italy,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,819.1529635625417,875.7047294292129,768.6296623209257
+1,Deaths,61,Moldova,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,38.607733994032856,41.90818283581943,35.58137825049087
+1,Deaths,61,Moldova,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.336309402290507,8.013398578576066,6.729860929987375
+1,Deaths,61,Moldova,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,45.94404339632335,49.380289415418474,42.82305203465758
+1,Deaths,145,Kuwait,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,19.018094564943738,21.344800986029217,16.69753229037281
+1,Deaths,145,Kuwait,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.1279576255073653,2.382584378192335,1.8888152857650218
+1,Deaths,145,Kuwait,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,21.146052190451098,23.56501198342242,18.854613068457052
+1,Deaths,22,Fiji,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,7.5258644277661055,8.929064751872616,6.296968313316638
+1,Deaths,22,Fiji,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.739358244110248,4.606578102811454,2.9694689806710843
+1,Deaths,22,Fiji,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,11.265222671876382,12.888760998739535,9.701683002840959
+1,Deaths,37,Kyrgyzstan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,46.13213778281965,50.70565636236733,41.768466875130656
+1,Deaths,37,Kyrgyzstan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,9.925786543031455,10.882226776408991,9.025168598239908
+1,Deaths,37,Kyrgyzstan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,56.05792432585123,60.96987500953695,51.30599255261055
+1,Deaths,191,Zambia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,224.63326942701417,273.4782209775917,181.74351136173334
+1,Deaths,191,Zambia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,87.7086371165967,110.83376811445379,68.81594309987518
+1,Deaths,191,Zambia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,312.34190654361083,367.5335831523087,265.145635280117
+1,Deaths,62,Russian Federation,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2988.208554060547,3103.1878947911564,2887.125514294858
+1,Deaths,62,Russian Federation,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,729.8707652123621,754.3090104089451,705.101551353522
+1,Deaths,62,Russian Federation,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3718.0793192729193,3840.924576458719,3613.0259623317206
+1,Deaths,216,Senegal,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,277.85923586067656,415.266846947215,208.73468794620382
+1,Deaths,216,Senegal,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,122.79701854007264,159.00667488870863,90.77778376992715
+1,Deaths,216,Senegal,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,400.6562544007495,522.7361258880252,323.760242862197
+1,Deaths,87,Luxembourg,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,3.1712725192422075,3.643410401767707,2.717862705690278
+1,Deaths,87,Luxembourg,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.054212058684503,2.390419764602245,1.7515160281907318
+1,Deaths,87,Luxembourg,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.225484577926713,5.8137301201453795,4.68498700686849
+1,Deaths,146,Lebanon,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,66.32004183264556,98.00752419946204,50.24773472719758
+1,Deaths,146,Lebanon,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,18.959966945717962,26.417367874210356,13.50267885578381
+1,Deaths,146,Lebanon,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,85.28000877836352,119.53745201837216,67.91169526127644
+1,Deaths,217,Sierra Leone,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,199.46059759153744,264.11325818908887,146.59660859136764
+1,Deaths,217,Sierra Leone,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,50.51213142495094,69.92005307198369,34.89095641607979
+1,Deaths,217,Sierra Leone,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,249.9727290164883,316.54155410108376,190.52806645488474
+1,Deaths,88,Malta,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,4.407020142394916,4.780627091198617,4.048552674039854
+1,Deaths,88,Malta,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.0489748250049786,1.1653597423322894,0.9432275178331723
+1,Deaths,88,Malta,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,5.455994967399902,5.847982010246291,5.08490171349255
+1,Deaths,121,Bolivia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,182.0591203725493,237.5120896687327,124.64773659262609
+1,Deaths,121,Bolivia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,48.920335370979394,62.335684904216336,35.75940400780291
+1,Deaths,121,Bolivia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,230.9794557435291,288.4036839917505,162.637159151692
+1,Deaths,193,Botswana,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.208006551812606,32.525357922519724,15.361682508596337
+1,Deaths,193,Botswana,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.011258366763352,19.68321638191313,9.290413608674001
+1,Deaths,193,Botswana,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,39.21926491857586,48.14664456014939,28.155610253259734
+1,Deaths,122,Ecuador,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,200.3323427432345,231.2137996211442,174.67893980224682
+1,Deaths,122,Ecuador,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,50.98809498020306,58.43274104359919,44.90190399653632
+1,Deaths,122,Ecuador,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,251.32043772343795,283.6832188280062,224.7121411114173
+1,Deaths,194,Lesotho,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,73.0828237887115,93.30293916759345,52.73881685802727
+1,Deaths,194,Lesotho,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,15.829892981160755,22.087188536090096,10.970000245291054
+1,Deaths,194,Lesotho,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,88.9127167698724,109.97646761706598,67.310252735794
+1,Deaths,196,South Africa,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,749.0180923343221,816.1032196150567,633.8465634258374
+1,Deaths,196,South Africa,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,268.0958209733719,343.2535218210404,229.73957538237093
+1,Deaths,196,South Africa,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1017.1139133076949,1114.977465675007,926.9125244022908
+1,Deaths,123,Peru,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,524.3483367693102,652.1259698725346,396.7732668858928
+1,Deaths,123,Peru,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,116.55356592312006,155.34594251908555,91.18979558563008
+1,Deaths,123,Peru,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,640.9019026924301,774.0510150173943,517.927770834216
+1,Deaths,218,Togo,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,124.7391007787314,160.66942778406408,94.34840390035757
+1,Deaths,218,Togo,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,44.33145820446182,59.754162094934706,30.467595301439207
+1,Deaths,218,Togo,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,169.0705589831934,208.78227896913168,129.87726895926085
+1,Deaths,195,Namibia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,35.35516802632894,45.43419322341959,25.863872669478486
+1,Deaths,195,Namibia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,14.849213727147417,20.84463248839355,10.291732203653112
+1,Deaths,195,Namibia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,50.20438175347638,61.448344625660276,39.483787932446795
+1,Deaths,95,United Kingdom,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,226.95007186204344,231.65988226445407,221.90881746715462
+1,Deaths,95,United Kingdom,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,183.8611907617036,188.22055447542215,179.41104377163094
+1,Deaths,95,United Kingdom,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,410.8112626237479,417.5440247040046,403.965847173293
+1,Deaths,197,Swaziland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,34.351760174733165,44.808833785838395,22.657031003499895
+1,Deaths,197,Swaziland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,8.457777576139314,12.403060066476606,5.47868260182975
+1,Deaths,197,Swaziland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,42.80953775087255,54.05935818253663,30.773632090056363
+1,Deaths,67,Japan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,738.9882023509189,772.1331436703006,701.0802228825552
+1,Deaths,67,Japan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,210.79828280095822,220.14701759767524,201.83540599111114
+1,Deaths,67,Japan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,949.7864851518759,984.992198245712,907.8566416366971
+1,Deaths,71,Australia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,127.83524352170053,147.0519184249914,110.26712638349082
+1,Deaths,71,Australia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,28.28279562629912,31.97027853243833,24.706731292253224
+1,Deaths,71,Australia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,156.1180391479999,175.69297580977138,138.16003780876338
+1,Deaths,41,Uzbekistan,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,193.6663835239756,225.9622564907581,166.351725639153
+1,Deaths,41,Uzbekistan,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,41.60689127425399,48.34134469427463,35.58747629388185
+1,Deaths,41,Uzbekistan,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,235.27327479822986,269.45472443131655,206.7643954897148
+1,Deaths,72,New Zealand,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,31.26729089757198,33.99504429616465,28.54885677891156
+1,Deaths,72,New Zealand,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,6.432582522230938,7.021588758462069,5.93278084077745
+1,Deaths,72,New Zealand,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,37.69987341980287,40.488377642959534,34.94220476849364
+1,Deaths,97,Argentina,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,601.763405447803,705.2919508782425,513.5916855215158
+1,Deaths,97,Argentina,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,151.70918085191826,173.92294064761498,131.50894668714156
+1,Deaths,97,Argentina,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,753.4725862997218,858.6929486402514,666.824735661507
+1,Deaths,47,Czech Republic,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,108.76741328925293,119.51926763895233,98.52836050553657
+1,Deaths,47,Czech Republic,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,67.09702009393567,74.22902213560667,60.40456824473275
+1,Deaths,47,Czech Republic,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,175.86443338318864,189.61941297372027,162.69117100357752
+1,Deaths,198,Zimbabwe,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,223.0659998371451,285.96610461948364,164.3543295689931
+1,Deaths,198,Zimbabwe,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,76.4466143122027,100.70898060023521,55.48923963551552
+1,Deaths,198,Zimbabwe,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,299.5126141493478,365.31090617114415,237.95565389249987
+1,Deaths,68,South Korea,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,545.6158047803644,612.5202211369107,481.7618994968704
+1,Deaths,68,South Korea,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,93.25306785306827,103.93687826128793,83.43926995037232
+1,Deaths,68,South Korea,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,638.868872633432,708.092854104876,570.5966317562621
+1,Deaths,98,Chile,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,203.04741045541707,236.81971665542073,172.39614763895773
+1,Deaths,98,Chile,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,27.815167447511364,32.043245621324466,23.874705473168078
+1,Deaths,98,Chile,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,230.86257790292885,265.31796291794825,201.14172088467777
+1,Deaths,92,Spain,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,216.11473119978888,237.25626423640827,197.0822085577595
+1,Deaths,92,Spain,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,108.66766951304818,120.47614870643885,98.59666796427342
+1,Deaths,92,Spain,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,324.7824007128372,348.633747915243,303.63710548555645
+1,Deaths,43,Albania,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,42.21187751248288,55.8983537214759,32.65246477161722
+1,Deaths,43,Albania,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,11.857077409431728,19.615721477292286,7.568179374944944
+1,Deaths,43,Albania,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,54.06895492191459,69.96056913122929,42.993724375856125
+1,Deaths,69,Singapore,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,23.231656056406727,26.146974326345916,20.583592741763212
+1,Deaths,69,Singapore,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,2.7238426401798,3.0316277850004396,2.459350671606665
+1,Deaths,69,Singapore,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,25.955498696586492,28.858672846478434,23.139766140607477
+1,Deaths,93,Sweden,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,69.56030704791714,75.36080655016849,64.17888442042886
+1,Deaths,93,Sweden,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,45.82168372481976,50.229667667702095,41.537946482192545
+1,Deaths,93,Sweden,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,115.38199077273694,122.54627738154763,108.4531596181713
+1,Deaths,44,Bosnia and Herzegovina,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,77.39793755849928,91.18184733200962,24.08596703560953
+1,Deaths,44,Bosnia and Herzegovina,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,1.7203559808716982,2.384621953731326,1.381797556354994
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,79.1182935393709,92.9708420760373,26.037742970789736
+1,Deaths,94,Switzerland,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,35.87082642318846,40.05015916616489,31.75644741552815
+1,Deaths,94,Switzerland,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,13.302693551693366,14.751838191366678,11.919379905221618
+1,Deaths,94,Switzerland,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,49.17351997488174,53.88637769920227,44.74736171753034
+1,Deaths,45,Bulgaria,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,113.74874898444224,125.5640351703141,102.81402743829295
+1,Deaths,45,Bulgaria,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,36.48263468160287,40.22422547628394,33.07857913430213
+1,Deaths,45,Bulgaria,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,150.23138366604513,162.38516549645496,138.34273938829324
+1,Deaths,147,Libya,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,144.79512243109693,209.67802832142084,98.36744102891934
+1,Deaths,147,Libya,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,29.861160533036543,39.301821257406964,20.877272272713594
+1,Deaths,147,Libya,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,174.6562829641336,242.91784599709163,128.19878290175657
+1,Deaths,46,Croatia,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,39.12140046894842,42.883880220193994,35.43700781163385
+1,Deaths,46,Croatia,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,12.546944340555333,14.234659526913719,11.09653548121021
+1,Deaths,46,Croatia,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,51.66834480950393,55.804802469827905,47.61842161694643
+1,Deaths,148,Morocco,1,Male,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,545.8973629504015,757.7395195428811,399.0237222231886
+1,Deaths,148,Morocco,2,Female,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,148.25956047435835,199.796368605428,107.7663272522842
+1,Deaths,148,Morocco,3,Both,22,All Ages,704,Exposure to mechanical forces,1,Number,2017,694.1569234247604,897.1654726065359,542.4003285976805

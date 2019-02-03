@@ -1,0 +1,586 @@
+measure_id,measure_name,location_id,location_name,sex_id,sex_name,age_id,age_name,cause_id,cause_name,metric_id,metric_name,year,val,upper,lower
+1,Deaths,200,Benin,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,8.76475848122025,10.750902604015124,7.067698828867487
+1,Deaths,200,Benin,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,4.235241459069442,5.122826908740718,3.4943889752735444
+1,Deaths,200,Benin,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,12.999999940289698,15.129343117854138,11.206169810087943
+1,Deaths,123,Peru,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,123,Peru,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,123,Peru,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,98,Chile,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,98,Chile,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,98,Chile,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,305,Bermuda,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,305,Bermuda,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,305,Bermuda,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,23,Kiribati,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,23,Kiribati,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,23,Kiribati,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,48,Hungary,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,48,Hungary,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,48,Hungary,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,175,Burundi,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,160.52990539872602,201.56205762667167,130.38831311947882
+1,Deaths,175,Burundi,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,76.47003811766594,95.70079341037984,61.075816181845525
+1,Deaths,175,Burundi,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,236.99994351639182,280.7781622950155,202.32252477866132
+1,Deaths,149,Palestine,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,90.71071272958687,121.36456704647686,68.17866374791566
+1,Deaths,149,Palestine,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,37.28928117960825,48.25957818753167,29.135745438826408
+1,Deaths,149,Palestine,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,127.99999390919508,159.25269534792187,103.72384305216208
+1,Deaths,74,Andorra,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,74,Andorra,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,74,Andorra,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,349,Greenland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,349,Greenland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,349,Greenland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,99,Uruguay,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,99,Uruguay,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,99,Uruguay,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,125,Colombia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,125,Colombia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,125,Colombia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,49,Macedonia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,49,Macedonia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,49,Macedonia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,201,Burkina Faso,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,65.47039231886373,80.37343129907902,53.63987168642624
+1,Deaths,201,Burkina Faso,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,33.52960911026784,41.454679325406225,27.975694160077712
+1,Deaths,201,Burkina Faso,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,99.00000142913154,115.30454660078651,85.51444839348186
+1,Deaths,150,Oman,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,150,Oman,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,150,Oman,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,75,Austria,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,75,Austria,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,75,Austria,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,522,Sudan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,949.8813501800693,1266.5415780435612,704.5822428063182
+1,Deaths,522,Sudan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,417.1190753665777,543.6167656969142,316.6802017659548
+1,Deaths,522,Sudan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1367.0004255466479,1705.2919065784847,1100.2101643242197
+1,Deaths,105,Antigua and Barbuda,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,105,Antigua and Barbuda,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,105,Antigua and Barbuda,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,24,Marshall Islands,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,24,Marshall Islands,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,24,Marshall Islands,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,202,Cameroon,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,306.6594813840736,376.8580610818492,248.9602310458117
+1,Deaths,202,Cameroon,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,139.34054393543641,166.54744862323508,114.94954846102738
+1,Deaths,202,Cameroon,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,446.00002531950935,520.3692132543015,383.78123409605
+1,Deaths,50,Montenegro,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,50,Montenegro,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,50,Montenegro,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,176,Comoros,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,176,Comoros,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,176,Comoros,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,203,Cape Verde,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,203,Cape Verde,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,203,Cape Verde,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,78,Denmark,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,78,Denmark,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,78,Denmark,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,77,Cyprus,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,77,Cyprus,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,77,Cyprus,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,207,Ghana,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,33.797302228043215,42.13566010266418,27.065852521830923
+1,Deaths,207,Ghana,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,15.202697629785108,18.23950079879143,12.776732812804722
+1,Deaths,207,Ghana,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,48.99999985782824,57.799946633577306,41.807412800293726
+1,Deaths,29,Tonga,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,29,Tonga,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,29,Tonga,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,206,The Gambia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.0492114711063083,2.487363974716888,1.653224027025772
+1,Deaths,206,The Gambia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.9507885445508412,1.1427642409503078,0.7859768655456131
+1,Deaths,206,The Gambia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.0000000156571454,3.49248698347338,2.5605418644570044
+1,Deaths,106,The Bahamas,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,106,The Bahamas,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,106,The Bahamas,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,107,Barbados,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,107,Barbados,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,107,Barbados,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,30,Vanuatu,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,30,Vanuatu,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,30,Vanuatu,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,128,Guatemala,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,128,Guatemala,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,128,Guatemala,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,54,Slovakia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,54,Slovakia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,54,Slovakia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,28,Solomon Islands,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,28,Solomon Islands,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,28,Solomon Islands,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,152,Saudi Arabia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2073.59578785262,2733.9466389174545,1570.0478125195325
+1,Deaths,152,Saudi Arabia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,515.4038070816796,653.0965284981121,396.751827419773
+1,Deaths,152,Saudi Arabia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2588.9995949343,3304.9377827908343,2059.9794961505568
+1,Deaths,102,United States,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,6.135185215135204,6.276548148938041,6.029880574716821
+1,Deaths,102,United States,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.7151753050062366,2.7606164859775255,2.67395995834444
+1,Deaths,102,United States,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,8.850360520141443,8.992730904339346,8.735950643634851
+1,Deaths,51,Poland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,51,Poland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,51,Poland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,55,Slovenia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,55,Slovenia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,55,Slovenia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,76,Belgium,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,76,Belgium,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,76,Belgium,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,205,Cote d'Ivoire,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,16.915142813722074,20.559301730764105,13.687825613131494
+1,Deaths,205,Cote d'Ivoire,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,7.0848572986841365,8.663676092900266,5.796260697062983
+1,Deaths,205,Cote d'Ivoire,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,24.000000112406212,27.79276295534893,20.40602254573883
+1,Deaths,101,Canada,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,101,Canada,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,101,Canada,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,25,Federated States of Micronesia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,25,Federated States of Micronesia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,25,Federated States of Micronesia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,178,Eritrea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,178,Eritrea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,178,Eritrea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,129,Honduras,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,129,Honduras,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,129,Honduras,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,182,Malawi,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,8.0774728349214,10.091596098876463,6.526925404088369
+1,Deaths,182,Malawi,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.922527113372277,4.811576803299878,3.1915836455782767
+1,Deaths,182,Malawi,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,11.999999948293686,14.160393934839167,10.228876234795258
+1,Deaths,351,Guam,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,351,Guam,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,351,Guam,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,151,Qatar,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,151,Qatar,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,151,Qatar,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,127,El Salvador,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,127,El Salvador,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,127,El Salvador,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,26,Papua New Guinea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,26,Papua New Guinea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,26,Papua New Guinea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,156,United Arab Emirates,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,156,United Arab Emirates,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,156,United Arab Emirates,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,157,Yemen,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,11661.746084001621,15341.316516723977,8477.158912310733
+1,Deaths,157,Yemen,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,5149.211275949075,6695.516108742105,3854.4434823267748
+1,Deaths,157,Yemen,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,16810.957359950706,20805.1593408868,13446.827125848307
+1,Deaths,177,Djibouti,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.7315148069624352,0.897167705494117,0.5983164912456342
+1,Deaths,177,Djibouti,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.2684851903242861,0.3264133545083823,0.2237986776158817
+1,Deaths,177,Djibouti,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.9999999972867212,1.171602731762102,0.8494090193977275
+1,Deaths,53,Serbia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,53,Serbia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,53,Serbia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,204,Chad,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,194.4940402518852,235.9983418757063,159.5407903567858
+1,Deaths,204,Chad,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,102.50593295019323,129.03617574559695,83.08274884901891
+1,Deaths,204,Chad,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,296.9999732020789,345.4296069944725,255.42775218920463
+1,Deaths,126,Costa Rica,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,126,Costa Rica,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,126,Costa Rica,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,183,Mauritius,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,183,Mauritius,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,183,Mauritius,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,27,Samoa,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,27,Samoa,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,27,Samoa,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,181,Madagascar,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,117.91430400242314,147.40615084143212,94.23602637807458
+1,Deaths,181,Madagascar,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,54.085710422399615,66.29340983349783,44.23861497377883
+1,Deaths,181,Madagascar,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,172.00001442482278,202.4190629376739,146.54879407211192
+1,Deaths,7,North Korea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,7,North Korea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,7,North Korea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,135,Brazil,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,135,Brazil,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,135,Brazil,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,52,Romania,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,52,Romania,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,52,Romania,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,376,Northern Mariana Islands,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,376,Northern Mariana Islands,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,376,Northern Mariana Islands,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,59,Latvia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,59,Latvia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,59,Latvia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,6,China,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,6,China,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,6,China,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,184,Mozambique,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,113.48892528150414,141.18121536304048,91.76658470210847
+1,Deaths,184,Mozambique,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,58.511085441396354,72.17206076433021,47.642669474565366
+1,Deaths,184,Mozambique,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,172.00001072290058,201.98692346978333,147.46375424986076
+1,Deaths,179,Ethiopia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,732.4591070114155,854.2114072364461,644.3030002473957
+1,Deaths,179,Ethiopia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,328.5410951942083,377.7289406480259,289.0435137268982
+1,Deaths,179,Ethiopia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1061.0002022056246,1193.515553523945,957.2828057153564
+1,Deaths,130,Mexico,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,130,Mexico,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,130,Mexico,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,154,Tunisia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,17.77735287282549,23.319946694765306,13.651544814720216
+1,Deaths,154,Tunisia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,7.222647627514816,8.965080438285769,5.781344790389963
+1,Deaths,154,Tunisia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,25.000000500340306,30.625781933054032,20.41900031433068
+1,Deaths,58,Estonia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,58,Estonia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,58,Estonia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,57,Belarus,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,57,Belarus,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,57,Belarus,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,79,Finland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,79,Finland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,79,Finland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,136,Paraguay,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,136,Paraguay,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,136,Paraguay,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,153,Syria,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,29133.14559466741,39123.1899414625,21955.10197704434
+1,Deaths,153,Syria,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,12245.199685912688,15726.269698936567,9606.971675165194
+1,Deaths,153,Syria,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,41378.345280580135,51585.03547251024,33688.654300495466
+1,Deaths,8,Taiwan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,8,Taiwan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,8,Taiwan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,422,"Virgin Islands, U.S.",1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,422,"Virgin Islands, U.S.",2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,422,"Virgin Islands, U.S.",3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,385,Puerto Rico,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,385,Puerto Rico,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,385,Puerto Rico,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,180,Kenya,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,272.45935426394334,294.9648493512612,254.9957877300842
+1,Deaths,180,Kenya,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,118.5399728240111,125.84598022291807,111.71873732150571
+1,Deaths,180,Kenya,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,390.9993270879537,413.89932000254015,371.1493569794183
+1,Deaths,16,Philippines,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,810.4399424642756,985.6837959119896,663.3414940634126
+1,Deaths,16,Philippines,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,327.56005674319766,385.0097018094837,277.09040565942337
+1,Deaths,16,Philippines,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1137.999999207473,1318.5153270364121,978.6370081177672
+1,Deaths,108,Belize,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,108,Belize,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,108,Belize,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,80,France,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,80,France,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,80,France,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,131,Nicaragua,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,131,Nicaragua,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,131,Nicaragua,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,15,Myanmar,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,21.694587335227194,26.321549620603648,17.922281702879317
+1,Deaths,15,Myanmar,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9.305412634746844,10.857698144978816,7.95163963915701
+1,Deaths,15,Myanmar,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,30.99999996997404,35.836258416644824,26.78138820824204
+1,Deaths,435,South Sudan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2868.046498612281,3568.9749062812853,2272.4896241201063
+1,Deaths,435,South Sudan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1356.945318247338,1695.1251162629471,1091.9991234408126
+1,Deaths,435,South Sudan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,4224.991816859614,5000.236614103347,3566.7320783755995
+1,Deaths,155,Turkey,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2121.4816253996723,2772.342179574085,1622.6003035144895
+1,Deaths,155,Turkey,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,844.5191656910455,1053.4601395764473,678.1723416157972
+1,Deaths,155,Turkey,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2966.0007910907184,3673.684267447572,2442.4333908547324
+1,Deaths,212,Mauritania,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.3563787951216688,1.6753849334417799,1.1258342618021262
+1,Deaths,212,Mauritania,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.6436212112128235,0.7764922682983829,0.5341237042112339
+1,Deaths,212,Mauritania,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.0000000063344934,2.3398782724132388,1.7376223421997834
+1,Deaths,10,Cambodia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.7046678077380344,0.8745764933532819,0.5718030280508076
+1,Deaths,10,Cambodia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.29533219236522346,0.34537613762861075,0.24867691984086454
+1,Deaths,10,Cambodia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.0000000001032583,1.1700653214579066,0.8548273895136816
+1,Deaths,213,Niger,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,201.94928437699124,243.23014474454072,164.24035768969554
+1,Deaths,213,Niger,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,106.05071735916175,130.96083808540465,85.9649381614386
+1,Deaths,213,Niger,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,308.0000017361532,356.85311558567366,261.68493218617226
+1,Deaths,81,Germany,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,81,Germany,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,140,Bahrain,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,8.928269603971588,11.98490836787485,6.662192640858157
+1,Deaths,140,Bahrain,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.071729154329589,2.619709668751814,1.6141315660758373
+1,Deaths,140,Bahrain,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,10.999998758301187,14.18972001449835,8.708349073801749
+1,Deaths,109,Cuba,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,109,Cuba,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,109,Cuba,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,214,Nigeria,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2697.411421263432,3310.220062639304,2189.3839482624826
+1,Deaths,214,Nigeria,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1360.5881755749006,1633.2702483153257,1133.0737635734365
+1,Deaths,214,Nigeria,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,4057.9995968383296,4709.2981439711875,3477.325415214915
+1,Deaths,117,Saint Vincent and the Grenadines,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,117,Saint Vincent and the Grenadines,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,117,Saint Vincent and the Grenadines,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,133,Venezuela,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,133,Venezuela,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,133,Venezuela,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,208,Guinea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,18.51019346271238,22.614280809411756,15.028434633244949
+1,Deaths,208,Guinea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9.48980666456866,11.265883433468987,7.918435722396749
+1,Deaths,208,Guinea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,28.000000127281037,32.29207033560361,24.098908268069334
+1,Deaths,132,Panama,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,132,Panama,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,132,Panama,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,209,Guinea-Bissau,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,209,Guinea-Bissau,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,209,Guinea-Bissau,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,33,Armenia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,33,Armenia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,33,Armenia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,141,Egypt,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,852.8487103792679,1128.3292767650155,639.3399295060664
+1,Deaths,141,Egypt,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,336.1511230850759,435.7597269708071,261.5574156567496
+1,Deaths,141,Egypt,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1188.9998334643476,1475.7673938316213,974.3437827865796
+1,Deaths,41,Uzbekistan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,41,Uzbekistan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,41,Uzbekistan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,66,Brunei,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,66,Brunei,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,66,Brunei,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,110,Dominica,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,110,Dominica,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,110,Dominica,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,82,Greece,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,82,Greece,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,82,Greece,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,17,Sri Lanka,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.6930905603219601,0.8306457743338054,0.5728396075273405
+1,Deaths,17,Sri Lanka,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.3069094396617685,0.3591902823726045,0.2613390762513505
+1,Deaths,17,Sri Lanka,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.9999999999837286,1.1416581175395284,0.8689258700103268
+1,Deaths,67,Japan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.6653874376833158,3.009910313056717,2.3547804808147053
+1,Deaths,67,Japan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.3346125117860834,1.4938392592580212,1.1965981151804124
+1,Deaths,67,Japan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.9999999494694025,4.367273575015222,3.658377002724908
+1,Deaths,169,Central African Republic,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1304.6120838626705,1515.7817952812502,1115.4973378535642
+1,Deaths,169,Central African Republic,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,574.3938829427789,656.446219568042,503.5371097909618
+1,Deaths,169,Central African Republic,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1879.0059668054487,2115.370172782868,1677.4286747420017
+1,Deaths,11,Indonesia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,17.219173226519914,19.562344437837666,15.321891167005965
+1,Deaths,11,Indonesia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,6.780826590408009,7.448356562229407,6.165922428727564
+1,Deaths,11,Indonesia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,23.999999816927875,26.441381927941762,22.02721726564577
+1,Deaths,160,Afghanistan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1143.5224342460206,1540.014327835522,830.1677121586546
+1,Deaths,160,Afghanistan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,518.4776928453064,694.0457617940053,376.37482823073225
+1,Deaths,160,Afghanistan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1662.0001270913262,2103.869871675296,1327.7488859687253
+1,Deaths,118,Suriname,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,118,Suriname,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,118,Suriname,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,68,South Korea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,68,South Korea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,68,South Korea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,210,Liberia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.764479293814224,3.3632160722297164,2.2099389607099917
+1,Deaths,210,Liberia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.2355206818116689,1.5001207497927331,1.0292248968944808
+1,Deaths,210,Liberia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.9999999756258817,4.6459310539160565,3.4153488217745887
+1,Deaths,43,Albania,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,43,Albania,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,43,Albania,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,170,Congo,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,17.390735403520008,20.116150179022924,15.151832861106017
+1,Deaths,170,Congo,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,7.6092640906217985,8.721763435946656,6.663862234092063
+1,Deaths,170,Congo,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,24.99999949414177,28.04813708739553,22.524574367721282
+1,Deaths,83,Iceland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,83,Iceland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,83,Iceland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,196,South Africa,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,45.370682466788246,49.324166004663255,41.59572234732784
+1,Deaths,196,South Africa,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,18.629317362860483,19.84891921759844,17.440066674919287
+1,Deaths,196,South Africa,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,63.99999982964868,68.13981887845057,60.10925486831842
+1,Deaths,119,Trinidad and Tobago,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,119,Trinidad and Tobago,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,119,Trinidad and Tobago,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,69,Singapore,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,69,Singapore,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,69,Singapore,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,171,Democratic Republic of the Congo,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1912.8387009923276,2240.9239999103343,1655.1018881914652
+1,Deaths,171,Democratic Republic of the Congo,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,878.1607449531047,1006.0139685898247,769.3068460636812
+1,Deaths,171,Democratic Republic of the Congo,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2790.999445945435,3124.6605601589617,2501.315696007681
+1,Deaths,185,Rwanda,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.7182845786041776,3.3026232572177,2.1885015612595478
+1,Deaths,185,Rwanda,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.2817154195667664,1.542873636102318,1.0455014264531346
+1,Deaths,185,Rwanda,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.999999998170945,4.6568438019843335,3.383152646645629
+1,Deaths,197,Swaziland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,197,Swaziland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,197,Swaziland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,34,Azerbaijan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,34,Azerbaijan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,34,Azerbaijan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,84,Ireland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,84,Ireland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,84,Ireland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,146,Lebanon,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,277.83911263541717,375.28409989255545,203.28709771229236
+1,Deaths,146,Lebanon,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,108.16093649390736,136.99847794180934,84.37034166660085
+1,Deaths,146,Lebanon,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,386.00004912932485,481.30875593120595,306.14957592969813
+1,Deaths,211,Mali,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,579.1417063463766,714.9303217070329,473.1563785332349
+1,Deaths,211,Mali,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,290.85825520748216,355.1285600363646,237.9850481242313
+1,Deaths,211,Mali,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,869.9999615538577,1012.0571154383397,745.2655522404339
+1,Deaths,193,Botswana,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,193,Botswana,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,193,Botswana,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,111,Dominican Republic,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,111,Dominican Republic,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,111,Dominican Republic,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,116,Saint Lucia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,116,Saint Lucia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,116,Saint Lucia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,13,Malaysia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,13,Malaysia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,13,Malaysia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,12,Laos,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.4276776417449966,1.75275870367328,1.1541026325827797
+1,Deaths,12,Laos,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.5723223628553559,0.6744694209799895,0.4768905702099895
+1,Deaths,12,Laos,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.0000000046003508,2.3590932055255256,1.6961751540477117
+1,Deaths,14,Maldives,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,14,Maldives,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,14,Maldives,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,194,Lesotho,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.795910237900084,3.32818415465239,2.3320786124465847
+1,Deaths,194,Lesotho,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.2040898155230728,1.378403929409089,1.0451924035029296
+1,Deaths,194,Lesotho,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,4.000000053423166,4.586901370317784,3.5197881823422037
+1,Deaths,115,Jamaica,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,115,Jamaica,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,115,Jamaica,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,187,Somalia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,3756.4332266298525,4688.443741141777,3027.1190447048816
+1,Deaths,187,Somalia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1688.5579253143985,2083.7594010257594,1364.7262843247395
+1,Deaths,187,Somalia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,5444.991151944242,6389.7753049097,4598.329084561464
+1,Deaths,91,Portugal,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,91,Portugal,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,91,Portugal,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,60,Lithuania,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,60,Lithuania,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,60,Lithuania,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,161,Bangladesh,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,84.15088078793164,89.34276576750385,79.21380849990999
+1,Deaths,161,Bangladesh,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,34.84911885965393,36.713474595324435,32.955966945423
+1,Deaths,161,Bangladesh,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,118.99999964758574,124.59594423835163,113.69765919973848
+1,Deaths,186,Seychelles,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,186,Seychelles,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,186,Seychelles,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,85,Israel,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,14.528105049635473,16.514980842412857,12.840597923236293
+1,Deaths,85,Israel,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,6.471894653197224,7.263043693676683,5.839818851458102
+1,Deaths,85,Israel,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,20.999999702832717,23.054082262039532,19.136946788838976
+1,Deaths,114,Haiti,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,114,Haiti,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,114,Haiti,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,90,Norway,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,90,Norway,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,90,Norway,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,198,Zimbabwe,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,3.371853004689034,4.0396002801682505,2.8522216827516256
+1,Deaths,198,Zimbabwe,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.6281469745717585,1.8978368289782848,1.4067391248937418
+1,Deaths,198,Zimbabwe,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,4.999999979260797,5.694211845272236,4.4281454128199496
+1,Deaths,218,Togo,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,14.346976128698197,17.52669142084415,11.793207120001119
+1,Deaths,218,Togo,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,6.653023656868592,7.9676658390519,5.538909057803749
+1,Deaths,218,Togo,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,20.99999978556676,24.46442677529013,18.078895667891107
+1,Deaths,195,Namibia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.692084099431334,0.8239389770339229,0.5836734387161503
+1,Deaths,195,Namibia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.3079159001352925,0.35629847516574703,0.26666874245921235
+1,Deaths,195,Namibia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.999999999566624,1.1392760690914998,0.8787626272716356
+1,Deaths,37,Kyrgyzstan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,37,Kyrgyzstan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,37,Kyrgyzstan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,71,Australia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,71,Australia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,71,Australia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,147,Libya,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1116.528515637742,1453.7585474912514,849.8889957733072
+1,Deaths,147,Libya,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,408.4715627075768,517.7048252038012,321.44119563783363
+1,Deaths,147,Libya,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,1525.0000783453204,1877.454332539,1222.2077117503059
+1,Deaths,35,Georgia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,35,Georgia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,35,Georgia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,61,Moldova,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,61,Moldova,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,61,Moldova,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,72,New Zealand,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,72,New Zealand,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,72,New Zealand,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,168,Angola,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,37.05649607377129,42.68928948418455,32.15701023135487
+1,Deaths,168,Angola,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,18.943503741221164,21.71780534488441,16.43630742483611
+1,Deaths,168,Angola,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,55.999999814992506,62.35910413893074,50.23598238550582
+1,Deaths,39,Tajikistan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,39,Tajikistan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,39,Tajikistan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,215,Sao Tome and Principe,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,215,Sao Tome and Principe,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,215,Sao Tome and Principe,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,92,Spain,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,92,Spain,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,92,Spain,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,89,Netherlands,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,89,Netherlands,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,89,Netherlands,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,112,Grenada,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,112,Grenada,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,112,Grenada,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,190,Uganda,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,18.69006187985513,23.310773745723424,14.954018252508016
+1,Deaths,190,Uganda,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9.309937993558863,11.475653354425852,7.479623016247473
+1,Deaths,190,Uganda,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,27.999999873413948,32.75406082134828,23.696615690639057
+1,Deaths,216,Senegal,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,216,Senegal,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,216,Senegal,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,18,Thailand,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,23.327033452602453,28.00848813679686,19.455774468958236
+1,Deaths,18,Thailand,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9.67296652041152,11.202393865784543,8.36024965201351
+1,Deaths,18,Thailand,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,32.99999997301389,37.888787081013774,29.018288464542252
+1,Deaths,86,Italy,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,86,Italy,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,86,Italy,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,94,Switzerland,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,94,Switzerland,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,94,Switzerland,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,189,Tanzania,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,28.70105745733685,35.80673623705421,22.899275512297496
+1,Deaths,189,Tanzania,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,14.298942273518865,17.374360342767147,11.761781693226066
+1,Deaths,189,Tanzania,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,42.999999730855805,50.438427384481145,36.75780414452903
+1,Deaths,113,Guyana,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,113,Guyana,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,113,Guyana,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,38,Mongolia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,38,Mongolia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,38,Mongolia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,20,Vietnam,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,20,Vietnam,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,20,Vietnam,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,142,Iran,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,68.63802095603143,80.35999455357411,59.63706515231583
+1,Deaths,142,Iran,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,25.36197852754525,28.51061466072351,22.67242247322921
+1,Deaths,142,Iran,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,93.99999948357662,105.59115678814659,84.45849069762829
+1,Deaths,139,Algeria,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,97.12460268520908,130.62576714722817,73.34540663894336
+1,Deaths,139,Algeria,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,37.87539358768702,47.842028708427286,29.831259122061606
+1,Deaths,139,Algeria,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,134.99999627289623,169.5752085601251,110.05847208322113
+1,Deaths,19,Timor-Leste,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,19,Timor-Leste,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,19,Timor-Leste,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,191,Zambia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.6815031304634802,0.8517954075307377,0.5453558138786259
+1,Deaths,191,Zambia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.318496869214907,0.3877195840831592,0.2594286407977669
+1,Deaths,191,Zambia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.9999999996783864,1.1721870919049022,0.8479731492519874
+1,Deaths,93,Sweden,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,93,Sweden,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,93,Sweden,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,148,Morocco,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,1.4302358755551856,1.8764501314776112,1.0823472247360677
+1,Deaths,148,Morocco,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.5697641247692693,0.7036223897193672,0.4564304445777847
+1,Deaths,148,Morocco,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,2.000000000324456,2.4428415744391065,1.6259454444804993
+1,Deaths,121,Bolivia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,121,Bolivia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,121,Bolivia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,162,Bhutan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,162,Bhutan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,162,Bhutan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,40,Turkmenistan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,40,Turkmenistan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,40,Turkmenistan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,165,Pakistan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,338.03932311730813,359.1108146950441,315.1213274774491
+1,Deaths,165,Pakistan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,135.96067524232245,143.5769043870996,128.57914864715852
+1,Deaths,165,Pakistan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,473.9999983596303,497.5338066433439,448.9085322477169
+1,Deaths,122,Ecuador,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,122,Ecuador,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,122,Ecuador,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,88,Malta,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,88,Malta,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,88,Malta,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,164,Nepal,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,164,Nepal,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,164,Nepal,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,163,India,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,554.7322213032015,564.5363585604695,545.0473891202228
+1,Deaths,163,India,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,211.26778234403042,214.34094553849047,208.43876903349118
+1,Deaths,163,India,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,766.0000036472311,776.3975788821219,756.416982754114
+1,Deaths,95,United Kingdom,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,95,United Kingdom,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,95,United Kingdom,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,145,Kuwait,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,145,Kuwait,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,145,Kuwait,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,217,Sierra Leone,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,217,Sierra Leone,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,217,Sierra Leone,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,36,Kazakhstan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,36,Kazakhstan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,36,Kazakhstan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,45,Bulgaria,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,45,Bulgaria,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,45,Bulgaria,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,143,Iraq,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,23701.60054387176,31876.20030607188,17736.66422001793
+1,Deaths,143,Iraq,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9538.513506526477,12501.421856881314,7235.930316827464
+1,Deaths,143,Iraq,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,33240.11405039822,41545.32510979672,26675.676077643846
+1,Deaths,298,American Samoa,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,298,American Samoa,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,298,American Samoa,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,44,Bosnia and Herzegovina,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,44,Bosnia and Herzegovina,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,44,Bosnia and Herzegovina,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,22,Fiji,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,22,Fiji,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,22,Fiji,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,62,Russian Federation,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,88.15594624346092,88.93844833016708,87.36199732324147
+1,Deaths,62,Russian Federation,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,42.84405375407845,43.141976703320154,42.542321138617
+1,Deaths,62,Russian Federation,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,130.99999999753942,131.8706945605453,130.13657405589794
+1,Deaths,87,Luxembourg,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,87,Luxembourg,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,87,Luxembourg,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,46,Croatia,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,46,Croatia,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,46,Croatia,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,63,Ukraine,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,321.18103970199206,339.2971875600623,303.3881369621932
+1,Deaths,63,Ukraine,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,156.81897201992612,162.99027342500554,150.31404374426828
+1,Deaths,63,Ukraine,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,478.00001172191867,497.01477989793386,457.8559783039505
+1,Deaths,47,Czech Republic,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,47,Czech Republic,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,47,Czech Republic,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,172,Equatorial Guinea,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,172,Equatorial Guinea,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,172,Equatorial Guinea,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,144,Jordan,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,25.855372785813646,34.865764365713126,18.76655826691684
+1,Deaths,144,Jordan,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,9.144626847345519,11.589452693261233,7.130398344873803
+1,Deaths,144,Jordan,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,34.999999633159234,44.20485337376502,27.52322346720748
+1,Deaths,97,Argentina,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,97,Argentina,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,97,Argentina,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,173,Gabon,1,Male,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,173,Gabon,2,Female,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
+1,Deaths,173,Gabon,3,Both,22,All Ages,945,Conflict and terrorism,1,Number,2017,0.0,0.0,0.0
